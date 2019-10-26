@@ -1,0 +1,11993 @@
+[
+  {
+    "icon": "mdiAccessPoint"
+  },
+  {
+    "icon": "mdiAccessPointNetwork"
+  },
+  {
+    "icon": "mdiAccessPointNetworkOff"
+  },
+  {
+    "icon": "mdiAccount"
+  },
+  {
+    "icon": "mdiAccountAlert"
+  },
+  {
+    "icon": "mdiAccountAlertOutline"
+  },
+  {
+    "icon": "mdiAccountArrowLeft"
+  },
+  {
+    "icon": "mdiAccountArrowLeftOutline"
+  },
+  {
+    "icon": "mdiAccountArrowRight"
+  },
+  {
+    "icon": "mdiAccountArrowRightOutline"
+  },
+  {
+    "icon": "mdiAccountBadge"
+  },
+  {
+    "icon": "mdiAccountBadgeAlert"
+  },
+  {
+    "icon": "mdiAccountBadgeAlertOutline"
+  },
+  {
+    "icon": "mdiAccountBadgeHorizontal"
+  },
+  {
+    "icon": "mdiAccountBadgeHorizontalOutline"
+  },
+  {
+    "icon": "mdiAccountBadgeOutline"
+  },
+  {
+    "icon": "mdiAccountBox"
+  },
+  {
+    "icon": "mdiAccountBoxMultiple"
+  },
+  {
+    "icon": "mdiAccountBoxOutline"
+  },
+  {
+    "icon": "mdiAccountCardDetails"
+  },
+  {
+    "icon": "mdiAccountCardDetailsOutline"
+  },
+  {
+    "icon": "mdiAccountCheck"
+  },
+  {
+    "icon": "mdiAccountCheckOutline"
+  },
+  {
+    "icon": "mdiAccountChild"
+  },
+  {
+    "icon": "mdiAccountChildCircle"
+  },
+  {
+    "icon": "mdiAccountCircle"
+  },
+  {
+    "icon": "mdiAccountCircleOutline"
+  },
+  {
+    "icon": "mdiAccountClock"
+  },
+  {
+    "icon": "mdiAccountClockOutline"
+  },
+  {
+    "icon": "mdiAccountConvert"
+  },
+  {
+    "icon": "mdiAccountDetails"
+  },
+  {
+    "icon": "mdiAccountEdit"
+  },
+  {
+    "icon": "mdiAccountGroup"
+  },
+  {
+    "icon": "mdiAccountGroupOutline"
+  },
+  {
+    "icon": "mdiAccountHeart"
+  },
+  {
+    "icon": "mdiAccountHeartOutline"
+  },
+  {
+    "icon": "mdiAccountKey"
+  },
+  {
+    "icon": "mdiAccountKeyOutline"
+  },
+  {
+    "icon": "mdiAccountMinus"
+  },
+  {
+    "icon": "mdiAccountMinusOutline"
+  },
+  {
+    "icon": "mdiAccountMultiple"
+  },
+  {
+    "icon": "mdiAccountMultipleCheck"
+  },
+  {
+    "icon": "mdiAccountMultipleMinus"
+  },
+  {
+    "icon": "mdiAccountMultipleMinusOutline"
+  },
+  {
+    "icon": "mdiAccountMultipleOutline"
+  },
+  {
+    "icon": "mdiAccountMultiplePlus"
+  },
+  {
+    "icon": "mdiAccountMultiplePlusOutline"
+  },
+  {
+    "icon": "mdiAccountNetwork"
+  },
+  {
+    "icon": "mdiAccountNetworkOutline"
+  },
+  {
+    "icon": "mdiAccountOff"
+  },
+  {
+    "icon": "mdiAccountOffOutline"
+  },
+  {
+    "icon": "mdiAccountOutline"
+  },
+  {
+    "icon": "mdiAccountPlus"
+  },
+  {
+    "icon": "mdiAccountPlusOutline"
+  },
+  {
+    "icon": "mdiAccountQuestion"
+  },
+  {
+    "icon": "mdiAccountQuestionOutline"
+  },
+  {
+    "icon": "mdiAccountRemove"
+  },
+  {
+    "icon": "mdiAccountRemoveOutline"
+  },
+  {
+    "icon": "mdiAccountSearch"
+  },
+  {
+    "icon": "mdiAccountSearchOutline"
+  },
+  {
+    "icon": "mdiAccountSettings"
+  },
+  {
+    "icon": "mdiAccountStar"
+  },
+  {
+    "icon": "mdiAccountStarOutline"
+  },
+  {
+    "icon": "mdiAccountSupervisor"
+  },
+  {
+    "icon": "mdiAccountSupervisorCircle"
+  },
+  {
+    "icon": "mdiAccountSwitch"
+  },
+  {
+    "icon": "mdiAccountTie"
+  },
+  {
+    "icon": "mdiAccusoft"
+  },
+  {
+    "icon": "mdiAdchoices"
+  },
+  {
+    "icon": "mdiAdjust"
+  },
+  {
+    "icon": "mdiAdobe"
+  },
+  {
+    "icon": "mdiAirConditioner"
+  },
+  {
+    "icon": "mdiAirFilter"
+  },
+  {
+    "icon": "mdiAirHorn"
+  },
+  {
+    "icon": "mdiAirPurifier"
+  },
+  {
+    "icon": "mdiAirbag"
+  },
+  {
+    "icon": "mdiAirballoon"
+  },
+  {
+    "icon": "mdiAirplane"
+  },
+  {
+    "icon": "mdiAirplaneLanding"
+  },
+  {
+    "icon": "mdiAirplaneOff"
+  },
+  {
+    "icon": "mdiAirplaneTakeoff"
+  },
+  {
+    "icon": "mdiAirplay"
+  },
+  {
+    "icon": "mdiAirport"
+  },
+  {
+    "icon": "mdiAlarm"
+  },
+  {
+    "icon": "mdiAlarmBell"
+  },
+  {
+    "icon": "mdiAlarmCheck"
+  },
+  {
+    "icon": "mdiAlarmLight"
+  },
+  {
+    "icon": "mdiAlarmLightOutline"
+  },
+  {
+    "icon": "mdiAlarmMultiple"
+  },
+  {
+    "icon": "mdiAlarmNote"
+  },
+  {
+    "icon": "mdiAlarmNoteOff"
+  },
+  {
+    "icon": "mdiAlarmOff"
+  },
+  {
+    "icon": "mdiAlarmPlus"
+  },
+  {
+    "icon": "mdiAlarmSnooze"
+  },
+  {
+    "icon": "mdiAlbum"
+  },
+  {
+    "icon": "mdiAlert"
+  },
+  {
+    "icon": "mdiAlertBox"
+  },
+  {
+    "icon": "mdiAlertBoxOutline"
+  },
+  {
+    "icon": "mdiAlertCircle"
+  },
+  {
+    "icon": "mdiAlertCircleOutline"
+  },
+  {
+    "icon": "mdiAlertDecagram"
+  },
+  {
+    "icon": "mdiAlertDecagramOutline"
+  },
+  {
+    "icon": "mdiAlertOctagon"
+  },
+  {
+    "icon": "mdiAlertOctagonOutline"
+  },
+  {
+    "icon": "mdiAlertOctagram"
+  },
+  {
+    "icon": "mdiAlertOctagramOutline"
+  },
+  {
+    "icon": "mdiAlertOutline"
+  },
+  {
+    "icon": "mdiAlien"
+  },
+  {
+    "icon": "mdiAllInclusive"
+  },
+  {
+    "icon": "mdiAlpha"
+  },
+  {
+    "icon": "mdiAlphaA"
+  },
+  {
+    "icon": "mdiAlphaABox"
+  },
+  {
+    "icon": "mdiAlphaABoxOutline"
+  },
+  {
+    "icon": "mdiAlphaACircle"
+  },
+  {
+    "icon": "mdiAlphaACircleOutline"
+  },
+  {
+    "icon": "mdiAlphaB"
+  },
+  {
+    "icon": "mdiAlphaBBox"
+  },
+  {
+    "icon": "mdiAlphaBBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaBCircle"
+  },
+  {
+    "icon": "mdiAlphaBCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaC"
+  },
+  {
+    "icon": "mdiAlphaCBox"
+  },
+  {
+    "icon": "mdiAlphaCBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaCCircle"
+  },
+  {
+    "icon": "mdiAlphaCCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaD"
+  },
+  {
+    "icon": "mdiAlphaDBox"
+  },
+  {
+    "icon": "mdiAlphaDBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaDCircle"
+  },
+  {
+    "icon": "mdiAlphaDCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaE"
+  },
+  {
+    "icon": "mdiAlphaEBox"
+  },
+  {
+    "icon": "mdiAlphaEBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaECircle"
+  },
+  {
+    "icon": "mdiAlphaECircleOutline"
+  },
+  {
+    "icon": "mdiAlphaF"
+  },
+  {
+    "icon": "mdiAlphaFBox"
+  },
+  {
+    "icon": "mdiAlphaFBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaFCircle"
+  },
+  {
+    "icon": "mdiAlphaFCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaG"
+  },
+  {
+    "icon": "mdiAlphaGBox"
+  },
+  {
+    "icon": "mdiAlphaGBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaGCircle"
+  },
+  {
+    "icon": "mdiAlphaGCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaH"
+  },
+  {
+    "icon": "mdiAlphaHBox"
+  },
+  {
+    "icon": "mdiAlphaHBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaHCircle"
+  },
+  {
+    "icon": "mdiAlphaHCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaI"
+  },
+  {
+    "icon": "mdiAlphaIBox"
+  },
+  {
+    "icon": "mdiAlphaIBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaICircle"
+  },
+  {
+    "icon": "mdiAlphaICircleOutline"
+  },
+  {
+    "icon": "mdiAlphaJ"
+  },
+  {
+    "icon": "mdiAlphaJBox"
+  },
+  {
+    "icon": "mdiAlphaJBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaJCircle"
+  },
+  {
+    "icon": "mdiAlphaJCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaK"
+  },
+  {
+    "icon": "mdiAlphaKBox"
+  },
+  {
+    "icon": "mdiAlphaKBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaKCircle"
+  },
+  {
+    "icon": "mdiAlphaKCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaL"
+  },
+  {
+    "icon": "mdiAlphaLBox"
+  },
+  {
+    "icon": "mdiAlphaLBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaLCircle"
+  },
+  {
+    "icon": "mdiAlphaLCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaM"
+  },
+  {
+    "icon": "mdiAlphaMBox"
+  },
+  {
+    "icon": "mdiAlphaMBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaMCircle"
+  },
+  {
+    "icon": "mdiAlphaMCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaN"
+  },
+  {
+    "icon": "mdiAlphaNBox"
+  },
+  {
+    "icon": "mdiAlphaNBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaNCircle"
+  },
+  {
+    "icon": "mdiAlphaNCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaO"
+  },
+  {
+    "icon": "mdiAlphaOBox"
+  },
+  {
+    "icon": "mdiAlphaOBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaOCircle"
+  },
+  {
+    "icon": "mdiAlphaOCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaP"
+  },
+  {
+    "icon": "mdiAlphaPBox"
+  },
+  {
+    "icon": "mdiAlphaPBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaPCircle"
+  },
+  {
+    "icon": "mdiAlphaPCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaQ"
+  },
+  {
+    "icon": "mdiAlphaQBox"
+  },
+  {
+    "icon": "mdiAlphaQBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaQCircle"
+  },
+  {
+    "icon": "mdiAlphaQCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaR"
+  },
+  {
+    "icon": "mdiAlphaRBox"
+  },
+  {
+    "icon": "mdiAlphaRBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaRCircle"
+  },
+  {
+    "icon": "mdiAlphaRCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaS"
+  },
+  {
+    "icon": "mdiAlphaSBox"
+  },
+  {
+    "icon": "mdiAlphaSBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaSCircle"
+  },
+  {
+    "icon": "mdiAlphaSCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaT"
+  },
+  {
+    "icon": "mdiAlphaTBox"
+  },
+  {
+    "icon": "mdiAlphaTBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaTCircle"
+  },
+  {
+    "icon": "mdiAlphaTCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaU"
+  },
+  {
+    "icon": "mdiAlphaUBox"
+  },
+  {
+    "icon": "mdiAlphaUBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaUCircle"
+  },
+  {
+    "icon": "mdiAlphaUCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaV"
+  },
+  {
+    "icon": "mdiAlphaVBox"
+  },
+  {
+    "icon": "mdiAlphaVBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaVCircle"
+  },
+  {
+    "icon": "mdiAlphaVCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaW"
+  },
+  {
+    "icon": "mdiAlphaWBox"
+  },
+  {
+    "icon": "mdiAlphaWBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaWCircle"
+  },
+  {
+    "icon": "mdiAlphaWCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaX"
+  },
+  {
+    "icon": "mdiAlphaXBox"
+  },
+  {
+    "icon": "mdiAlphaXBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaXCircle"
+  },
+  {
+    "icon": "mdiAlphaXCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaY"
+  },
+  {
+    "icon": "mdiAlphaYBox"
+  },
+  {
+    "icon": "mdiAlphaYBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaYCircle"
+  },
+  {
+    "icon": "mdiAlphaYCircleOutline"
+  },
+  {
+    "icon": "mdiAlphaZ"
+  },
+  {
+    "icon": "mdiAlphaZBox"
+  },
+  {
+    "icon": "mdiAlphaZBoxOutline"
+  },
+  {
+    "icon": "mdiAlphaZCircle"
+  },
+  {
+    "icon": "mdiAlphaZCircleOutline"
+  },
+  {
+    "icon": "mdiAlphabetical"
+  },
+  {
+    "icon": "mdiAltimeter"
+  },
+  {
+    "icon": "mdiAmazon"
+  },
+  {
+    "icon": "mdiAmazonAlexa"
+  },
+  {
+    "icon": "mdiAmazonDrive"
+  },
+  {
+    "icon": "mdiAmbulance"
+  },
+  {
+    "icon": "mdiAmmunition"
+  },
+  {
+    "icon": "mdiAmpersand"
+  },
+  {
+    "icon": "mdiAmplifier"
+  },
+  {
+    "icon": "mdiAnchor"
+  },
+  {
+    "icon": "mdiAndroid"
+  },
+  {
+    "icon": "mdiAndroidAuto"
+  },
+  {
+    "icon": "mdiAndroidDebugBridge"
+  },
+  {
+    "icon": "mdiAndroidHead"
+  },
+  {
+    "icon": "mdiAndroidMessages"
+  },
+  {
+    "icon": "mdiAndroidStudio"
+  },
+  {
+    "icon": "mdiAngleAcute"
+  },
+  {
+    "icon": "mdiAngleObtuse"
+  },
+  {
+    "icon": "mdiAngleRight"
+  },
+  {
+    "icon": "mdiAngular"
+  },
+  {
+    "icon": "mdiAngularjs"
+  },
+  {
+    "icon": "mdiAnimation"
+  },
+  {
+    "icon": "mdiAnimationOutline"
+  },
+  {
+    "icon": "mdiAnimationPlay"
+  },
+  {
+    "icon": "mdiAnimationPlayOutline"
+  },
+  {
+    "icon": "mdiAnvil"
+  },
+  {
+    "icon": "mdiApple"
+  },
+  {
+    "icon": "mdiAppleFinder"
+  },
+  {
+    "icon": "mdiAppleIcloud"
+  },
+  {
+    "icon": "mdiAppleIos"
+  },
+  {
+    "icon": "mdiAppleKeyboardCaps"
+  },
+  {
+    "icon": "mdiAppleKeyboardCommand"
+  },
+  {
+    "icon": "mdiAppleKeyboardControl"
+  },
+  {
+    "icon": "mdiAppleKeyboardOption"
+  },
+  {
+    "icon": "mdiAppleKeyboardShift"
+  },
+  {
+    "icon": "mdiAppleSafari"
+  },
+  {
+    "icon": "mdiApplication"
+  },
+  {
+    "icon": "mdiApplicationExport"
+  },
+  {
+    "icon": "mdiApplicationImport"
+  },
+  {
+    "icon": "mdiApps"
+  },
+  {
+    "icon": "mdiAppsBox"
+  },
+  {
+    "icon": "mdiArch"
+  },
+  {
+    "icon": "mdiArchive"
+  },
+  {
+    "icon": "mdiArrangeBringForward"
+  },
+  {
+    "icon": "mdiArrangeBringToFront"
+  },
+  {
+    "icon": "mdiArrangeSendBackward"
+  },
+  {
+    "icon": "mdiArrangeSendToBack"
+  },
+  {
+    "icon": "mdiArrowAll"
+  },
+  {
+    "icon": "mdiArrowBottomLeft"
+  },
+  {
+    "icon": "mdiArrowBottomLeftBoldOutline"
+  },
+  {
+    "icon": "mdiArrowBottomLeftThick"
+  },
+  {
+    "icon": "mdiArrowBottomRight"
+  },
+  {
+    "icon": "mdiArrowBottomRightBoldOutline"
+  },
+  {
+    "icon": "mdiArrowBottomRightThick"
+  },
+  {
+    "icon": "mdiArrowCollapse"
+  },
+  {
+    "icon": "mdiArrowCollapseAll"
+  },
+  {
+    "icon": "mdiArrowCollapseDown"
+  },
+  {
+    "icon": "mdiArrowCollapseHorizontal"
+  },
+  {
+    "icon": "mdiArrowCollapseLeft"
+  },
+  {
+    "icon": "mdiArrowCollapseRight"
+  },
+  {
+    "icon": "mdiArrowCollapseUp"
+  },
+  {
+    "icon": "mdiArrowCollapseVertical"
+  },
+  {
+    "icon": "mdiArrowDecision"
+  },
+  {
+    "icon": "mdiArrowDecisionAuto"
+  },
+  {
+    "icon": "mdiArrowDecisionAutoOutline"
+  },
+  {
+    "icon": "mdiArrowDecisionOutline"
+  },
+  {
+    "icon": "mdiArrowDown"
+  },
+  {
+    "icon": "mdiArrowDownBold"
+  },
+  {
+    "icon": "mdiArrowDownBoldBox"
+  },
+  {
+    "icon": "mdiArrowDownBoldBoxOutline"
+  },
+  {
+    "icon": "mdiArrowDownBoldCircle"
+  },
+  {
+    "icon": "mdiArrowDownBoldCircleOutline"
+  },
+  {
+    "icon": "mdiArrowDownBoldHexagonOutline"
+  },
+  {
+    "icon": "mdiArrowDownBoldOutline"
+  },
+  {
+    "icon": "mdiArrowDownBox"
+  },
+  {
+    "icon": "mdiArrowDownCircle"
+  },
+  {
+    "icon": "mdiArrowDownCircleOutline"
+  },
+  {
+    "icon": "mdiArrowDownDropCircle"
+  },
+  {
+    "icon": "mdiArrowDownDropCircleOutline"
+  },
+  {
+    "icon": "mdiArrowDownThick"
+  },
+  {
+    "icon": "mdiArrowExpand"
+  },
+  {
+    "icon": "mdiArrowExpandAll"
+  },
+  {
+    "icon": "mdiArrowExpandDown"
+  },
+  {
+    "icon": "mdiArrowExpandHorizontal"
+  },
+  {
+    "icon": "mdiArrowExpandLeft"
+  },
+  {
+    "icon": "mdiArrowExpandRight"
+  },
+  {
+    "icon": "mdiArrowExpandUp"
+  },
+  {
+    "icon": "mdiArrowExpandVertical"
+  },
+  {
+    "icon": "mdiArrowLeft"
+  },
+  {
+    "icon": "mdiArrowLeftBold"
+  },
+  {
+    "icon": "mdiArrowLeftBoldBox"
+  },
+  {
+    "icon": "mdiArrowLeftBoldBoxOutline"
+  },
+  {
+    "icon": "mdiArrowLeftBoldCircle"
+  },
+  {
+    "icon": "mdiArrowLeftBoldCircleOutline"
+  },
+  {
+    "icon": "mdiArrowLeftBoldHexagonOutline"
+  },
+  {
+    "icon": "mdiArrowLeftBoldOutline"
+  },
+  {
+    "icon": "mdiArrowLeftBox"
+  },
+  {
+    "icon": "mdiArrowLeftCircle"
+  },
+  {
+    "icon": "mdiArrowLeftCircleOutline"
+  },
+  {
+    "icon": "mdiArrowLeftDropCircle"
+  },
+  {
+    "icon": "mdiArrowLeftDropCircleOutline"
+  },
+  {
+    "icon": "mdiArrowLeftRight"
+  },
+  {
+    "icon": "mdiArrowLeftRightBold"
+  },
+  {
+    "icon": "mdiArrowLeftRightBoldOutline"
+  },
+  {
+    "icon": "mdiArrowLeftThick"
+  },
+  {
+    "icon": "mdiArrowRight"
+  },
+  {
+    "icon": "mdiArrowRightBold"
+  },
+  {
+    "icon": "mdiArrowRightBoldBox"
+  },
+  {
+    "icon": "mdiArrowRightBoldBoxOutline"
+  },
+  {
+    "icon": "mdiArrowRightBoldCircle"
+  },
+  {
+    "icon": "mdiArrowRightBoldCircleOutline"
+  },
+  {
+    "icon": "mdiArrowRightBoldHexagonOutline"
+  },
+  {
+    "icon": "mdiArrowRightBoldOutline"
+  },
+  {
+    "icon": "mdiArrowRightBox"
+  },
+  {
+    "icon": "mdiArrowRightCircle"
+  },
+  {
+    "icon": "mdiArrowRightCircleOutline"
+  },
+  {
+    "icon": "mdiArrowRightDropCircle"
+  },
+  {
+    "icon": "mdiArrowRightDropCircleOutline"
+  },
+  {
+    "icon": "mdiArrowRightThick"
+  },
+  {
+    "icon": "mdiArrowSplitHorizontal"
+  },
+  {
+    "icon": "mdiArrowSplitVertical"
+  },
+  {
+    "icon": "mdiArrowTopLeft"
+  },
+  {
+    "icon": "mdiArrowTopLeftBoldOutline"
+  },
+  {
+    "icon": "mdiArrowTopLeftBottomRight"
+  },
+  {
+    "icon": "mdiArrowTopLeftBottomRightBold"
+  },
+  {
+    "icon": "mdiArrowTopLeftThick"
+  },
+  {
+    "icon": "mdiArrowTopRight"
+  },
+  {
+    "icon": "mdiArrowTopRightBoldOutline"
+  },
+  {
+    "icon": "mdiArrowTopRightBottomLeft"
+  },
+  {
+    "icon": "mdiArrowTopRightBottomLeftBold"
+  },
+  {
+    "icon": "mdiArrowTopRightThick"
+  },
+  {
+    "icon": "mdiArrowUp"
+  },
+  {
+    "icon": "mdiArrowUpBold"
+  },
+  {
+    "icon": "mdiArrowUpBoldBox"
+  },
+  {
+    "icon": "mdiArrowUpBoldBoxOutline"
+  },
+  {
+    "icon": "mdiArrowUpBoldCircle"
+  },
+  {
+    "icon": "mdiArrowUpBoldCircleOutline"
+  },
+  {
+    "icon": "mdiArrowUpBoldHexagonOutline"
+  },
+  {
+    "icon": "mdiArrowUpBoldOutline"
+  },
+  {
+    "icon": "mdiArrowUpBox"
+  },
+  {
+    "icon": "mdiArrowUpCircle"
+  },
+  {
+    "icon": "mdiArrowUpCircleOutline"
+  },
+  {
+    "icon": "mdiArrowUpDown"
+  },
+  {
+    "icon": "mdiArrowUpDownBold"
+  },
+  {
+    "icon": "mdiArrowUpDownBoldOutline"
+  },
+  {
+    "icon": "mdiArrowUpDropCircle"
+  },
+  {
+    "icon": "mdiArrowUpDropCircleOutline"
+  },
+  {
+    "icon": "mdiArrowUpThick"
+  },
+  {
+    "icon": "mdiArtist"
+  },
+  {
+    "icon": "mdiArtistOutline"
+  },
+  {
+    "icon": "mdiArtstation"
+  },
+  {
+    "icon": "mdiAspectRatio"
+  },
+  {
+    "icon": "mdiAssistant"
+  },
+  {
+    "icon": "mdiAsterisk"
+  },
+  {
+    "icon": "mdiAt"
+  },
+  {
+    "icon": "mdiAtlassian"
+  },
+  {
+    "icon": "mdiAtm"
+  },
+  {
+    "icon": "mdiAtom"
+  },
+  {
+    "icon": "mdiAtomVariant"
+  },
+  {
+    "icon": "mdiAttachment"
+  },
+  {
+    "icon": "mdiAudioVideo"
+  },
+  {
+    "icon": "mdiAudiobook"
+  },
+  {
+    "icon": "mdiAugmentedReality"
+  },
+  {
+    "icon": "mdiAutoFix"
+  },
+  {
+    "icon": "mdiAutoUpload"
+  },
+  {
+    "icon": "mdiAutorenew"
+  },
+  {
+    "icon": "mdiAvTimer"
+  },
+  {
+    "icon": "mdiAws"
+  },
+  {
+    "icon": "mdiAxe"
+  },
+  {
+    "icon": "mdiAxis"
+  },
+  {
+    "icon": "mdiAxisArrow"
+  },
+  {
+    "icon": "mdiAxisArrowLock"
+  },
+  {
+    "icon": "mdiAxisLock"
+  },
+  {
+    "icon": "mdiAxisXArrow"
+  },
+  {
+    "icon": "mdiAxisXArrowLock"
+  },
+  {
+    "icon": "mdiAxisXRotateClockwise"
+  },
+  {
+    "icon": "mdiAxisXRotateCounterclockwise"
+  },
+  {
+    "icon": "mdiAxisXYArrowLock"
+  },
+  {
+    "icon": "mdiAxisYArrow"
+  },
+  {
+    "icon": "mdiAxisYArrowLock"
+  },
+  {
+    "icon": "mdiAxisYRotateClockwise"
+  },
+  {
+    "icon": "mdiAxisYRotateCounterclockwise"
+  },
+  {
+    "icon": "mdiAxisZArrow"
+  },
+  {
+    "icon": "mdiAxisZArrowLock"
+  },
+  {
+    "icon": "mdiAxisZRotateClockwise"
+  },
+  {
+    "icon": "mdiAxisZRotateCounterclockwise"
+  },
+  {
+    "icon": "mdiAzure"
+  },
+  {
+    "icon": "mdiBabel"
+  },
+  {
+    "icon": "mdiBaby"
+  },
+  {
+    "icon": "mdiBabyBottle"
+  },
+  {
+    "icon": "mdiBabyBottleOutline"
+  },
+  {
+    "icon": "mdiBabyBuggy"
+  },
+  {
+    "icon": "mdiBabyFace"
+  },
+  {
+    "icon": "mdiBabyFaceOutline"
+  },
+  {
+    "icon": "mdiBackburger"
+  },
+  {
+    "icon": "mdiBackspace"
+  },
+  {
+    "icon": "mdiBackspaceOutline"
+  },
+  {
+    "icon": "mdiBackspaceReverse"
+  },
+  {
+    "icon": "mdiBackspaceReverseOutline"
+  },
+  {
+    "icon": "mdiBackupRestore"
+  },
+  {
+    "icon": "mdiBacteria"
+  },
+  {
+    "icon": "mdiBacteriaOutline"
+  },
+  {
+    "icon": "mdiBadminton"
+  },
+  {
+    "icon": "mdiBagCarryOn"
+  },
+  {
+    "icon": "mdiBagCarryOnCheck"
+  },
+  {
+    "icon": "mdiBagCarryOnOff"
+  },
+  {
+    "icon": "mdiBagChecked"
+  },
+  {
+    "icon": "mdiBagPersonal"
+  },
+  {
+    "icon": "mdiBagPersonalOff"
+  },
+  {
+    "icon": "mdiBagPersonalOffOutline"
+  },
+  {
+    "icon": "mdiBagPersonalOutline"
+  },
+  {
+    "icon": "mdiBaguette"
+  },
+  {
+    "icon": "mdiBalloon"
+  },
+  {
+    "icon": "mdiBallot"
+  },
+  {
+    "icon": "mdiBallotOutline"
+  },
+  {
+    "icon": "mdiBallotRecount"
+  },
+  {
+    "icon": "mdiBallotRecountOutline"
+  },
+  {
+    "icon": "mdiBandage"
+  },
+  {
+    "icon": "mdiBandcamp"
+  },
+  {
+    "icon": "mdiBank"
+  },
+  {
+    "icon": "mdiBankMinus"
+  },
+  {
+    "icon": "mdiBankOutline"
+  },
+  {
+    "icon": "mdiBankPlus"
+  },
+  {
+    "icon": "mdiBankRemove"
+  },
+  {
+    "icon": "mdiBankTransfer"
+  },
+  {
+    "icon": "mdiBankTransferIn"
+  },
+  {
+    "icon": "mdiBankTransferOut"
+  },
+  {
+    "icon": "mdiBarcode"
+  },
+  {
+    "icon": "mdiBarcodeScan"
+  },
+  {
+    "icon": "mdiBarley"
+  },
+  {
+    "icon": "mdiBarleyOff"
+  },
+  {
+    "icon": "mdiBarn"
+  },
+  {
+    "icon": "mdiBarrel"
+  },
+  {
+    "icon": "mdiBaseball"
+  },
+  {
+    "icon": "mdiBaseballBat"
+  },
+  {
+    "icon": "mdiBasecamp"
+  },
+  {
+    "icon": "mdiBasket"
+  },
+  {
+    "icon": "mdiBasketFill"
+  },
+  {
+    "icon": "mdiBasketUnfill"
+  },
+  {
+    "icon": "mdiBasketball"
+  },
+  {
+    "icon": "mdiBasketballHoop"
+  },
+  {
+    "icon": "mdiBasketballHoopOutline"
+  },
+  {
+    "icon": "mdiBat"
+  },
+  {
+    "icon": "mdiBattery"
+  },
+  {
+    "icon": "mdiBattery10"
+  },
+  {
+    "icon": "mdiBattery10Bluetooth"
+  },
+  {
+    "icon": "mdiBattery20"
+  },
+  {
+    "icon": "mdiBattery20Bluetooth"
+  },
+  {
+    "icon": "mdiBattery30"
+  },
+  {
+    "icon": "mdiBattery30Bluetooth"
+  },
+  {
+    "icon": "mdiBattery40"
+  },
+  {
+    "icon": "mdiBattery40Bluetooth"
+  },
+  {
+    "icon": "mdiBattery50"
+  },
+  {
+    "icon": "mdiBattery50Bluetooth"
+  },
+  {
+    "icon": "mdiBattery60"
+  },
+  {
+    "icon": "mdiBattery60Bluetooth"
+  },
+  {
+    "icon": "mdiBattery70"
+  },
+  {
+    "icon": "mdiBattery70Bluetooth"
+  },
+  {
+    "icon": "mdiBattery80"
+  },
+  {
+    "icon": "mdiBattery80Bluetooth"
+  },
+  {
+    "icon": "mdiBattery90"
+  },
+  {
+    "icon": "mdiBattery90Bluetooth"
+  },
+  {
+    "icon": "mdiBatteryAlert"
+  },
+  {
+    "icon": "mdiBatteryAlertBluetooth"
+  },
+  {
+    "icon": "mdiBatteryBluetooth"
+  },
+  {
+    "icon": "mdiBatteryBluetoothVariant"
+  },
+  {
+    "icon": "mdiBatteryCharging"
+  },
+  {
+    "icon": "mdiBatteryCharging10"
+  },
+  {
+    "icon": "mdiBatteryCharging100"
+  },
+  {
+    "icon": "mdiBatteryCharging20"
+  },
+  {
+    "icon": "mdiBatteryCharging30"
+  },
+  {
+    "icon": "mdiBatteryCharging40"
+  },
+  {
+    "icon": "mdiBatteryCharging50"
+  },
+  {
+    "icon": "mdiBatteryCharging60"
+  },
+  {
+    "icon": "mdiBatteryCharging70"
+  },
+  {
+    "icon": "mdiBatteryCharging80"
+  },
+  {
+    "icon": "mdiBatteryCharging90"
+  },
+  {
+    "icon": "mdiBatteryChargingOutline"
+  },
+  {
+    "icon": "mdiBatteryChargingWireless"
+  },
+  {
+    "icon": "mdiBatteryChargingWireless10"
+  },
+  {
+    "icon": "mdiBatteryChargingWireless20"
+  },
+  {
+    "icon": "mdiBatteryChargingWireless30"
+  },
+  {
+    "icon": "mdiBatteryChargingWireless40"
+  },
+  {
+    "icon": "mdiBatteryChargingWireless50"
+  },
+  {
+    "icon": "mdiBatteryChargingWireless60"
+  },
+  {
+    "icon": "mdiBatteryChargingWireless70"
+  },
+  {
+    "icon": "mdiBatteryChargingWireless80"
+  },
+  {
+    "icon": "mdiBatteryChargingWireless90"
+  },
+  {
+    "icon": "mdiBatteryChargingWirelessAlert"
+  },
+  {
+    "icon": "mdiBatteryChargingWirelessOutline"
+  },
+  {
+    "icon": "mdiBatteryMinus"
+  },
+  {
+    "icon": "mdiBatteryNegative"
+  },
+  {
+    "icon": "mdiBatteryOutline"
+  },
+  {
+    "icon": "mdiBatteryPlus"
+  },
+  {
+    "icon": "mdiBatteryPositive"
+  },
+  {
+    "icon": "mdiBatteryUnknown"
+  },
+  {
+    "icon": "mdiBatteryUnknownBluetooth"
+  },
+  {
+    "icon": "mdiBattlenet"
+  },
+  {
+    "icon": "mdiBeach"
+  },
+  {
+    "icon": "mdiBeaker"
+  },
+  {
+    "icon": "mdiBeakerOutline"
+  },
+  {
+    "icon": "mdiBeats"
+  },
+  {
+    "icon": "mdiBedEmpty"
+  },
+  {
+    "icon": "mdiBeer"
+  },
+  {
+    "icon": "mdiBehance"
+  },
+  {
+    "icon": "mdiBell"
+  },
+  {
+    "icon": "mdiBellAlert"
+  },
+  {
+    "icon": "mdiBellAlertOutline"
+  },
+  {
+    "icon": "mdiBellCircle"
+  },
+  {
+    "icon": "mdiBellCircleOutline"
+  },
+  {
+    "icon": "mdiBellOff"
+  },
+  {
+    "icon": "mdiBellOffOutline"
+  },
+  {
+    "icon": "mdiBellOutline"
+  },
+  {
+    "icon": "mdiBellPlus"
+  },
+  {
+    "icon": "mdiBellPlusOutline"
+  },
+  {
+    "icon": "mdiBellRing"
+  },
+  {
+    "icon": "mdiBellRingOutline"
+  },
+  {
+    "icon": "mdiBellSleep"
+  },
+  {
+    "icon": "mdiBellSleepOutline"
+  },
+  {
+    "icon": "mdiBeta"
+  },
+  {
+    "icon": "mdiBetamax"
+  },
+  {
+    "icon": "mdiBiathlon"
+  },
+  {
+    "icon": "mdiBible"
+  },
+  {
+    "icon": "mdiBike"
+  },
+  {
+    "icon": "mdiBilliards"
+  },
+  {
+    "icon": "mdiBilliardsRack"
+  },
+  {
+    "icon": "mdiBing"
+  },
+  {
+    "icon": "mdiBinoculars"
+  },
+  {
+    "icon": "mdiBio"
+  },
+  {
+    "icon": "mdiBiohazard"
+  },
+  {
+    "icon": "mdiBitbucket"
+  },
+  {
+    "icon": "mdiBitcoin"
+  },
+  {
+    "icon": "mdiBlackMesa"
+  },
+  {
+    "icon": "mdiBlackberry"
+  },
+  {
+    "icon": "mdiBlender"
+  },
+  {
+    "icon": "mdiBlenderSoftware"
+  },
+  {
+    "icon": "mdiBlinds"
+  },
+  {
+    "icon": "mdiBlockHelper"
+  },
+  {
+    "icon": "mdiBlogger"
+  },
+  {
+    "icon": "mdiBloodBag"
+  },
+  {
+    "icon": "mdiBluetooth"
+  },
+  {
+    "icon": "mdiBluetoothAudio"
+  },
+  {
+    "icon": "mdiBluetoothConnect"
+  },
+  {
+    "icon": "mdiBluetoothOff"
+  },
+  {
+    "icon": "mdiBluetoothSettings"
+  },
+  {
+    "icon": "mdiBluetoothTransfer"
+  },
+  {
+    "icon": "mdiBlur"
+  },
+  {
+    "icon": "mdiBlurLinear"
+  },
+  {
+    "icon": "mdiBlurOff"
+  },
+  {
+    "icon": "mdiBlurRadial"
+  },
+  {
+    "icon": "mdiBolnisiCross"
+  },
+  {
+    "icon": "mdiBolt"
+  },
+  {
+    "icon": "mdiBomb"
+  },
+  {
+    "icon": "mdiBombOff"
+  },
+  {
+    "icon": "mdiBone"
+  },
+  {
+    "icon": "mdiBook"
+  },
+  {
+    "icon": "mdiBookLock"
+  },
+  {
+    "icon": "mdiBookLockOpen"
+  },
+  {
+    "icon": "mdiBookMinus"
+  },
+  {
+    "icon": "mdiBookMinusMultiple"
+  },
+  {
+    "icon": "mdiBookMultiple"
+  },
+  {
+    "icon": "mdiBookOpen"
+  },
+  {
+    "icon": "mdiBookOpenOutline"
+  },
+  {
+    "icon": "mdiBookOpenPageVariant"
+  },
+  {
+    "icon": "mdiBookOpenVariant"
+  },
+  {
+    "icon": "mdiBookOutline"
+  },
+  {
+    "icon": "mdiBookPlay"
+  },
+  {
+    "icon": "mdiBookPlayOutline"
+  },
+  {
+    "icon": "mdiBookPlus"
+  },
+  {
+    "icon": "mdiBookPlusMultiple"
+  },
+  {
+    "icon": "mdiBookRemove"
+  },
+  {
+    "icon": "mdiBookRemoveMultiple"
+  },
+  {
+    "icon": "mdiBookSearch"
+  },
+  {
+    "icon": "mdiBookSearchOutline"
+  },
+  {
+    "icon": "mdiBookVariant"
+  },
+  {
+    "icon": "mdiBookVariantMultiple"
+  },
+  {
+    "icon": "mdiBookmark"
+  },
+  {
+    "icon": "mdiBookmarkCheck"
+  },
+  {
+    "icon": "mdiBookmarkMinus"
+  },
+  {
+    "icon": "mdiBookmarkMinusOutline"
+  },
+  {
+    "icon": "mdiBookmarkMultiple"
+  },
+  {
+    "icon": "mdiBookmarkMultipleOutline"
+  },
+  {
+    "icon": "mdiBookmarkMusic"
+  },
+  {
+    "icon": "mdiBookmarkOff"
+  },
+  {
+    "icon": "mdiBookmarkOffOutline"
+  },
+  {
+    "icon": "mdiBookmarkOutline"
+  },
+  {
+    "icon": "mdiBookmarkPlus"
+  },
+  {
+    "icon": "mdiBookmarkPlusOutline"
+  },
+  {
+    "icon": "mdiBookmarkRemove"
+  },
+  {
+    "icon": "mdiBoomGate"
+  },
+  {
+    "icon": "mdiBoomGateAlert"
+  },
+  {
+    "icon": "mdiBoomGateAlertOutline"
+  },
+  {
+    "icon": "mdiBoomGateDown"
+  },
+  {
+    "icon": "mdiBoomGateDownOutline"
+  },
+  {
+    "icon": "mdiBoomGateOutline"
+  },
+  {
+    "icon": "mdiBoomGateUp"
+  },
+  {
+    "icon": "mdiBoomGateUpOutline"
+  },
+  {
+    "icon": "mdiBoombox"
+  },
+  {
+    "icon": "mdiBootstrap"
+  },
+  {
+    "icon": "mdiBorderAll"
+  },
+  {
+    "icon": "mdiBorderAllVariant"
+  },
+  {
+    "icon": "mdiBorderBottom"
+  },
+  {
+    "icon": "mdiBorderBottomVariant"
+  },
+  {
+    "icon": "mdiBorderColor"
+  },
+  {
+    "icon": "mdiBorderHorizontal"
+  },
+  {
+    "icon": "mdiBorderInside"
+  },
+  {
+    "icon": "mdiBorderLeft"
+  },
+  {
+    "icon": "mdiBorderLeftVariant"
+  },
+  {
+    "icon": "mdiBorderNone"
+  },
+  {
+    "icon": "mdiBorderNoneVariant"
+  },
+  {
+    "icon": "mdiBorderOutside"
+  },
+  {
+    "icon": "mdiBorderRight"
+  },
+  {
+    "icon": "mdiBorderRightVariant"
+  },
+  {
+    "icon": "mdiBorderStyle"
+  },
+  {
+    "icon": "mdiBorderTop"
+  },
+  {
+    "icon": "mdiBorderTopVariant"
+  },
+  {
+    "icon": "mdiBorderVertical"
+  },
+  {
+    "icon": "mdiBottleWine"
+  },
+  {
+    "icon": "mdiBowTie"
+  },
+  {
+    "icon": "mdiBowl"
+  },
+  {
+    "icon": "mdiBowling"
+  },
+  {
+    "icon": "mdiBox"
+  },
+  {
+    "icon": "mdiBoxCutter"
+  },
+  {
+    "icon": "mdiBoxShadow"
+  },
+  {
+    "icon": "mdiBoxingGlove"
+  },
+  {
+    "icon": "mdiBraille"
+  },
+  {
+    "icon": "mdiBrain"
+  },
+  {
+    "icon": "mdiBreadSlice"
+  },
+  {
+    "icon": "mdiBreadSliceOutline"
+  },
+  {
+    "icon": "mdiBridge"
+  },
+  {
+    "icon": "mdiBriefcase"
+  },
+  {
+    "icon": "mdiBriefcaseAccount"
+  },
+  {
+    "icon": "mdiBriefcaseAccountOutline"
+  },
+  {
+    "icon": "mdiBriefcaseCheck"
+  },
+  {
+    "icon": "mdiBriefcaseDownload"
+  },
+  {
+    "icon": "mdiBriefcaseDownloadOutline"
+  },
+  {
+    "icon": "mdiBriefcaseEdit"
+  },
+  {
+    "icon": "mdiBriefcaseEditOutline"
+  },
+  {
+    "icon": "mdiBriefcaseMinus"
+  },
+  {
+    "icon": "mdiBriefcaseMinusOutline"
+  },
+  {
+    "icon": "mdiBriefcaseOutline"
+  },
+  {
+    "icon": "mdiBriefcasePlus"
+  },
+  {
+    "icon": "mdiBriefcasePlusOutline"
+  },
+  {
+    "icon": "mdiBriefcaseRemove"
+  },
+  {
+    "icon": "mdiBriefcaseRemoveOutline"
+  },
+  {
+    "icon": "mdiBriefcaseSearch"
+  },
+  {
+    "icon": "mdiBriefcaseSearchOutline"
+  },
+  {
+    "icon": "mdiBriefcaseUpload"
+  },
+  {
+    "icon": "mdiBriefcaseUploadOutline"
+  },
+  {
+    "icon": "mdiBrightness1"
+  },
+  {
+    "icon": "mdiBrightness2"
+  },
+  {
+    "icon": "mdiBrightness3"
+  },
+  {
+    "icon": "mdiBrightness4"
+  },
+  {
+    "icon": "mdiBrightness5"
+  },
+  {
+    "icon": "mdiBrightness6"
+  },
+  {
+    "icon": "mdiBrightness7"
+  },
+  {
+    "icon": "mdiBrightnessAuto"
+  },
+  {
+    "icon": "mdiBrightnessPercent"
+  },
+  {
+    "icon": "mdiBroom"
+  },
+  {
+    "icon": "mdiBrush"
+  },
+  {
+    "icon": "mdiBuddhism"
+  },
+  {
+    "icon": "mdiBuffer"
+  },
+  {
+    "icon": "mdiBug"
+  },
+  {
+    "icon": "mdiBugCheck"
+  },
+  {
+    "icon": "mdiBugCheckOutline"
+  },
+  {
+    "icon": "mdiBugOutline"
+  },
+  {
+    "icon": "mdiBugle"
+  },
+  {
+    "icon": "mdiBulldozer"
+  },
+  {
+    "icon": "mdiBullet"
+  },
+  {
+    "icon": "mdiBulletinBoard"
+  },
+  {
+    "icon": "mdiBullhorn"
+  },
+  {
+    "icon": "mdiBullhornOutline"
+  },
+  {
+    "icon": "mdiBullseye"
+  },
+  {
+    "icon": "mdiBullseyeArrow"
+  },
+  {
+    "icon": "mdiBus"
+  },
+  {
+    "icon": "mdiBusAlert"
+  },
+  {
+    "icon": "mdiBusArticulatedEnd"
+  },
+  {
+    "icon": "mdiBusArticulatedFront"
+  },
+  {
+    "icon": "mdiBusClock"
+  },
+  {
+    "icon": "mdiBusDoubleDecker"
+  },
+  {
+    "icon": "mdiBusMultiple"
+  },
+  {
+    "icon": "mdiBusSchool"
+  },
+  {
+    "icon": "mdiBusSide"
+  },
+  {
+    "icon": "mdiCached"
+  },
+  {
+    "icon": "mdiCactus"
+  },
+  {
+    "icon": "mdiCake"
+  },
+  {
+    "icon": "mdiCakeLayered"
+  },
+  {
+    "icon": "mdiCakeVariant"
+  },
+  {
+    "icon": "mdiCalculator"
+  },
+  {
+    "icon": "mdiCalculatorVariant"
+  },
+  {
+    "icon": "mdiCalendar"
+  },
+  {
+    "icon": "mdiCalendarAccount"
+  },
+  {
+    "icon": "mdiCalendarAccountOutline"
+  },
+  {
+    "icon": "mdiCalendarAlert"
+  },
+  {
+    "icon": "mdiCalendarBlank"
+  },
+  {
+    "icon": "mdiCalendarBlankOutline"
+  },
+  {
+    "icon": "mdiCalendarCheck"
+  },
+  {
+    "icon": "mdiCalendarCheckOutline"
+  },
+  {
+    "icon": "mdiCalendarClock"
+  },
+  {
+    "icon": "mdiCalendarEdit"
+  },
+  {
+    "icon": "mdiCalendarExport"
+  },
+  {
+    "icon": "mdiCalendarHeart"
+  },
+  {
+    "icon": "mdiCalendarImport"
+  },
+  {
+    "icon": "mdiCalendarMinus"
+  },
+  {
+    "icon": "mdiCalendarMonth"
+  },
+  {
+    "icon": "mdiCalendarMonthOutline"
+  },
+  {
+    "icon": "mdiCalendarMultiple"
+  },
+  {
+    "icon": "mdiCalendarMultipleCheck"
+  },
+  {
+    "icon": "mdiCalendarMultiselect"
+  },
+  {
+    "icon": "mdiCalendarOutline"
+  },
+  {
+    "icon": "mdiCalendarPlus"
+  },
+  {
+    "icon": "mdiCalendarQuestion"
+  },
+  {
+    "icon": "mdiCalendarRange"
+  },
+  {
+    "icon": "mdiCalendarRangeOutline"
+  },
+  {
+    "icon": "mdiCalendarRemove"
+  },
+  {
+    "icon": "mdiCalendarRemoveOutline"
+  },
+  {
+    "icon": "mdiCalendarRepeat"
+  },
+  {
+    "icon": "mdiCalendarRepeatOutline"
+  },
+  {
+    "icon": "mdiCalendarSearch"
+  },
+  {
+    "icon": "mdiCalendarStar"
+  },
+  {
+    "icon": "mdiCalendarText"
+  },
+  {
+    "icon": "mdiCalendarTextOutline"
+  },
+  {
+    "icon": "mdiCalendarToday"
+  },
+  {
+    "icon": "mdiCalendarWeek"
+  },
+  {
+    "icon": "mdiCalendarWeekBegin"
+  },
+  {
+    "icon": "mdiCalendarWeekend"
+  },
+  {
+    "icon": "mdiCalendarWeekendOutline"
+  },
+  {
+    "icon": "mdiCallMade"
+  },
+  {
+    "icon": "mdiCallMerge"
+  },
+  {
+    "icon": "mdiCallMissed"
+  },
+  {
+    "icon": "mdiCallReceived"
+  },
+  {
+    "icon": "mdiCallSplit"
+  },
+  {
+    "icon": "mdiCamcorder"
+  },
+  {
+    "icon": "mdiCamcorderBox"
+  },
+  {
+    "icon": "mdiCamcorderBoxOff"
+  },
+  {
+    "icon": "mdiCamcorderOff"
+  },
+  {
+    "icon": "mdiCamera"
+  },
+  {
+    "icon": "mdiCameraAccount"
+  },
+  {
+    "icon": "mdiCameraBurst"
+  },
+  {
+    "icon": "mdiCameraControl"
+  },
+  {
+    "icon": "mdiCameraEnhance"
+  },
+  {
+    "icon": "mdiCameraEnhanceOutline"
+  },
+  {
+    "icon": "mdiCameraFront"
+  },
+  {
+    "icon": "mdiCameraFrontVariant"
+  },
+  {
+    "icon": "mdiCameraGopro"
+  },
+  {
+    "icon": "mdiCameraImage"
+  },
+  {
+    "icon": "mdiCameraIris"
+  },
+  {
+    "icon": "mdiCameraMeteringCenter"
+  },
+  {
+    "icon": "mdiCameraMeteringMatrix"
+  },
+  {
+    "icon": "mdiCameraMeteringPartial"
+  },
+  {
+    "icon": "mdiCameraMeteringSpot"
+  },
+  {
+    "icon": "mdiCameraOff"
+  },
+  {
+    "icon": "mdiCameraOutline"
+  },
+  {
+    "icon": "mdiCameraPartyMode"
+  },
+  {
+    "icon": "mdiCameraPlus"
+  },
+  {
+    "icon": "mdiCameraPlusOutline"
+  },
+  {
+    "icon": "mdiCameraRear"
+  },
+  {
+    "icon": "mdiCameraRearVariant"
+  },
+  {
+    "icon": "mdiCameraRetake"
+  },
+  {
+    "icon": "mdiCameraRetakeOutline"
+  },
+  {
+    "icon": "mdiCameraSwitch"
+  },
+  {
+    "icon": "mdiCameraTimer"
+  },
+  {
+    "icon": "mdiCameraWireless"
+  },
+  {
+    "icon": "mdiCameraWirelessOutline"
+  },
+  {
+    "icon": "mdiCampfire"
+  },
+  {
+    "icon": "mdiCancel"
+  },
+  {
+    "icon": "mdiCandle"
+  },
+  {
+    "icon": "mdiCandycane"
+  },
+  {
+    "icon": "mdiCannabis"
+  },
+  {
+    "icon": "mdiCapsLock"
+  },
+  {
+    "icon": "mdiCar"
+  },
+  {
+    "icon": "mdiCarBack"
+  },
+  {
+    "icon": "mdiCarBattery"
+  },
+  {
+    "icon": "mdiCarBrakeAbs"
+  },
+  {
+    "icon": "mdiCarBrakeAlert"
+  },
+  {
+    "icon": "mdiCarBrakeHold"
+  },
+  {
+    "icon": "mdiCarBrakeParking"
+  },
+  {
+    "icon": "mdiCarConnected"
+  },
+  {
+    "icon": "mdiCarConvertible"
+  },
+  {
+    "icon": "mdiCarCruiseControl"
+  },
+  {
+    "icon": "mdiCarDefrostFront"
+  },
+  {
+    "icon": "mdiCarDefrostRear"
+  },
+  {
+    "icon": "mdiCarDoor"
+  },
+  {
+    "icon": "mdiCarElectric"
+  },
+  {
+    "icon": "mdiCarEsp"
+  },
+  {
+    "icon": "mdiCarEstate"
+  },
+  {
+    "icon": "mdiCarHatchback"
+  },
+  {
+    "icon": "mdiCarKey"
+  },
+  {
+    "icon": "mdiCarLightDimmed"
+  },
+  {
+    "icon": "mdiCarLightFog"
+  },
+  {
+    "icon": "mdiCarLightHigh"
+  },
+  {
+    "icon": "mdiCarLimousine"
+  },
+  {
+    "icon": "mdiCarMultiple"
+  },
+  {
+    "icon": "mdiCarOff"
+  },
+  {
+    "icon": "mdiCarParkingLights"
+  },
+  {
+    "icon": "mdiCarPickup"
+  },
+  {
+    "icon": "mdiCarShiftPattern"
+  },
+  {
+    "icon": "mdiCarSide"
+  },
+  {
+    "icon": "mdiCarSports"
+  },
+  {
+    "icon": "mdiCarTireAlert"
+  },
+  {
+    "icon": "mdiCarTractionControl"
+  },
+  {
+    "icon": "mdiCarWash"
+  },
+  {
+    "icon": "mdiCaravan"
+  },
+  {
+    "icon": "mdiCard"
+  },
+  {
+    "icon": "mdiCardBulleted"
+  },
+  {
+    "icon": "mdiCardBulletedOff"
+  },
+  {
+    "icon": "mdiCardBulletedOffOutline"
+  },
+  {
+    "icon": "mdiCardBulletedOutline"
+  },
+  {
+    "icon": "mdiCardBulletedSettings"
+  },
+  {
+    "icon": "mdiCardBulletedSettingsOutline"
+  },
+  {
+    "icon": "mdiCardOutline"
+  },
+  {
+    "icon": "mdiCardText"
+  },
+  {
+    "icon": "mdiCardTextOutline"
+  },
+  {
+    "icon": "mdiCards"
+  },
+  {
+    "icon": "mdiCardsClub"
+  },
+  {
+    "icon": "mdiCardsDiamond"
+  },
+  {
+    "icon": "mdiCardsHeart"
+  },
+  {
+    "icon": "mdiCardsOutline"
+  },
+  {
+    "icon": "mdiCardsPlayingOutline"
+  },
+  {
+    "icon": "mdiCardsSpade"
+  },
+  {
+    "icon": "mdiCardsVariant"
+  },
+  {
+    "icon": "mdiCarrot"
+  },
+  {
+    "icon": "mdiCart"
+  },
+  {
+    "icon": "mdiCartArrowDown"
+  },
+  {
+    "icon": "mdiCartArrowRight"
+  },
+  {
+    "icon": "mdiCartArrowUp"
+  },
+  {
+    "icon": "mdiCartMinus"
+  },
+  {
+    "icon": "mdiCartOff"
+  },
+  {
+    "icon": "mdiCartOutline"
+  },
+  {
+    "icon": "mdiCartPlus"
+  },
+  {
+    "icon": "mdiCartRemove"
+  },
+  {
+    "icon": "mdiCaseSensitiveAlt"
+  },
+  {
+    "icon": "mdiCash"
+  },
+  {
+    "icon": "mdiCash100"
+  },
+  {
+    "icon": "mdiCashMarker"
+  },
+  {
+    "icon": "mdiCashMultiple"
+  },
+  {
+    "icon": "mdiCashRefund"
+  },
+  {
+    "icon": "mdiCashRegister"
+  },
+  {
+    "icon": "mdiCashUsd"
+  },
+  {
+    "icon": "mdiCassette"
+  },
+  {
+    "icon": "mdiCast"
+  },
+  {
+    "icon": "mdiCastConnected"
+  },
+  {
+    "icon": "mdiCastEducation"
+  },
+  {
+    "icon": "mdiCastOff"
+  },
+  {
+    "icon": "mdiCastle"
+  },
+  {
+    "icon": "mdiCat"
+  },
+  {
+    "icon": "mdiCctv"
+  },
+  {
+    "icon": "mdiCeilingLight"
+  },
+  {
+    "icon": "mdiCellphone"
+  },
+  {
+    "icon": "mdiCellphoneAndroid"
+  },
+  {
+    "icon": "mdiCellphoneArrowDown"
+  },
+  {
+    "icon": "mdiCellphoneBasic"
+  },
+  {
+    "icon": "mdiCellphoneDock"
+  },
+  {
+    "icon": "mdiCellphoneErase"
+  },
+  {
+    "icon": "mdiCellphoneInformation"
+  },
+  {
+    "icon": "mdiCellphoneIphone"
+  },
+  {
+    "icon": "mdiCellphoneKey"
+  },
+  {
+    "icon": "mdiCellphoneLink"
+  },
+  {
+    "icon": "mdiCellphoneLinkOff"
+  },
+  {
+    "icon": "mdiCellphoneLock"
+  },
+  {
+    "icon": "mdiCellphoneMessage"
+  },
+  {
+    "icon": "mdiCellphoneNfc"
+  },
+  {
+    "icon": "mdiCellphoneOff"
+  },
+  {
+    "icon": "mdiCellphoneScreenshot"
+  },
+  {
+    "icon": "mdiCellphoneSettings"
+  },
+  {
+    "icon": "mdiCellphoneSettingsVariant"
+  },
+  {
+    "icon": "mdiCellphoneSound"
+  },
+  {
+    "icon": "mdiCellphoneText"
+  },
+  {
+    "icon": "mdiCellphoneWireless"
+  },
+  {
+    "icon": "mdiCelticCross"
+  },
+  {
+    "icon": "mdiCertificate"
+  },
+  {
+    "icon": "mdiChairRolling"
+  },
+  {
+    "icon": "mdiChairSchool"
+  },
+  {
+    "icon": "mdiCharity"
+  },
+  {
+    "icon": "mdiChartArc"
+  },
+  {
+    "icon": "mdiChartAreaspline"
+  },
+  {
+    "icon": "mdiChartAreasplineVariant"
+  },
+  {
+    "icon": "mdiChartBar"
+  },
+  {
+    "icon": "mdiChartBarStacked"
+  },
+  {
+    "icon": "mdiChartBellCurve"
+  },
+  {
+    "icon": "mdiChartBubble"
+  },
+  {
+    "icon": "mdiChartDonut"
+  },
+  {
+    "icon": "mdiChartDonutVariant"
+  },
+  {
+    "icon": "mdiChartGantt"
+  },
+  {
+    "icon": "mdiChartHistogram"
+  },
+  {
+    "icon": "mdiChartLine"
+  },
+  {
+    "icon": "mdiChartLineStacked"
+  },
+  {
+    "icon": "mdiChartLineVariant"
+  },
+  {
+    "icon": "mdiChartMultiline"
+  },
+  {
+    "icon": "mdiChartPie"
+  },
+  {
+    "icon": "mdiChartScatterPlot"
+  },
+  {
+    "icon": "mdiChartScatterPlotHexbin"
+  },
+  {
+    "icon": "mdiChartTimeline"
+  },
+  {
+    "icon": "mdiChartTimelineVariant"
+  },
+  {
+    "icon": "mdiChartTree"
+  },
+  {
+    "icon": "mdiChat"
+  },
+  {
+    "icon": "mdiChatAlert"
+  },
+  {
+    "icon": "mdiChatOutline"
+  },
+  {
+    "icon": "mdiChatProcessing"
+  },
+  {
+    "icon": "mdiCheck"
+  },
+  {
+    "icon": "mdiCheckAll"
+  },
+  {
+    "icon": "mdiCheckBold"
+  },
+  {
+    "icon": "mdiCheckBoxMultipleOutline"
+  },
+  {
+    "icon": "mdiCheckBoxOutline"
+  },
+  {
+    "icon": "mdiCheckCircle"
+  },
+  {
+    "icon": "mdiCheckCircleOutline"
+  },
+  {
+    "icon": "mdiCheckDecagram"
+  },
+  {
+    "icon": "mdiCheckNetwork"
+  },
+  {
+    "icon": "mdiCheckNetworkOutline"
+  },
+  {
+    "icon": "mdiCheckOutline"
+  },
+  {
+    "icon": "mdiCheckUnderline"
+  },
+  {
+    "icon": "mdiCheckUnderlineCircle"
+  },
+  {
+    "icon": "mdiCheckUnderlineCircleOutline"
+  },
+  {
+    "icon": "mdiCheckbook"
+  },
+  {
+    "icon": "mdiCheckboxBlank"
+  },
+  {
+    "icon": "mdiCheckboxBlankCircle"
+  },
+  {
+    "icon": "mdiCheckboxBlankCircleOutline"
+  },
+  {
+    "icon": "mdiCheckboxBlankOutline"
+  },
+  {
+    "icon": "mdiCheckboxIntermediate"
+  },
+  {
+    "icon": "mdiCheckboxMarked"
+  },
+  {
+    "icon": "mdiCheckboxMarkedCircle"
+  },
+  {
+    "icon": "mdiCheckboxMarkedCircleOutline"
+  },
+  {
+    "icon": "mdiCheckboxMarkedOutline"
+  },
+  {
+    "icon": "mdiCheckboxMultipleBlank"
+  },
+  {
+    "icon": "mdiCheckboxMultipleBlankCircle"
+  },
+  {
+    "icon": "mdiCheckboxMultipleBlankCircleOutline"
+  },
+  {
+    "icon": "mdiCheckboxMultipleBlankOutline"
+  },
+  {
+    "icon": "mdiCheckboxMultipleMarked"
+  },
+  {
+    "icon": "mdiCheckboxMultipleMarkedCircle"
+  },
+  {
+    "icon": "mdiCheckboxMultipleMarkedCircleOutline"
+  },
+  {
+    "icon": "mdiCheckboxMultipleMarkedOutline"
+  },
+  {
+    "icon": "mdiCheckerboard"
+  },
+  {
+    "icon": "mdiChefHat"
+  },
+  {
+    "icon": "mdiChemicalWeapon"
+  },
+  {
+    "icon": "mdiChessBishop"
+  },
+  {
+    "icon": "mdiChessKing"
+  },
+  {
+    "icon": "mdiChessKnight"
+  },
+  {
+    "icon": "mdiChessPawn"
+  },
+  {
+    "icon": "mdiChessQueen"
+  },
+  {
+    "icon": "mdiChessRook"
+  },
+  {
+    "icon": "mdiChevronDoubleDown"
+  },
+  {
+    "icon": "mdiChevronDoubleLeft"
+  },
+  {
+    "icon": "mdiChevronDoubleRight"
+  },
+  {
+    "icon": "mdiChevronDoubleUp"
+  },
+  {
+    "icon": "mdiChevronDown"
+  },
+  {
+    "icon": "mdiChevronDownBox"
+  },
+  {
+    "icon": "mdiChevronDownBoxOutline"
+  },
+  {
+    "icon": "mdiChevronDownCircle"
+  },
+  {
+    "icon": "mdiChevronDownCircleOutline"
+  },
+  {
+    "icon": "mdiChevronLeft"
+  },
+  {
+    "icon": "mdiChevronLeftBox"
+  },
+  {
+    "icon": "mdiChevronLeftBoxOutline"
+  },
+  {
+    "icon": "mdiChevronLeftCircle"
+  },
+  {
+    "icon": "mdiChevronLeftCircleOutline"
+  },
+  {
+    "icon": "mdiChevronRight"
+  },
+  {
+    "icon": "mdiChevronRightBox"
+  },
+  {
+    "icon": "mdiChevronRightBoxOutline"
+  },
+  {
+    "icon": "mdiChevronRightCircle"
+  },
+  {
+    "icon": "mdiChevronRightCircleOutline"
+  },
+  {
+    "icon": "mdiChevronTripleDown"
+  },
+  {
+    "icon": "mdiChevronTripleLeft"
+  },
+  {
+    "icon": "mdiChevronTripleRight"
+  },
+  {
+    "icon": "mdiChevronTripleUp"
+  },
+  {
+    "icon": "mdiChevronUp"
+  },
+  {
+    "icon": "mdiChevronUpBox"
+  },
+  {
+    "icon": "mdiChevronUpBoxOutline"
+  },
+  {
+    "icon": "mdiChevronUpCircle"
+  },
+  {
+    "icon": "mdiChevronUpCircleOutline"
+  },
+  {
+    "icon": "mdiChiliHot"
+  },
+  {
+    "icon": "mdiChiliMedium"
+  },
+  {
+    "icon": "mdiChiliMild"
+  },
+  {
+    "icon": "mdiChip"
+  },
+  {
+    "icon": "mdiChristianity"
+  },
+  {
+    "icon": "mdiChristianityOutline"
+  },
+  {
+    "icon": "mdiChurch"
+  },
+  {
+    "icon": "mdiCircle"
+  },
+  {
+    "icon": "mdiCircleDouble"
+  },
+  {
+    "icon": "mdiCircleEditOutline"
+  },
+  {
+    "icon": "mdiCircleExpand"
+  },
+  {
+    "icon": "mdiCircleMedium"
+  },
+  {
+    "icon": "mdiCircleOutline"
+  },
+  {
+    "icon": "mdiCircleSlice1"
+  },
+  {
+    "icon": "mdiCircleSlice2"
+  },
+  {
+    "icon": "mdiCircleSlice3"
+  },
+  {
+    "icon": "mdiCircleSlice4"
+  },
+  {
+    "icon": "mdiCircleSlice5"
+  },
+  {
+    "icon": "mdiCircleSlice6"
+  },
+  {
+    "icon": "mdiCircleSlice7"
+  },
+  {
+    "icon": "mdiCircleSlice8"
+  },
+  {
+    "icon": "mdiCircleSmall"
+  },
+  {
+    "icon": "mdiCircularSaw"
+  },
+  {
+    "icon": "mdiCiscoWebex"
+  },
+  {
+    "icon": "mdiCity"
+  },
+  {
+    "icon": "mdiCityVariant"
+  },
+  {
+    "icon": "mdiCityVariantOutline"
+  },
+  {
+    "icon": "mdiClipboard"
+  },
+  {
+    "icon": "mdiClipboardAccount"
+  },
+  {
+    "icon": "mdiClipboardAccountOutline"
+  },
+  {
+    "icon": "mdiClipboardAlert"
+  },
+  {
+    "icon": "mdiClipboardAlertOutline"
+  },
+  {
+    "icon": "mdiClipboardArrowDown"
+  },
+  {
+    "icon": "mdiClipboardArrowDownOutline"
+  },
+  {
+    "icon": "mdiClipboardArrowLeft"
+  },
+  {
+    "icon": "mdiClipboardArrowLeftOutline"
+  },
+  {
+    "icon": "mdiClipboardArrowRight"
+  },
+  {
+    "icon": "mdiClipboardArrowRightOutline"
+  },
+  {
+    "icon": "mdiClipboardArrowUp"
+  },
+  {
+    "icon": "mdiClipboardArrowUpOutline"
+  },
+  {
+    "icon": "mdiClipboardCheck"
+  },
+  {
+    "icon": "mdiClipboardCheckOutline"
+  },
+  {
+    "icon": "mdiClipboardFlow"
+  },
+  {
+    "icon": "mdiClipboardOutline"
+  },
+  {
+    "icon": "mdiClipboardPlay"
+  },
+  {
+    "icon": "mdiClipboardPlayOutline"
+  },
+  {
+    "icon": "mdiClipboardPlus"
+  },
+  {
+    "icon": "mdiClipboardPulse"
+  },
+  {
+    "icon": "mdiClipboardPulseOutline"
+  },
+  {
+    "icon": "mdiClipboardText"
+  },
+  {
+    "icon": "mdiClipboardTextOutline"
+  },
+  {
+    "icon": "mdiClipboardTextPlay"
+  },
+  {
+    "icon": "mdiClipboardTextPlayOutline"
+  },
+  {
+    "icon": "mdiClippy"
+  },
+  {
+    "icon": "mdiClock"
+  },
+  {
+    "icon": "mdiClockAlert"
+  },
+  {
+    "icon": "mdiClockAlertOutline"
+  },
+  {
+    "icon": "mdiClockDigital"
+  },
+  {
+    "icon": "mdiClockEnd"
+  },
+  {
+    "icon": "mdiClockFast"
+  },
+  {
+    "icon": "mdiClockIn"
+  },
+  {
+    "icon": "mdiClockOut"
+  },
+  {
+    "icon": "mdiClockOutline"
+  },
+  {
+    "icon": "mdiClockStart"
+  },
+  {
+    "icon": "mdiClose"
+  },
+  {
+    "icon": "mdiCloseBox"
+  },
+  {
+    "icon": "mdiCloseBoxMultiple"
+  },
+  {
+    "icon": "mdiCloseBoxMultipleOutline"
+  },
+  {
+    "icon": "mdiCloseBoxOutline"
+  },
+  {
+    "icon": "mdiCloseCircle"
+  },
+  {
+    "icon": "mdiCloseCircleOutline"
+  },
+  {
+    "icon": "mdiCloseNetwork"
+  },
+  {
+    "icon": "mdiCloseNetworkOutline"
+  },
+  {
+    "icon": "mdiCloseOctagon"
+  },
+  {
+    "icon": "mdiCloseOctagonOutline"
+  },
+  {
+    "icon": "mdiCloseOutline"
+  },
+  {
+    "icon": "mdiClosedCaption"
+  },
+  {
+    "icon": "mdiClosedCaptionOutline"
+  },
+  {
+    "icon": "mdiCloud"
+  },
+  {
+    "icon": "mdiCloudAlert"
+  },
+  {
+    "icon": "mdiCloudBraces"
+  },
+  {
+    "icon": "mdiCloudCheck"
+  },
+  {
+    "icon": "mdiCloudCircle"
+  },
+  {
+    "icon": "mdiCloudDownload"
+  },
+  {
+    "icon": "mdiCloudDownloadOutline"
+  },
+  {
+    "icon": "mdiCloudOffOutline"
+  },
+  {
+    "icon": "mdiCloudOutline"
+  },
+  {
+    "icon": "mdiCloudPrint"
+  },
+  {
+    "icon": "mdiCloudPrintOutline"
+  },
+  {
+    "icon": "mdiCloudQuestion"
+  },
+  {
+    "icon": "mdiCloudSearch"
+  },
+  {
+    "icon": "mdiCloudSearchOutline"
+  },
+  {
+    "icon": "mdiCloudSync"
+  },
+  {
+    "icon": "mdiCloudTags"
+  },
+  {
+    "icon": "mdiCloudUpload"
+  },
+  {
+    "icon": "mdiCloudUploadOutline"
+  },
+  {
+    "icon": "mdiClover"
+  },
+  {
+    "icon": "mdiCodeArray"
+  },
+  {
+    "icon": "mdiCodeBraces"
+  },
+  {
+    "icon": "mdiCodeBrackets"
+  },
+  {
+    "icon": "mdiCodeEqual"
+  },
+  {
+    "icon": "mdiCodeGreaterThan"
+  },
+  {
+    "icon": "mdiCodeGreaterThanOrEqual"
+  },
+  {
+    "icon": "mdiCodeLessThan"
+  },
+  {
+    "icon": "mdiCodeLessThanOrEqual"
+  },
+  {
+    "icon": "mdiCodeNotEqual"
+  },
+  {
+    "icon": "mdiCodeNotEqualVariant"
+  },
+  {
+    "icon": "mdiCodeParentheses"
+  },
+  {
+    "icon": "mdiCodeString"
+  },
+  {
+    "icon": "mdiCodeTags"
+  },
+  {
+    "icon": "mdiCodeTagsCheck"
+  },
+  {
+    "icon": "mdiCodepen"
+  },
+  {
+    "icon": "mdiCoffee"
+  },
+  {
+    "icon": "mdiCoffeeOff"
+  },
+  {
+    "icon": "mdiCoffeeOffOutline"
+  },
+  {
+    "icon": "mdiCoffeeOutline"
+  },
+  {
+    "icon": "mdiCoffeeToGo"
+  },
+  {
+    "icon": "mdiCoffin"
+  },
+  {
+    "icon": "mdiCogs"
+  },
+  {
+    "icon": "mdiCoin"
+  },
+  {
+    "icon": "mdiCoins"
+  },
+  {
+    "icon": "mdiCollage"
+  },
+  {
+    "icon": "mdiCollapseAll"
+  },
+  {
+    "icon": "mdiCollapseAllOutline"
+  },
+  {
+    "icon": "mdiColorHelper"
+  },
+  {
+    "icon": "mdiComma"
+  },
+  {
+    "icon": "mdiCommaBox"
+  },
+  {
+    "icon": "mdiCommaBoxOutline"
+  },
+  {
+    "icon": "mdiCommaCircle"
+  },
+  {
+    "icon": "mdiCommaCircleOutline"
+  },
+  {
+    "icon": "mdiComment"
+  },
+  {
+    "icon": "mdiCommentAccount"
+  },
+  {
+    "icon": "mdiCommentAccountOutline"
+  },
+  {
+    "icon": "mdiCommentAlert"
+  },
+  {
+    "icon": "mdiCommentAlertOutline"
+  },
+  {
+    "icon": "mdiCommentArrowLeft"
+  },
+  {
+    "icon": "mdiCommentArrowLeftOutline"
+  },
+  {
+    "icon": "mdiCommentArrowRight"
+  },
+  {
+    "icon": "mdiCommentArrowRightOutline"
+  },
+  {
+    "icon": "mdiCommentCheck"
+  },
+  {
+    "icon": "mdiCommentCheckOutline"
+  },
+  {
+    "icon": "mdiCommentEye"
+  },
+  {
+    "icon": "mdiCommentEyeOutline"
+  },
+  {
+    "icon": "mdiCommentMultiple"
+  },
+  {
+    "icon": "mdiCommentMultipleOutline"
+  },
+  {
+    "icon": "mdiCommentOutline"
+  },
+  {
+    "icon": "mdiCommentPlus"
+  },
+  {
+    "icon": "mdiCommentPlusOutline"
+  },
+  {
+    "icon": "mdiCommentProcessing"
+  },
+  {
+    "icon": "mdiCommentProcessingOutline"
+  },
+  {
+    "icon": "mdiCommentQuestion"
+  },
+  {
+    "icon": "mdiCommentQuestionOutline"
+  },
+  {
+    "icon": "mdiCommentRemove"
+  },
+  {
+    "icon": "mdiCommentRemoveOutline"
+  },
+  {
+    "icon": "mdiCommentSearch"
+  },
+  {
+    "icon": "mdiCommentSearchOutline"
+  },
+  {
+    "icon": "mdiCommentText"
+  },
+  {
+    "icon": "mdiCommentTextMultiple"
+  },
+  {
+    "icon": "mdiCommentTextMultipleOutline"
+  },
+  {
+    "icon": "mdiCommentTextOutline"
+  },
+  {
+    "icon": "mdiCompare"
+  },
+  {
+    "icon": "mdiCompass"
+  },
+  {
+    "icon": "mdiCompassOff"
+  },
+  {
+    "icon": "mdiCompassOffOutline"
+  },
+  {
+    "icon": "mdiCompassOutline"
+  },
+  {
+    "icon": "mdiConsole"
+  },
+  {
+    "icon": "mdiConsoleLine"
+  },
+  {
+    "icon": "mdiConsoleNetwork"
+  },
+  {
+    "icon": "mdiConsoleNetworkOutline"
+  },
+  {
+    "icon": "mdiContactMail"
+  },
+  {
+    "icon": "mdiContactMailOutline"
+  },
+  {
+    "icon": "mdiContactPhone"
+  },
+  {
+    "icon": "mdiContactPhoneOutline"
+  },
+  {
+    "icon": "mdiContactlessPayment"
+  },
+  {
+    "icon": "mdiContacts"
+  },
+  {
+    "icon": "mdiContain"
+  },
+  {
+    "icon": "mdiContainEnd"
+  },
+  {
+    "icon": "mdiContainStart"
+  },
+  {
+    "icon": "mdiContentCopy"
+  },
+  {
+    "icon": "mdiContentCut"
+  },
+  {
+    "icon": "mdiContentDuplicate"
+  },
+  {
+    "icon": "mdiContentPaste"
+  },
+  {
+    "icon": "mdiContentSave"
+  },
+  {
+    "icon": "mdiContentSaveAlert"
+  },
+  {
+    "icon": "mdiContentSaveAlertOutline"
+  },
+  {
+    "icon": "mdiContentSaveAll"
+  },
+  {
+    "icon": "mdiContentSaveAllOutline"
+  },
+  {
+    "icon": "mdiContentSaveEdit"
+  },
+  {
+    "icon": "mdiContentSaveEditOutline"
+  },
+  {
+    "icon": "mdiContentSaveMove"
+  },
+  {
+    "icon": "mdiContentSaveMoveOutline"
+  },
+  {
+    "icon": "mdiContentSaveOutline"
+  },
+  {
+    "icon": "mdiContentSaveSettings"
+  },
+  {
+    "icon": "mdiContentSaveSettingsOutline"
+  },
+  {
+    "icon": "mdiContrast"
+  },
+  {
+    "icon": "mdiContrastBox"
+  },
+  {
+    "icon": "mdiContrastCircle"
+  },
+  {
+    "icon": "mdiControllerClassic"
+  },
+  {
+    "icon": "mdiControllerClassicOutline"
+  },
+  {
+    "icon": "mdiCookie"
+  },
+  {
+    "icon": "mdiCopyright"
+  },
+  {
+    "icon": "mdiCordova"
+  },
+  {
+    "icon": "mdiCorn"
+  },
+  {
+    "icon": "mdiCounter"
+  },
+  {
+    "icon": "mdiCow"
+  },
+  {
+    "icon": "mdiCowboy"
+  },
+  {
+    "icon": "mdiCpu32Bit"
+  },
+  {
+    "icon": "mdiCpu64Bit"
+  },
+  {
+    "icon": "mdiCrane"
+  },
+  {
+    "icon": "mdiCreation"
+  },
+  {
+    "icon": "mdiCreativeCommons"
+  },
+  {
+    "icon": "mdiCreditCard"
+  },
+  {
+    "icon": "mdiCreditCardClock"
+  },
+  {
+    "icon": "mdiCreditCardClockOutline"
+  },
+  {
+    "icon": "mdiCreditCardMarker"
+  },
+  {
+    "icon": "mdiCreditCardMultiple"
+  },
+  {
+    "icon": "mdiCreditCardOff"
+  },
+  {
+    "icon": "mdiCreditCardPlus"
+  },
+  {
+    "icon": "mdiCreditCardRefund"
+  },
+  {
+    "icon": "mdiCreditCardScan"
+  },
+  {
+    "icon": "mdiCreditCardSettings"
+  },
+  {
+    "icon": "mdiCreditCardWireless"
+  },
+  {
+    "icon": "mdiCricket"
+  },
+  {
+    "icon": "mdiCrop"
+  },
+  {
+    "icon": "mdiCropFree"
+  },
+  {
+    "icon": "mdiCropLandscape"
+  },
+  {
+    "icon": "mdiCropPortrait"
+  },
+  {
+    "icon": "mdiCropRotate"
+  },
+  {
+    "icon": "mdiCropSquare"
+  },
+  {
+    "icon": "mdiCrosshairs"
+  },
+  {
+    "icon": "mdiCrosshairsGps"
+  },
+  {
+    "icon": "mdiCrosshairsOff"
+  },
+  {
+    "icon": "mdiCrown"
+  },
+  {
+    "icon": "mdiCryengine"
+  },
+  {
+    "icon": "mdiCrystalBall"
+  },
+  {
+    "icon": "mdiCube"
+  },
+  {
+    "icon": "mdiCubeOutline"
+  },
+  {
+    "icon": "mdiCubeScan"
+  },
+  {
+    "icon": "mdiCubeSend"
+  },
+  {
+    "icon": "mdiCubeUnfolded"
+  },
+  {
+    "icon": "mdiCup"
+  },
+  {
+    "icon": "mdiCupOff"
+  },
+  {
+    "icon": "mdiCupWater"
+  },
+  {
+    "icon": "mdiCupboard"
+  },
+  {
+    "icon": "mdiCupboardOutline"
+  },
+  {
+    "icon": "mdiCupcake"
+  },
+  {
+    "icon": "mdiCurling"
+  },
+  {
+    "icon": "mdiCurrencyBdt"
+  },
+  {
+    "icon": "mdiCurrencyBrl"
+  },
+  {
+    "icon": "mdiCurrencyBtc"
+  },
+  {
+    "icon": "mdiCurrencyChf"
+  },
+  {
+    "icon": "mdiCurrencyCny"
+  },
+  {
+    "icon": "mdiCurrencyEth"
+  },
+  {
+    "icon": "mdiCurrencyEur"
+  },
+  {
+    "icon": "mdiCurrencyGbp"
+  },
+  {
+    "icon": "mdiCurrencyIls"
+  },
+  {
+    "icon": "mdiCurrencyInr"
+  },
+  {
+    "icon": "mdiCurrencyJpy"
+  },
+  {
+    "icon": "mdiCurrencyKrw"
+  },
+  {
+    "icon": "mdiCurrencyKzt"
+  },
+  {
+    "icon": "mdiCurrencyNgn"
+  },
+  {
+    "icon": "mdiCurrencyPhp"
+  },
+  {
+    "icon": "mdiCurrencyRial"
+  },
+  {
+    "icon": "mdiCurrencyRub"
+  },
+  {
+    "icon": "mdiCurrencySign"
+  },
+  {
+    "icon": "mdiCurrencyTry"
+  },
+  {
+    "icon": "mdiCurrencyTwd"
+  },
+  {
+    "icon": "mdiCurrencyUsd"
+  },
+  {
+    "icon": "mdiCurrencyUsdOff"
+  },
+  {
+    "icon": "mdiCurrentAc"
+  },
+  {
+    "icon": "mdiCurrentDc"
+  },
+  {
+    "icon": "mdiCursorDefault"
+  },
+  {
+    "icon": "mdiCursorDefaultClick"
+  },
+  {
+    "icon": "mdiCursorDefaultClickOutline"
+  },
+  {
+    "icon": "mdiCursorDefaultOutline"
+  },
+  {
+    "icon": "mdiCursorMove"
+  },
+  {
+    "icon": "mdiCursorPointer"
+  },
+  {
+    "icon": "mdiCursorText"
+  },
+  {
+    "icon": "mdiDatabase"
+  },
+  {
+    "icon": "mdiDatabaseCheck"
+  },
+  {
+    "icon": "mdiDatabaseEdit"
+  },
+  {
+    "icon": "mdiDatabaseExport"
+  },
+  {
+    "icon": "mdiDatabaseImport"
+  },
+  {
+    "icon": "mdiDatabaseLock"
+  },
+  {
+    "icon": "mdiDatabaseMinus"
+  },
+  {
+    "icon": "mdiDatabasePlus"
+  },
+  {
+    "icon": "mdiDatabaseRefresh"
+  },
+  {
+    "icon": "mdiDatabaseRemove"
+  },
+  {
+    "icon": "mdiDatabaseSearch"
+  },
+  {
+    "icon": "mdiDatabaseSettings"
+  },
+  {
+    "icon": "mdiDeathStar"
+  },
+  {
+    "icon": "mdiDeathStarVariant"
+  },
+  {
+    "icon": "mdiDeathlyHallows"
+  },
+  {
+    "icon": "mdiDebian"
+  },
+  {
+    "icon": "mdiDebugStepInto"
+  },
+  {
+    "icon": "mdiDebugStepOut"
+  },
+  {
+    "icon": "mdiDebugStepOver"
+  },
+  {
+    "icon": "mdiDecagram"
+  },
+  {
+    "icon": "mdiDecagramOutline"
+  },
+  {
+    "icon": "mdiDecimalDecrease"
+  },
+  {
+    "icon": "mdiDecimalIncrease"
+  },
+  {
+    "icon": "mdiDelete"
+  },
+  {
+    "icon": "mdiDeleteCircle"
+  },
+  {
+    "icon": "mdiDeleteCircleOutline"
+  },
+  {
+    "icon": "mdiDeleteEmpty"
+  },
+  {
+    "icon": "mdiDeleteEmptyOutline"
+  },
+  {
+    "icon": "mdiDeleteForever"
+  },
+  {
+    "icon": "mdiDeleteForeverOutline"
+  },
+  {
+    "icon": "mdiDeleteOutline"
+  },
+  {
+    "icon": "mdiDeleteRestore"
+  },
+  {
+    "icon": "mdiDeleteSweep"
+  },
+  {
+    "icon": "mdiDeleteSweepOutline"
+  },
+  {
+    "icon": "mdiDeleteVariant"
+  },
+  {
+    "icon": "mdiDelta"
+  },
+  {
+    "icon": "mdiDeskLamp"
+  },
+  {
+    "icon": "mdiDeskphone"
+  },
+  {
+    "icon": "mdiDesktopClassic"
+  },
+  {
+    "icon": "mdiDesktopMac"
+  },
+  {
+    "icon": "mdiDesktopMacDashboard"
+  },
+  {
+    "icon": "mdiDesktopTower"
+  },
+  {
+    "icon": "mdiDesktopTowerMonitor"
+  },
+  {
+    "icon": "mdiDetails"
+  },
+  {
+    "icon": "mdiDevTo"
+  },
+  {
+    "icon": "mdiDeveloperBoard"
+  },
+  {
+    "icon": "mdiDeviantart"
+  },
+  {
+    "icon": "mdiDialpad"
+  },
+  {
+    "icon": "mdiDiameter"
+  },
+  {
+    "icon": "mdiDiameterOutline"
+  },
+  {
+    "icon": "mdiDiameterVariant"
+  },
+  {
+    "icon": "mdiDiamond"
+  },
+  {
+    "icon": "mdiDiamondOutline"
+  },
+  {
+    "icon": "mdiDiamondStone"
+  },
+  {
+    "icon": "mdiDice1"
+  },
+  {
+    "icon": "mdiDice2"
+  },
+  {
+    "icon": "mdiDice3"
+  },
+  {
+    "icon": "mdiDice4"
+  },
+  {
+    "icon": "mdiDice5"
+  },
+  {
+    "icon": "mdiDice6"
+  },
+  {
+    "icon": "mdiDiceD10"
+  },
+  {
+    "icon": "mdiDiceD12"
+  },
+  {
+    "icon": "mdiDiceD20"
+  },
+  {
+    "icon": "mdiDiceD4"
+  },
+  {
+    "icon": "mdiDiceD6"
+  },
+  {
+    "icon": "mdiDiceD8"
+  },
+  {
+    "icon": "mdiDiceMultiple"
+  },
+  {
+    "icon": "mdiDictionary"
+  },
+  {
+    "icon": "mdiDipSwitch"
+  },
+  {
+    "icon": "mdiDirections"
+  },
+  {
+    "icon": "mdiDirectionsFork"
+  },
+  {
+    "icon": "mdiDisc"
+  },
+  {
+    "icon": "mdiDiscAlert"
+  },
+  {
+    "icon": "mdiDiscPlayer"
+  },
+  {
+    "icon": "mdiDiscord"
+  },
+  {
+    "icon": "mdiDishwasher"
+  },
+  {
+    "icon": "mdiDisqus"
+  },
+  {
+    "icon": "mdiDisqusOutline"
+  },
+  {
+    "icon": "mdiDivingFlippers"
+  },
+  {
+    "icon": "mdiDivingHelmet"
+  },
+  {
+    "icon": "mdiDivingScuba"
+  },
+  {
+    "icon": "mdiDivingScubaFlag"
+  },
+  {
+    "icon": "mdiDivingScubaTank"
+  },
+  {
+    "icon": "mdiDivingScubaTankMultiple"
+  },
+  {
+    "icon": "mdiDivingSnorkel"
+  },
+  {
+    "icon": "mdiDivision"
+  },
+  {
+    "icon": "mdiDivisionBox"
+  },
+  {
+    "icon": "mdiDlna"
+  },
+  {
+    "icon": "mdiDna"
+  },
+  {
+    "icon": "mdiDns"
+  },
+  {
+    "icon": "mdiDnsOutline"
+  },
+  {
+    "icon": "mdiDoNotDisturb"
+  },
+  {
+    "icon": "mdiDoNotDisturbOff"
+  },
+  {
+    "icon": "mdiDocker"
+  },
+  {
+    "icon": "mdiDoctor"
+  },
+  {
+    "icon": "mdiDog"
+  },
+  {
+    "icon": "mdiDogService"
+  },
+  {
+    "icon": "mdiDogSide"
+  },
+  {
+    "icon": "mdiDolby"
+  },
+  {
+    "icon": "mdiDolly"
+  },
+  {
+    "icon": "mdiDomain"
+  },
+  {
+    "icon": "mdiDomainOff"
+  },
+  {
+    "icon": "mdiDonkey"
+  },
+  {
+    "icon": "mdiDoor"
+  },
+  {
+    "icon": "mdiDoorClosed"
+  },
+  {
+    "icon": "mdiDoorOpen"
+  },
+  {
+    "icon": "mdiDoorbellVideo"
+  },
+  {
+    "icon": "mdiDotNet"
+  },
+  {
+    "icon": "mdiDotsHorizontal"
+  },
+  {
+    "icon": "mdiDotsHorizontalCircle"
+  },
+  {
+    "icon": "mdiDotsHorizontalCircleOutline"
+  },
+  {
+    "icon": "mdiDotsVertical"
+  },
+  {
+    "icon": "mdiDotsVerticalCircle"
+  },
+  {
+    "icon": "mdiDotsVerticalCircleOutline"
+  },
+  {
+    "icon": "mdiDouban"
+  },
+  {
+    "icon": "mdiDownload"
+  },
+  {
+    "icon": "mdiDownloadMultiple"
+  },
+  {
+    "icon": "mdiDownloadNetwork"
+  },
+  {
+    "icon": "mdiDownloadNetworkOutline"
+  },
+  {
+    "icon": "mdiDownloadOutline"
+  },
+  {
+    "icon": "mdiDrag"
+  },
+  {
+    "icon": "mdiDragHorizontal"
+  },
+  {
+    "icon": "mdiDragVariant"
+  },
+  {
+    "icon": "mdiDragVertical"
+  },
+  {
+    "icon": "mdiDramaMasks"
+  },
+  {
+    "icon": "mdiDraw"
+  },
+  {
+    "icon": "mdiDrawing"
+  },
+  {
+    "icon": "mdiDrawingBox"
+  },
+  {
+    "icon": "mdiDresser"
+  },
+  {
+    "icon": "mdiDresserOutline"
+  },
+  {
+    "icon": "mdiDribbble"
+  },
+  {
+    "icon": "mdiDribbbleBox"
+  },
+  {
+    "icon": "mdiDrone"
+  },
+  {
+    "icon": "mdiDropbox"
+  },
+  {
+    "icon": "mdiDrupal"
+  },
+  {
+    "icon": "mdiDuck"
+  },
+  {
+    "icon": "mdiDumbbell"
+  },
+  {
+    "icon": "mdiDumpTruck"
+  },
+  {
+    "icon": "mdiEarHearing"
+  },
+  {
+    "icon": "mdiEarHearingOff"
+  },
+  {
+    "icon": "mdiEarth"
+  },
+  {
+    "icon": "mdiEarthBox"
+  },
+  {
+    "icon": "mdiEarthBoxOff"
+  },
+  {
+    "icon": "mdiEarthOff"
+  },
+  {
+    "icon": "mdiEdge"
+  },
+  {
+    "icon": "mdiEgg"
+  },
+  {
+    "icon": "mdiEggEaster"
+  },
+  {
+    "icon": "mdiEightTrack"
+  },
+  {
+    "icon": "mdiEject"
+  },
+  {
+    "icon": "mdiEjectOutline"
+  },
+  {
+    "icon": "mdiElectricSwitch"
+  },
+  {
+    "icon": "mdiElephant"
+  },
+  {
+    "icon": "mdiElevationDecline"
+  },
+  {
+    "icon": "mdiElevationRise"
+  },
+  {
+    "icon": "mdiElevator"
+  },
+  {
+    "icon": "mdiEllipse"
+  },
+  {
+    "icon": "mdiEllipseOutline"
+  },
+  {
+    "icon": "mdiEmail"
+  },
+  {
+    "icon": "mdiEmailAlert"
+  },
+  {
+    "icon": "mdiEmailBox"
+  },
+  {
+    "icon": "mdiEmailCheck"
+  },
+  {
+    "icon": "mdiEmailCheckOutline"
+  },
+  {
+    "icon": "mdiEmailEdit"
+  },
+  {
+    "icon": "mdiEmailEditOutline"
+  },
+  {
+    "icon": "mdiEmailLock"
+  },
+  {
+    "icon": "mdiEmailMarkAsUnread"
+  },
+  {
+    "icon": "mdiEmailMinus"
+  },
+  {
+    "icon": "mdiEmailMinusOutline"
+  },
+  {
+    "icon": "mdiEmailMultiple"
+  },
+  {
+    "icon": "mdiEmailMultipleOutline"
+  },
+  {
+    "icon": "mdiEmailOpen"
+  },
+  {
+    "icon": "mdiEmailOpenMultiple"
+  },
+  {
+    "icon": "mdiEmailOpenMultipleOutline"
+  },
+  {
+    "icon": "mdiEmailOpenOutline"
+  },
+  {
+    "icon": "mdiEmailOutline"
+  },
+  {
+    "icon": "mdiEmailPlus"
+  },
+  {
+    "icon": "mdiEmailPlusOutline"
+  },
+  {
+    "icon": "mdiEmailSearch"
+  },
+  {
+    "icon": "mdiEmailSearchOutline"
+  },
+  {
+    "icon": "mdiEmailVariant"
+  },
+  {
+    "icon": "mdiEmber"
+  },
+  {
+    "icon": "mdiEmby"
+  },
+  {
+    "icon": "mdiEmoticon"
+  },
+  {
+    "icon": "mdiEmoticonAngry"
+  },
+  {
+    "icon": "mdiEmoticonAngryOutline"
+  },
+  {
+    "icon": "mdiEmoticonCool"
+  },
+  {
+    "icon": "mdiEmoticonCoolOutline"
+  },
+  {
+    "icon": "mdiEmoticonCry"
+  },
+  {
+    "icon": "mdiEmoticonCryOutline"
+  },
+  {
+    "icon": "mdiEmoticonDead"
+  },
+  {
+    "icon": "mdiEmoticonDeadOutline"
+  },
+  {
+    "icon": "mdiEmoticonDevil"
+  },
+  {
+    "icon": "mdiEmoticonDevilOutline"
+  },
+  {
+    "icon": "mdiEmoticonExcited"
+  },
+  {
+    "icon": "mdiEmoticonExcitedOutline"
+  },
+  {
+    "icon": "mdiEmoticonFrown"
+  },
+  {
+    "icon": "mdiEmoticonFrownOutline"
+  },
+  {
+    "icon": "mdiEmoticonHappy"
+  },
+  {
+    "icon": "mdiEmoticonHappyOutline"
+  },
+  {
+    "icon": "mdiEmoticonKiss"
+  },
+  {
+    "icon": "mdiEmoticonKissOutline"
+  },
+  {
+    "icon": "mdiEmoticonNeutral"
+  },
+  {
+    "icon": "mdiEmoticonNeutralOutline"
+  },
+  {
+    "icon": "mdiEmoticonOutline"
+  },
+  {
+    "icon": "mdiEmoticonPoop"
+  },
+  {
+    "icon": "mdiEmoticonPoopOutline"
+  },
+  {
+    "icon": "mdiEmoticonSad"
+  },
+  {
+    "icon": "mdiEmoticonSadOutline"
+  },
+  {
+    "icon": "mdiEmoticonTongue"
+  },
+  {
+    "icon": "mdiEmoticonTongueOutline"
+  },
+  {
+    "icon": "mdiEmoticonWink"
+  },
+  {
+    "icon": "mdiEmoticonWinkOutline"
+  },
+  {
+    "icon": "mdiEngine"
+  },
+  {
+    "icon": "mdiEngineOff"
+  },
+  {
+    "icon": "mdiEngineOffOutline"
+  },
+  {
+    "icon": "mdiEngineOutline"
+  },
+  {
+    "icon": "mdiEqual"
+  },
+  {
+    "icon": "mdiEqualBox"
+  },
+  {
+    "icon": "mdiEqualizer"
+  },
+  {
+    "icon": "mdiEqualizerOutline"
+  },
+  {
+    "icon": "mdiEraser"
+  },
+  {
+    "icon": "mdiEraserVariant"
+  },
+  {
+    "icon": "mdiEscalator"
+  },
+  {
+    "icon": "mdiEslint"
+  },
+  {
+    "icon": "mdiEt"
+  },
+  {
+    "icon": "mdiEthereum"
+  },
+  {
+    "icon": "mdiEthernet"
+  },
+  {
+    "icon": "mdiEthernetCable"
+  },
+  {
+    "icon": "mdiEthernetCableOff"
+  },
+  {
+    "icon": "mdiEtsy"
+  },
+  {
+    "icon": "mdiEvStation"
+  },
+  {
+    "icon": "mdiEventbrite"
+  },
+  {
+    "icon": "mdiEvernote"
+  },
+  {
+    "icon": "mdiExclamation"
+  },
+  {
+    "icon": "mdiExitRun"
+  },
+  {
+    "icon": "mdiExitToApp"
+  },
+  {
+    "icon": "mdiExpandAll"
+  },
+  {
+    "icon": "mdiExpandAllOutline"
+  },
+  {
+    "icon": "mdiExponent"
+  },
+  {
+    "icon": "mdiExponentBox"
+  },
+  {
+    "icon": "mdiExport"
+  },
+  {
+    "icon": "mdiExportVariant"
+  },
+  {
+    "icon": "mdiEye"
+  },
+  {
+    "icon": "mdiEyeCheck"
+  },
+  {
+    "icon": "mdiEyeCheckOutline"
+  },
+  {
+    "icon": "mdiEyeCircle"
+  },
+  {
+    "icon": "mdiEyeCircleOutline"
+  },
+  {
+    "icon": "mdiEyeOff"
+  },
+  {
+    "icon": "mdiEyeOffOutline"
+  },
+  {
+    "icon": "mdiEyeOutline"
+  },
+  {
+    "icon": "mdiEyePlus"
+  },
+  {
+    "icon": "mdiEyePlusOutline"
+  },
+  {
+    "icon": "mdiEyeSettings"
+  },
+  {
+    "icon": "mdiEyeSettingsOutline"
+  },
+  {
+    "icon": "mdiEyedropper"
+  },
+  {
+    "icon": "mdiEyedropperVariant"
+  },
+  {
+    "icon": "mdiFace"
+  },
+  {
+    "icon": "mdiFaceAgent"
+  },
+  {
+    "icon": "mdiFaceOutline"
+  },
+  {
+    "icon": "mdiFaceProfile"
+  },
+  {
+    "icon": "mdiFaceRecognition"
+  },
+  {
+    "icon": "mdiFacebook"
+  },
+  {
+    "icon": "mdiFacebookBox"
+  },
+  {
+    "icon": "mdiFacebookMessenger"
+  },
+  {
+    "icon": "mdiFacebookWorkplace"
+  },
+  {
+    "icon": "mdiFactory"
+  },
+  {
+    "icon": "mdiFan"
+  },
+  {
+    "icon": "mdiFanOff"
+  },
+  {
+    "icon": "mdiFastForward"
+  },
+  {
+    "icon": "mdiFastForward10"
+  },
+  {
+    "icon": "mdiFastForward30"
+  },
+  {
+    "icon": "mdiFastForwardOutline"
+  },
+  {
+    "icon": "mdiFax"
+  },
+  {
+    "icon": "mdiFeather"
+  },
+  {
+    "icon": "mdiFeatureSearch"
+  },
+  {
+    "icon": "mdiFeatureSearchOutline"
+  },
+  {
+    "icon": "mdiFedora"
+  },
+  {
+    "icon": "mdiFerrisWheel"
+  },
+  {
+    "icon": "mdiFerry"
+  },
+  {
+    "icon": "mdiFile"
+  },
+  {
+    "icon": "mdiFileAccount"
+  },
+  {
+    "icon": "mdiFileAlert"
+  },
+  {
+    "icon": "mdiFileAlertOutline"
+  },
+  {
+    "icon": "mdiFileCabinet"
+  },
+  {
+    "icon": "mdiFileCad"
+  },
+  {
+    "icon": "mdiFileCadBox"
+  },
+  {
+    "icon": "mdiFileCancel"
+  },
+  {
+    "icon": "mdiFileCancelOutline"
+  },
+  {
+    "icon": "mdiFileChart"
+  },
+  {
+    "icon": "mdiFileCheck"
+  },
+  {
+    "icon": "mdiFileCheckOutline"
+  },
+  {
+    "icon": "mdiFileCloud"
+  },
+  {
+    "icon": "mdiFileCompare"
+  },
+  {
+    "icon": "mdiFileDelimited"
+  },
+  {
+    "icon": "mdiFileDelimitedOutline"
+  },
+  {
+    "icon": "mdiFileDocument"
+  },
+  {
+    "icon": "mdiFileDocumentBox"
+  },
+  {
+    "icon": "mdiFileDocumentBoxCheck"
+  },
+  {
+    "icon": "mdiFileDocumentBoxCheckOutline"
+  },
+  {
+    "icon": "mdiFileDocumentBoxMinus"
+  },
+  {
+    "icon": "mdiFileDocumentBoxMinusOutline"
+  },
+  {
+    "icon": "mdiFileDocumentBoxMultiple"
+  },
+  {
+    "icon": "mdiFileDocumentBoxMultipleOutline"
+  },
+  {
+    "icon": "mdiFileDocumentBoxOutline"
+  },
+  {
+    "icon": "mdiFileDocumentBoxPlus"
+  },
+  {
+    "icon": "mdiFileDocumentBoxPlusOutline"
+  },
+  {
+    "icon": "mdiFileDocumentBoxRemove"
+  },
+  {
+    "icon": "mdiFileDocumentBoxRemoveOutline"
+  },
+  {
+    "icon": "mdiFileDocumentBoxSearch"
+  },
+  {
+    "icon": "mdiFileDocumentBoxSearchOutline"
+  },
+  {
+    "icon": "mdiFileDocumentEdit"
+  },
+  {
+    "icon": "mdiFileDocumentEditOutline"
+  },
+  {
+    "icon": "mdiFileDocumentOutline"
+  },
+  {
+    "icon": "mdiFileDownload"
+  },
+  {
+    "icon": "mdiFileDownloadOutline"
+  },
+  {
+    "icon": "mdiFileExcel"
+  },
+  {
+    "icon": "mdiFileExcelBox"
+  },
+  {
+    "icon": "mdiFileExport"
+  },
+  {
+    "icon": "mdiFileEye"
+  },
+  {
+    "icon": "mdiFileEyeOutline"
+  },
+  {
+    "icon": "mdiFileFind"
+  },
+  {
+    "icon": "mdiFileFindOutline"
+  },
+  {
+    "icon": "mdiFileHidden"
+  },
+  {
+    "icon": "mdiFileImage"
+  },
+  {
+    "icon": "mdiFileImageOutline"
+  },
+  {
+    "icon": "mdiFileImport"
+  },
+  {
+    "icon": "mdiFileLock"
+  },
+  {
+    "icon": "mdiFileMove"
+  },
+  {
+    "icon": "mdiFileMultiple"
+  },
+  {
+    "icon": "mdiFileMusic"
+  },
+  {
+    "icon": "mdiFileMusicOutline"
+  },
+  {
+    "icon": "mdiFileOutline"
+  },
+  {
+    "icon": "mdiFilePdf"
+  },
+  {
+    "icon": "mdiFilePdfBox"
+  },
+  {
+    "icon": "mdiFilePdfOutline"
+  },
+  {
+    "icon": "mdiFilePercent"
+  },
+  {
+    "icon": "mdiFilePlus"
+  },
+  {
+    "icon": "mdiFilePlusOutline"
+  },
+  {
+    "icon": "mdiFilePowerpoint"
+  },
+  {
+    "icon": "mdiFilePowerpointBox"
+  },
+  {
+    "icon": "mdiFilePresentationBox"
+  },
+  {
+    "icon": "mdiFileQuestion"
+  },
+  {
+    "icon": "mdiFileRemove"
+  },
+  {
+    "icon": "mdiFileReplace"
+  },
+  {
+    "icon": "mdiFileReplaceOutline"
+  },
+  {
+    "icon": "mdiFileRestore"
+  },
+  {
+    "icon": "mdiFileSearch"
+  },
+  {
+    "icon": "mdiFileSearchOutline"
+  },
+  {
+    "icon": "mdiFileSend"
+  },
+  {
+    "icon": "mdiFileTable"
+  },
+  {
+    "icon": "mdiFileTableOutline"
+  },
+  {
+    "icon": "mdiFileTree"
+  },
+  {
+    "icon": "mdiFileUndo"
+  },
+  {
+    "icon": "mdiFileUpload"
+  },
+  {
+    "icon": "mdiFileUploadOutline"
+  },
+  {
+    "icon": "mdiFileVideo"
+  },
+  {
+    "icon": "mdiFileVideoOutline"
+  },
+  {
+    "icon": "mdiFileWord"
+  },
+  {
+    "icon": "mdiFileWordBox"
+  },
+  {
+    "icon": "mdiFileXml"
+  },
+  {
+    "icon": "mdiFilm"
+  },
+  {
+    "icon": "mdiFilmstrip"
+  },
+  {
+    "icon": "mdiFilmstripOff"
+  },
+  {
+    "icon": "mdiFilter"
+  },
+  {
+    "icon": "mdiFilterMinus"
+  },
+  {
+    "icon": "mdiFilterMinusOutline"
+  },
+  {
+    "icon": "mdiFilterOutline"
+  },
+  {
+    "icon": "mdiFilterPlus"
+  },
+  {
+    "icon": "mdiFilterPlusOutline"
+  },
+  {
+    "icon": "mdiFilterRemove"
+  },
+  {
+    "icon": "mdiFilterRemoveOutline"
+  },
+  {
+    "icon": "mdiFilterVariant"
+  },
+  {
+    "icon": "mdiFinance"
+  },
+  {
+    "icon": "mdiFindReplace"
+  },
+  {
+    "icon": "mdiFingerprint"
+  },
+  {
+    "icon": "mdiFingerprintOff"
+  },
+  {
+    "icon": "mdiFire"
+  },
+  {
+    "icon": "mdiFireExtinguisher"
+  },
+  {
+    "icon": "mdiFireTruck"
+  },
+  {
+    "icon": "mdiFirebase"
+  },
+  {
+    "icon": "mdiFirefox"
+  },
+  {
+    "icon": "mdiFireplace"
+  },
+  {
+    "icon": "mdiFireplaceOff"
+  },
+  {
+    "icon": "mdiFirework"
+  },
+  {
+    "icon": "mdiFish"
+  },
+  {
+    "icon": "mdiFishbowl"
+  },
+  {
+    "icon": "mdiFishbowlOutline"
+  },
+  {
+    "icon": "mdiFitToPage"
+  },
+  {
+    "icon": "mdiFitToPageOutline"
+  },
+  {
+    "icon": "mdiFlag"
+  },
+  {
+    "icon": "mdiFlagCheckered"
+  },
+  {
+    "icon": "mdiFlagMinus"
+  },
+  {
+    "icon": "mdiFlagOutline"
+  },
+  {
+    "icon": "mdiFlagPlus"
+  },
+  {
+    "icon": "mdiFlagRemove"
+  },
+  {
+    "icon": "mdiFlagTriangle"
+  },
+  {
+    "icon": "mdiFlagVariant"
+  },
+  {
+    "icon": "mdiFlagVariantOutline"
+  },
+  {
+    "icon": "mdiFlare"
+  },
+  {
+    "icon": "mdiFlash"
+  },
+  {
+    "icon": "mdiFlashAlert"
+  },
+  {
+    "icon": "mdiFlashAlertOutline"
+  },
+  {
+    "icon": "mdiFlashAuto"
+  },
+  {
+    "icon": "mdiFlashCircle"
+  },
+  {
+    "icon": "mdiFlashOff"
+  },
+  {
+    "icon": "mdiFlashOutline"
+  },
+  {
+    "icon": "mdiFlashRedEye"
+  },
+  {
+    "icon": "mdiFlashlight"
+  },
+  {
+    "icon": "mdiFlashlightOff"
+  },
+  {
+    "icon": "mdiFlask"
+  },
+  {
+    "icon": "mdiFlaskEmpty"
+  },
+  {
+    "icon": "mdiFlaskEmptyOutline"
+  },
+  {
+    "icon": "mdiFlaskOutline"
+  },
+  {
+    "icon": "mdiFlattr"
+  },
+  {
+    "icon": "mdiFlickr"
+  },
+  {
+    "icon": "mdiFlipToBack"
+  },
+  {
+    "icon": "mdiFlipToFront"
+  },
+  {
+    "icon": "mdiFloorLamp"
+  },
+  {
+    "icon": "mdiFloorPlan"
+  },
+  {
+    "icon": "mdiFloppy"
+  },
+  {
+    "icon": "mdiFloppyVariant"
+  },
+  {
+    "icon": "mdiFlower"
+  },
+  {
+    "icon": "mdiFlowerOutline"
+  },
+  {
+    "icon": "mdiFlowerPoppy"
+  },
+  {
+    "icon": "mdiFlowerTulip"
+  },
+  {
+    "icon": "mdiFlowerTulipOutline"
+  },
+  {
+    "icon": "mdiFocusAuto"
+  },
+  {
+    "icon": "mdiFocusField"
+  },
+  {
+    "icon": "mdiFocusFieldHorizontal"
+  },
+  {
+    "icon": "mdiFocusFieldVertical"
+  },
+  {
+    "icon": "mdiFolder"
+  },
+  {
+    "icon": "mdiFolderAccount"
+  },
+  {
+    "icon": "mdiFolderAccountOutline"
+  },
+  {
+    "icon": "mdiFolderAlert"
+  },
+  {
+    "icon": "mdiFolderAlertOutline"
+  },
+  {
+    "icon": "mdiFolderClock"
+  },
+  {
+    "icon": "mdiFolderClockOutline"
+  },
+  {
+    "icon": "mdiFolderDownload"
+  },
+  {
+    "icon": "mdiFolderEdit"
+  },
+  {
+    "icon": "mdiFolderEditOutline"
+  },
+  {
+    "icon": "mdiFolderGoogleDrive"
+  },
+  {
+    "icon": "mdiFolderImage"
+  },
+  {
+    "icon": "mdiFolderKey"
+  },
+  {
+    "icon": "mdiFolderKeyNetwork"
+  },
+  {
+    "icon": "mdiFolderKeyNetworkOutline"
+  },
+  {
+    "icon": "mdiFolderLock"
+  },
+  {
+    "icon": "mdiFolderLockOpen"
+  },
+  {
+    "icon": "mdiFolderMove"
+  },
+  {
+    "icon": "mdiFolderMultiple"
+  },
+  {
+    "icon": "mdiFolderMultipleImage"
+  },
+  {
+    "icon": "mdiFolderMultipleOutline"
+  },
+  {
+    "icon": "mdiFolderNetwork"
+  },
+  {
+    "icon": "mdiFolderNetworkOutline"
+  },
+  {
+    "icon": "mdiFolderOpen"
+  },
+  {
+    "icon": "mdiFolderOpenOutline"
+  },
+  {
+    "icon": "mdiFolderOutline"
+  },
+  {
+    "icon": "mdiFolderPlus"
+  },
+  {
+    "icon": "mdiFolderPlusOutline"
+  },
+  {
+    "icon": "mdiFolderPound"
+  },
+  {
+    "icon": "mdiFolderPoundOutline"
+  },
+  {
+    "icon": "mdiFolderRemove"
+  },
+  {
+    "icon": "mdiFolderRemoveOutline"
+  },
+  {
+    "icon": "mdiFolderSearch"
+  },
+  {
+    "icon": "mdiFolderSearchOutline"
+  },
+  {
+    "icon": "mdiFolderStar"
+  },
+  {
+    "icon": "mdiFolderStarOutline"
+  },
+  {
+    "icon": "mdiFolderSync"
+  },
+  {
+    "icon": "mdiFolderSyncOutline"
+  },
+  {
+    "icon": "mdiFolderText"
+  },
+  {
+    "icon": "mdiFolderTextOutline"
+  },
+  {
+    "icon": "mdiFolderUpload"
+  },
+  {
+    "icon": "mdiFontAwesome"
+  },
+  {
+    "icon": "mdiFood"
+  },
+  {
+    "icon": "mdiFoodApple"
+  },
+  {
+    "icon": "mdiFoodAppleOutline"
+  },
+  {
+    "icon": "mdiFoodCroissant"
+  },
+  {
+    "icon": "mdiFoodForkDrink"
+  },
+  {
+    "icon": "mdiFoodOff"
+  },
+  {
+    "icon": "mdiFoodVariant"
+  },
+  {
+    "icon": "mdiFootPrint"
+  },
+  {
+    "icon": "mdiFootball"
+  },
+  {
+    "icon": "mdiFootballAustralian"
+  },
+  {
+    "icon": "mdiFootballHelmet"
+  },
+  {
+    "icon": "mdiForklift"
+  },
+  {
+    "icon": "mdiFormatAlignBottom"
+  },
+  {
+    "icon": "mdiFormatAlignCenter"
+  },
+  {
+    "icon": "mdiFormatAlignJustify"
+  },
+  {
+    "icon": "mdiFormatAlignLeft"
+  },
+  {
+    "icon": "mdiFormatAlignMiddle"
+  },
+  {
+    "icon": "mdiFormatAlignRight"
+  },
+  {
+    "icon": "mdiFormatAlignTop"
+  },
+  {
+    "icon": "mdiFormatAnnotationMinus"
+  },
+  {
+    "icon": "mdiFormatAnnotationPlus"
+  },
+  {
+    "icon": "mdiFormatBold"
+  },
+  {
+    "icon": "mdiFormatClear"
+  },
+  {
+    "icon": "mdiFormatColorFill"
+  },
+  {
+    "icon": "mdiFormatColorHighlight"
+  },
+  {
+    "icon": "mdiFormatColorText"
+  },
+  {
+    "icon": "mdiFormatColumns"
+  },
+  {
+    "icon": "mdiFormatFloatCenter"
+  },
+  {
+    "icon": "mdiFormatFloatLeft"
+  },
+  {
+    "icon": "mdiFormatFloatNone"
+  },
+  {
+    "icon": "mdiFormatFloatRight"
+  },
+  {
+    "icon": "mdiFormatFont"
+  },
+  {
+    "icon": "mdiFormatFontSizeDecrease"
+  },
+  {
+    "icon": "mdiFormatFontSizeIncrease"
+  },
+  {
+    "icon": "mdiFormatHeader1"
+  },
+  {
+    "icon": "mdiFormatHeader2"
+  },
+  {
+    "icon": "mdiFormatHeader3"
+  },
+  {
+    "icon": "mdiFormatHeader4"
+  },
+  {
+    "icon": "mdiFormatHeader5"
+  },
+  {
+    "icon": "mdiFormatHeader6"
+  },
+  {
+    "icon": "mdiFormatHeaderDecrease"
+  },
+  {
+    "icon": "mdiFormatHeaderEqual"
+  },
+  {
+    "icon": "mdiFormatHeaderIncrease"
+  },
+  {
+    "icon": "mdiFormatHeaderPound"
+  },
+  {
+    "icon": "mdiFormatHorizontalAlignCenter"
+  },
+  {
+    "icon": "mdiFormatHorizontalAlignLeft"
+  },
+  {
+    "icon": "mdiFormatHorizontalAlignRight"
+  },
+  {
+    "icon": "mdiFormatIndentDecrease"
+  },
+  {
+    "icon": "mdiFormatIndentIncrease"
+  },
+  {
+    "icon": "mdiFormatItalic"
+  },
+  {
+    "icon": "mdiFormatLetterCase"
+  },
+  {
+    "icon": "mdiFormatLetterCaseLower"
+  },
+  {
+    "icon": "mdiFormatLetterCaseUpper"
+  },
+  {
+    "icon": "mdiFormatLineSpacing"
+  },
+  {
+    "icon": "mdiFormatLineStyle"
+  },
+  {
+    "icon": "mdiFormatLineWeight"
+  },
+  {
+    "icon": "mdiFormatListBulleted"
+  },
+  {
+    "icon": "mdiFormatListBulletedSquare"
+  },
+  {
+    "icon": "mdiFormatListBulletedType"
+  },
+  {
+    "icon": "mdiFormatListCheckbox"
+  },
+  {
+    "icon": "mdiFormatListChecks"
+  },
+  {
+    "icon": "mdiFormatListNumbered"
+  },
+  {
+    "icon": "mdiFormatListNumberedRtl"
+  },
+  {
+    "icon": "mdiFormatListTriangle"
+  },
+  {
+    "icon": "mdiFormatOverline"
+  },
+  {
+    "icon": "mdiFormatPageBreak"
+  },
+  {
+    "icon": "mdiFormatPaint"
+  },
+  {
+    "icon": "mdiFormatParagraph"
+  },
+  {
+    "icon": "mdiFormatPilcrow"
+  },
+  {
+    "icon": "mdiFormatQuoteClose"
+  },
+  {
+    "icon": "mdiFormatQuoteOpen"
+  },
+  {
+    "icon": "mdiFormatRotate90"
+  },
+  {
+    "icon": "mdiFormatSection"
+  },
+  {
+    "icon": "mdiFormatSize"
+  },
+  {
+    "icon": "mdiFormatStrikethrough"
+  },
+  {
+    "icon": "mdiFormatStrikethroughVariant"
+  },
+  {
+    "icon": "mdiFormatSubscript"
+  },
+  {
+    "icon": "mdiFormatSuperscript"
+  },
+  {
+    "icon": "mdiFormatText"
+  },
+  {
+    "icon": "mdiFormatTextRotationDown"
+  },
+  {
+    "icon": "mdiFormatTextRotationNone"
+  },
+  {
+    "icon": "mdiFormatTextVariant"
+  },
+  {
+    "icon": "mdiFormatTextWrappingClip"
+  },
+  {
+    "icon": "mdiFormatTextWrappingOverflow"
+  },
+  {
+    "icon": "mdiFormatTextWrappingWrap"
+  },
+  {
+    "icon": "mdiFormatTextbox"
+  },
+  {
+    "icon": "mdiFormatTextdirectionLToR"
+  },
+  {
+    "icon": "mdiFormatTextdirectionRToL"
+  },
+  {
+    "icon": "mdiFormatTitle"
+  },
+  {
+    "icon": "mdiFormatUnderline"
+  },
+  {
+    "icon": "mdiFormatVerticalAlignBottom"
+  },
+  {
+    "icon": "mdiFormatVerticalAlignCenter"
+  },
+  {
+    "icon": "mdiFormatVerticalAlignTop"
+  },
+  {
+    "icon": "mdiFormatWrapInline"
+  },
+  {
+    "icon": "mdiFormatWrapSquare"
+  },
+  {
+    "icon": "mdiFormatWrapTight"
+  },
+  {
+    "icon": "mdiFormatWrapTopBottom"
+  },
+  {
+    "icon": "mdiForum"
+  },
+  {
+    "icon": "mdiForumOutline"
+  },
+  {
+    "icon": "mdiForward"
+  },
+  {
+    "icon": "mdiForwardburger"
+  },
+  {
+    "icon": "mdiFountain"
+  },
+  {
+    "icon": "mdiFountainPen"
+  },
+  {
+    "icon": "mdiFountainPenTip"
+  },
+  {
+    "icon": "mdiFoursquare"
+  },
+  {
+    "icon": "mdiFreebsd"
+  },
+  {
+    "icon": "mdiFrequentlyAskedQuestions"
+  },
+  {
+    "icon": "mdiFridge"
+  },
+  {
+    "icon": "mdiFridgeBottom"
+  },
+  {
+    "icon": "mdiFridgeOutline"
+  },
+  {
+    "icon": "mdiFridgeTop"
+  },
+  {
+    "icon": "mdiFuel"
+  },
+  {
+    "icon": "mdiFullscreen"
+  },
+  {
+    "icon": "mdiFullscreenExit"
+  },
+  {
+    "icon": "mdiFunction"
+  },
+  {
+    "icon": "mdiFunctionVariant"
+  },
+  {
+    "icon": "mdiFuse"
+  },
+  {
+    "icon": "mdiFuseBlade"
+  },
+  {
+    "icon": "mdiGamepad"
+  },
+  {
+    "icon": "mdiGamepadCircle"
+  },
+  {
+    "icon": "mdiGamepadCircleDown"
+  },
+  {
+    "icon": "mdiGamepadCircleLeft"
+  },
+  {
+    "icon": "mdiGamepadCircleOutline"
+  },
+  {
+    "icon": "mdiGamepadCircleRight"
+  },
+  {
+    "icon": "mdiGamepadCircleUp"
+  },
+  {
+    "icon": "mdiGamepadDown"
+  },
+  {
+    "icon": "mdiGamepadLeft"
+  },
+  {
+    "icon": "mdiGamepadRight"
+  },
+  {
+    "icon": "mdiGamepadRound"
+  },
+  {
+    "icon": "mdiGamepadRoundDown"
+  },
+  {
+    "icon": "mdiGamepadRoundLeft"
+  },
+  {
+    "icon": "mdiGamepadRoundOutline"
+  },
+  {
+    "icon": "mdiGamepadRoundRight"
+  },
+  {
+    "icon": "mdiGamepadRoundUp"
+  },
+  {
+    "icon": "mdiGamepadSquare"
+  },
+  {
+    "icon": "mdiGamepadSquareOutline"
+  },
+  {
+    "icon": "mdiGamepadUp"
+  },
+  {
+    "icon": "mdiGamepadVariant"
+  },
+  {
+    "icon": "mdiGamepadVariantOutline"
+  },
+  {
+    "icon": "mdiGantryCrane"
+  },
+  {
+    "icon": "mdiGarage"
+  },
+  {
+    "icon": "mdiGarageAlert"
+  },
+  {
+    "icon": "mdiGarageOpen"
+  },
+  {
+    "icon": "mdiGasCylinder"
+  },
+  {
+    "icon": "mdiGasStation"
+  },
+  {
+    "icon": "mdiGasStationOutline"
+  },
+  {
+    "icon": "mdiGate"
+  },
+  {
+    "icon": "mdiGateAnd"
+  },
+  {
+    "icon": "mdiGateNand"
+  },
+  {
+    "icon": "mdiGateNor"
+  },
+  {
+    "icon": "mdiGateNot"
+  },
+  {
+    "icon": "mdiGateOr"
+  },
+  {
+    "icon": "mdiGateXnor"
+  },
+  {
+    "icon": "mdiGateXor"
+  },
+  {
+    "icon": "mdiGatsby"
+  },
+  {
+    "icon": "mdiGauge"
+  },
+  {
+    "icon": "mdiGaugeEmpty"
+  },
+  {
+    "icon": "mdiGaugeFull"
+  },
+  {
+    "icon": "mdiGaugeLow"
+  },
+  {
+    "icon": "mdiGavel"
+  },
+  {
+    "icon": "mdiGenderFemale"
+  },
+  {
+    "icon": "mdiGenderMale"
+  },
+  {
+    "icon": "mdiGenderMaleFemale"
+  },
+  {
+    "icon": "mdiGenderTransgender"
+  },
+  {
+    "icon": "mdiGentoo"
+  },
+  {
+    "icon": "mdiGesture"
+  },
+  {
+    "icon": "mdiGestureDoubleTap"
+  },
+  {
+    "icon": "mdiGesturePinch"
+  },
+  {
+    "icon": "mdiGestureSpread"
+  },
+  {
+    "icon": "mdiGestureSwipe"
+  },
+  {
+    "icon": "mdiGestureSwipeDown"
+  },
+  {
+    "icon": "mdiGestureSwipeHorizontal"
+  },
+  {
+    "icon": "mdiGestureSwipeLeft"
+  },
+  {
+    "icon": "mdiGestureSwipeRight"
+  },
+  {
+    "icon": "mdiGestureSwipeUp"
+  },
+  {
+    "icon": "mdiGestureSwipeVertical"
+  },
+  {
+    "icon": "mdiGestureTap"
+  },
+  {
+    "icon": "mdiGestureTapHold"
+  },
+  {
+    "icon": "mdiGestureTwoDoubleTap"
+  },
+  {
+    "icon": "mdiGestureTwoTap"
+  },
+  {
+    "icon": "mdiGhost"
+  },
+  {
+    "icon": "mdiGhostOff"
+  },
+  {
+    "icon": "mdiGif"
+  },
+  {
+    "icon": "mdiGift"
+  },
+  {
+    "icon": "mdiGiftOutline"
+  },
+  {
+    "icon": "mdiGit"
+  },
+  {
+    "icon": "mdiGithubBox"
+  },
+  {
+    "icon": "mdiGithubCircle"
+  },
+  {
+    "icon": "mdiGithubFace"
+  },
+  {
+    "icon": "mdiGitlab"
+  },
+  {
+    "icon": "mdiGlassCocktail"
+  },
+  {
+    "icon": "mdiGlassFlute"
+  },
+  {
+    "icon": "mdiGlassMug"
+  },
+  {
+    "icon": "mdiGlassStange"
+  },
+  {
+    "icon": "mdiGlassTulip"
+  },
+  {
+    "icon": "mdiGlassWine"
+  },
+  {
+    "icon": "mdiGlassdoor"
+  },
+  {
+    "icon": "mdiGlasses"
+  },
+  {
+    "icon": "mdiGlobeModel"
+  },
+  {
+    "icon": "mdiGmail"
+  },
+  {
+    "icon": "mdiGnome"
+  },
+  {
+    "icon": "mdiGoKart"
+  },
+  {
+    "icon": "mdiGoKartTrack"
+  },
+  {
+    "icon": "mdiGog"
+  },
+  {
+    "icon": "mdiGolf"
+  },
+  {
+    "icon": "mdiGondola"
+  },
+  {
+    "icon": "mdiGoodreads"
+  },
+  {
+    "icon": "mdiGoogle"
+  },
+  {
+    "icon": "mdiGoogleAdwords"
+  },
+  {
+    "icon": "mdiGoogleAllo"
+  },
+  {
+    "icon": "mdiGoogleAnalytics"
+  },
+  {
+    "icon": "mdiGoogleAssistant"
+  },
+  {
+    "icon": "mdiGoogleCardboard"
+  },
+  {
+    "icon": "mdiGoogleChrome"
+  },
+  {
+    "icon": "mdiGoogleCircles"
+  },
+  {
+    "icon": "mdiGoogleCirclesCommunities"
+  },
+  {
+    "icon": "mdiGoogleCirclesExtended"
+  },
+  {
+    "icon": "mdiGoogleCirclesGroup"
+  },
+  {
+    "icon": "mdiGoogleClassroom"
+  },
+  {
+    "icon": "mdiGoogleController"
+  },
+  {
+    "icon": "mdiGoogleControllerOff"
+  },
+  {
+    "icon": "mdiGoogleDrive"
+  },
+  {
+    "icon": "mdiGoogleEarth"
+  },
+  {
+    "icon": "mdiGoogleFit"
+  },
+  {
+    "icon": "mdiGoogleGlass"
+  },
+  {
+    "icon": "mdiGoogleHangouts"
+  },
+  {
+    "icon": "mdiGoogleHome"
+  },
+  {
+    "icon": "mdiGoogleKeep"
+  },
+  {
+    "icon": "mdiGoogleLens"
+  },
+  {
+    "icon": "mdiGoogleMaps"
+  },
+  {
+    "icon": "mdiGoogleNearby"
+  },
+  {
+    "icon": "mdiGooglePages"
+  },
+  {
+    "icon": "mdiGooglePhotos"
+  },
+  {
+    "icon": "mdiGooglePhysicalWeb"
+  },
+  {
+    "icon": "mdiGooglePlay"
+  },
+  {
+    "icon": "mdiGooglePlus"
+  },
+  {
+    "icon": "mdiGooglePlusBox"
+  },
+  {
+    "icon": "mdiGooglePodcast"
+  },
+  {
+    "icon": "mdiGoogleSpreadsheet"
+  },
+  {
+    "icon": "mdiGoogleStreetView"
+  },
+  {
+    "icon": "mdiGoogleTranslate"
+  },
+  {
+    "icon": "mdiGpu"
+  },
+  {
+    "icon": "mdiGradient"
+  },
+  {
+    "icon": "mdiGrain"
+  },
+  {
+    "icon": "mdiGraphql"
+  },
+  {
+    "icon": "mdiGraveStone"
+  },
+  {
+    "icon": "mdiGreasePencil"
+  },
+  {
+    "icon": "mdiGreaterThan"
+  },
+  {
+    "icon": "mdiGreaterThanOrEqual"
+  },
+  {
+    "icon": "mdiGrid"
+  },
+  {
+    "icon": "mdiGridLarge"
+  },
+  {
+    "icon": "mdiGridOff"
+  },
+  {
+    "icon": "mdiGrill"
+  },
+  {
+    "icon": "mdiGroup"
+  },
+  {
+    "icon": "mdiGuitarAcoustic"
+  },
+  {
+    "icon": "mdiGuitarElectric"
+  },
+  {
+    "icon": "mdiGuitarPick"
+  },
+  {
+    "icon": "mdiGuitarPickOutline"
+  },
+  {
+    "icon": "mdiGuyFawkesMask"
+  },
+  {
+    "icon": "mdiHackernews"
+  },
+  {
+    "icon": "mdiHail"
+  },
+  {
+    "icon": "mdiHalloween"
+  },
+  {
+    "icon": "mdiHamburger"
+  },
+  {
+    "icon": "mdiHammer"
+  },
+  {
+    "icon": "mdiHand"
+  },
+  {
+    "icon": "mdiHandLeft"
+  },
+  {
+    "icon": "mdiHandOkay"
+  },
+  {
+    "icon": "mdiHandPeace"
+  },
+  {
+    "icon": "mdiHandPeaceVariant"
+  },
+  {
+    "icon": "mdiHandPointingDown"
+  },
+  {
+    "icon": "mdiHandPointingLeft"
+  },
+  {
+    "icon": "mdiHandPointingRight"
+  },
+  {
+    "icon": "mdiHandPointingUp"
+  },
+  {
+    "icon": "mdiHandRight"
+  },
+  {
+    "icon": "mdiHandSaw"
+  },
+  {
+    "icon": "mdiHandball"
+  },
+  {
+    "icon": "mdiHanger"
+  },
+  {
+    "icon": "mdiHardHat"
+  },
+  {
+    "icon": "mdiHarddisk"
+  },
+  {
+    "icon": "mdiHatFedora"
+  },
+  {
+    "icon": "mdiHazardLights"
+  },
+  {
+    "icon": "mdiHdr"
+  },
+  {
+    "icon": "mdiHdrOff"
+  },
+  {
+    "icon": "mdiHeadphones"
+  },
+  {
+    "icon": "mdiHeadphonesBluetooth"
+  },
+  {
+    "icon": "mdiHeadphonesBox"
+  },
+  {
+    "icon": "mdiHeadphonesOff"
+  },
+  {
+    "icon": "mdiHeadphonesSettings"
+  },
+  {
+    "icon": "mdiHeadset"
+  },
+  {
+    "icon": "mdiHeadsetDock"
+  },
+  {
+    "icon": "mdiHeadsetOff"
+  },
+  {
+    "icon": "mdiHeart"
+  },
+  {
+    "icon": "mdiHeartBox"
+  },
+  {
+    "icon": "mdiHeartBoxOutline"
+  },
+  {
+    "icon": "mdiHeartBroken"
+  },
+  {
+    "icon": "mdiHeartBrokenOutline"
+  },
+  {
+    "icon": "mdiHeartCircle"
+  },
+  {
+    "icon": "mdiHeartCircleOutline"
+  },
+  {
+    "icon": "mdiHeartFlash"
+  },
+  {
+    "icon": "mdiHeartHalf"
+  },
+  {
+    "icon": "mdiHeartHalfFull"
+  },
+  {
+    "icon": "mdiHeartHalfOutline"
+  },
+  {
+    "icon": "mdiHeartMultiple"
+  },
+  {
+    "icon": "mdiHeartMultipleOutline"
+  },
+  {
+    "icon": "mdiHeartOff"
+  },
+  {
+    "icon": "mdiHeartOutline"
+  },
+  {
+    "icon": "mdiHeartPulse"
+  },
+  {
+    "icon": "mdiHelicopter"
+  },
+  {
+    "icon": "mdiHelp"
+  },
+  {
+    "icon": "mdiHelpBox"
+  },
+  {
+    "icon": "mdiHelpCircle"
+  },
+  {
+    "icon": "mdiHelpCircleOutline"
+  },
+  {
+    "icon": "mdiHelpNetwork"
+  },
+  {
+    "icon": "mdiHelpNetworkOutline"
+  },
+  {
+    "icon": "mdiHelpRhombus"
+  },
+  {
+    "icon": "mdiHelpRhombusOutline"
+  },
+  {
+    "icon": "mdiHexagon"
+  },
+  {
+    "icon": "mdiHexagonMultiple"
+  },
+  {
+    "icon": "mdiHexagonOutline"
+  },
+  {
+    "icon": "mdiHexagonSlice1"
+  },
+  {
+    "icon": "mdiHexagonSlice2"
+  },
+  {
+    "icon": "mdiHexagonSlice3"
+  },
+  {
+    "icon": "mdiHexagonSlice4"
+  },
+  {
+    "icon": "mdiHexagonSlice5"
+  },
+  {
+    "icon": "mdiHexagonSlice6"
+  },
+  {
+    "icon": "mdiHexagram"
+  },
+  {
+    "icon": "mdiHexagramOutline"
+  },
+  {
+    "icon": "mdiHighDefinition"
+  },
+  {
+    "icon": "mdiHighDefinitionBox"
+  },
+  {
+    "icon": "mdiHighway"
+  },
+  {
+    "icon": "mdiHiking"
+  },
+  {
+    "icon": "mdiHinduism"
+  },
+  {
+    "icon": "mdiHistory"
+  },
+  {
+    "icon": "mdiHockeyPuck"
+  },
+  {
+    "icon": "mdiHockeySticks"
+  },
+  {
+    "icon": "mdiHololens"
+  },
+  {
+    "icon": "mdiHome"
+  },
+  {
+    "icon": "mdiHomeAccount"
+  },
+  {
+    "icon": "mdiHomeAlert"
+  },
+  {
+    "icon": "mdiHomeAnalytics"
+  },
+  {
+    "icon": "mdiHomeAssistant"
+  },
+  {
+    "icon": "mdiHomeAutomation"
+  },
+  {
+    "icon": "mdiHomeCircle"
+  },
+  {
+    "icon": "mdiHomeCity"
+  },
+  {
+    "icon": "mdiHomeCityOutline"
+  },
+  {
+    "icon": "mdiHomeCurrencyUsd"
+  },
+  {
+    "icon": "mdiHomeExportOutline"
+  },
+  {
+    "icon": "mdiHomeFlood"
+  },
+  {
+    "icon": "mdiHomeFloor0"
+  },
+  {
+    "icon": "mdiHomeFloor1"
+  },
+  {
+    "icon": "mdiHomeFloor2"
+  },
+  {
+    "icon": "mdiHomeFloor3"
+  },
+  {
+    "icon": "mdiHomeFloorA"
+  },
+  {
+    "icon": "mdiHomeFloorB"
+  },
+  {
+    "icon": "mdiHomeFloorG"
+  },
+  {
+    "icon": "mdiHomeFloorL"
+  },
+  {
+    "icon": "mdiHomeFloorNegative1"
+  },
+  {
+    "icon": "mdiHomeGroup"
+  },
+  {
+    "icon": "mdiHomeHeart"
+  },
+  {
+    "icon": "mdiHomeImportOutline"
+  },
+  {
+    "icon": "mdiHomeLock"
+  },
+  {
+    "icon": "mdiHomeLockOpen"
+  },
+  {
+    "icon": "mdiHomeMapMarker"
+  },
+  {
+    "icon": "mdiHomeMinus"
+  },
+  {
+    "icon": "mdiHomeModern"
+  },
+  {
+    "icon": "mdiHomeOutline"
+  },
+  {
+    "icon": "mdiHomePlus"
+  },
+  {
+    "icon": "mdiHomeThermometer"
+  },
+  {
+    "icon": "mdiHomeThermometerOutline"
+  },
+  {
+    "icon": "mdiHomeVariant"
+  },
+  {
+    "icon": "mdiHomeVariantOutline"
+  },
+  {
+    "icon": "mdiHook"
+  },
+  {
+    "icon": "mdiHookOff"
+  },
+  {
+    "icon": "mdiHops"
+  },
+  {
+    "icon": "mdiHorseshoe"
+  },
+  {
+    "icon": "mdiHospital"
+  },
+  {
+    "icon": "mdiHospitalBuilding"
+  },
+  {
+    "icon": "mdiHospitalMarker"
+  },
+  {
+    "icon": "mdiHotTub"
+  },
+  {
+    "icon": "mdiHotel"
+  },
+  {
+    "icon": "mdiHouzz"
+  },
+  {
+    "icon": "mdiHouzzBox"
+  },
+  {
+    "icon": "mdiHubspot"
+  },
+  {
+    "icon": "mdiHulu"
+  },
+  {
+    "icon": "mdiHuman"
+  },
+  {
+    "icon": "mdiHumanChild"
+  },
+  {
+    "icon": "mdiHumanFemale"
+  },
+  {
+    "icon": "mdiHumanFemaleBoy"
+  },
+  {
+    "icon": "mdiHumanFemaleFemale"
+  },
+  {
+    "icon": "mdiHumanFemaleGirl"
+  },
+  {
+    "icon": "mdiHumanGreeting"
+  },
+  {
+    "icon": "mdiHumanHandsdown"
+  },
+  {
+    "icon": "mdiHumanHandsup"
+  },
+  {
+    "icon": "mdiHumanMale"
+  },
+  {
+    "icon": "mdiHumanMaleBoy"
+  },
+  {
+    "icon": "mdiHumanMaleFemale"
+  },
+  {
+    "icon": "mdiHumanMaleGirl"
+  },
+  {
+    "icon": "mdiHumanMaleHeight"
+  },
+  {
+    "icon": "mdiHumanMaleHeightVariant"
+  },
+  {
+    "icon": "mdiHumanMaleMale"
+  },
+  {
+    "icon": "mdiHumanPregnant"
+  },
+  {
+    "icon": "mdiHumbleBundle"
+  },
+  {
+    "icon": "mdiIceCream"
+  },
+  {
+    "icon": "mdiIcePop"
+  },
+  {
+    "icon": "mdiIdentifier"
+  },
+  {
+    "icon": "mdiIframe"
+  },
+  {
+    "icon": "mdiIframeOutline"
+  },
+  {
+    "icon": "mdiImage"
+  },
+  {
+    "icon": "mdiImageAlbum"
+  },
+  {
+    "icon": "mdiImageArea"
+  },
+  {
+    "icon": "mdiImageAreaClose"
+  },
+  {
+    "icon": "mdiImageBroken"
+  },
+  {
+    "icon": "mdiImageBrokenVariant"
+  },
+  {
+    "icon": "mdiImageFilter"
+  },
+  {
+    "icon": "mdiImageFilterBlackWhite"
+  },
+  {
+    "icon": "mdiImageFilterCenterFocus"
+  },
+  {
+    "icon": "mdiImageFilterCenterFocusStrong"
+  },
+  {
+    "icon": "mdiImageFilterCenterFocusStrongOutline"
+  },
+  {
+    "icon": "mdiImageFilterCenterFocusWeak"
+  },
+  {
+    "icon": "mdiImageFilterDrama"
+  },
+  {
+    "icon": "mdiImageFilterFrames"
+  },
+  {
+    "icon": "mdiImageFilterHdr"
+  },
+  {
+    "icon": "mdiImageFilterNone"
+  },
+  {
+    "icon": "mdiImageFilterTiltShift"
+  },
+  {
+    "icon": "mdiImageFilterVintage"
+  },
+  {
+    "icon": "mdiImageFrame"
+  },
+  {
+    "icon": "mdiImageMove"
+  },
+  {
+    "icon": "mdiImageMultiple"
+  },
+  {
+    "icon": "mdiImageOff"
+  },
+  {
+    "icon": "mdiImageOutline"
+  },
+  {
+    "icon": "mdiImagePlus"
+  },
+  {
+    "icon": "mdiImageSearch"
+  },
+  {
+    "icon": "mdiImageSearchOutline"
+  },
+  {
+    "icon": "mdiImageSizeSelectActual"
+  },
+  {
+    "icon": "mdiImageSizeSelectLarge"
+  },
+  {
+    "icon": "mdiImageSizeSelectSmall"
+  },
+  {
+    "icon": "mdiImport"
+  },
+  {
+    "icon": "mdiInbox"
+  },
+  {
+    "icon": "mdiInboxArrowDown"
+  },
+  {
+    "icon": "mdiInboxArrowUp"
+  },
+  {
+    "icon": "mdiInboxMultiple"
+  },
+  {
+    "icon": "mdiInboxMultipleOutline"
+  },
+  {
+    "icon": "mdiIncognito"
+  },
+  {
+    "icon": "mdiInfinity"
+  },
+  {
+    "icon": "mdiInformation"
+  },
+  {
+    "icon": "mdiInformationOutline"
+  },
+  {
+    "icon": "mdiInformationVariant"
+  },
+  {
+    "icon": "mdiInstagram"
+  },
+  {
+    "icon": "mdiInstapaper"
+  },
+  {
+    "icon": "mdiInternetExplorer"
+  },
+  {
+    "icon": "mdiInvertColors"
+  },
+  {
+    "icon": "mdiInvertColorsOff"
+  },
+  {
+    "icon": "mdiIp"
+  },
+  {
+    "icon": "mdiIpNetwork"
+  },
+  {
+    "icon": "mdiIpNetworkOutline"
+  },
+  {
+    "icon": "mdiIpod"
+  },
+  {
+    "icon": "mdiIslam"
+  },
+  {
+    "icon": "mdiItunes"
+  },
+  {
+    "icon": "mdiJabber"
+  },
+  {
+    "icon": "mdiJeepney"
+  },
+  {
+    "icon": "mdiJellyfish"
+  },
+  {
+    "icon": "mdiJellyfishOutline"
+  },
+  {
+    "icon": "mdiJira"
+  },
+  {
+    "icon": "mdiJquery"
+  },
+  {
+    "icon": "mdiJsfiddle"
+  },
+  {
+    "icon": "mdiJson"
+  },
+  {
+    "icon": "mdiJudaism"
+  },
+  {
+    "icon": "mdiKabaddi"
+  },
+  {
+    "icon": "mdiKarate"
+  },
+  {
+    "icon": "mdiKeg"
+  },
+  {
+    "icon": "mdiKettle"
+  },
+  {
+    "icon": "mdiKettleOutline"
+  },
+  {
+    "icon": "mdiKey"
+  },
+  {
+    "icon": "mdiKeyChange"
+  },
+  {
+    "icon": "mdiKeyMinus"
+  },
+  {
+    "icon": "mdiKeyOutline"
+  },
+  {
+    "icon": "mdiKeyPlus"
+  },
+  {
+    "icon": "mdiKeyRemove"
+  },
+  {
+    "icon": "mdiKeyVariant"
+  },
+  {
+    "icon": "mdiKeyboard"
+  },
+  {
+    "icon": "mdiKeyboardBackspace"
+  },
+  {
+    "icon": "mdiKeyboardCaps"
+  },
+  {
+    "icon": "mdiKeyboardClose"
+  },
+  {
+    "icon": "mdiKeyboardOff"
+  },
+  {
+    "icon": "mdiKeyboardOffOutline"
+  },
+  {
+    "icon": "mdiKeyboardOutline"
+  },
+  {
+    "icon": "mdiKeyboardReturn"
+  },
+  {
+    "icon": "mdiKeyboardSettings"
+  },
+  {
+    "icon": "mdiKeyboardSettingsOutline"
+  },
+  {
+    "icon": "mdiKeyboardTab"
+  },
+  {
+    "icon": "mdiKeyboardVariant"
+  },
+  {
+    "icon": "mdiKickstarter"
+  },
+  {
+    "icon": "mdiKnife"
+  },
+  {
+    "icon": "mdiKnifeMilitary"
+  },
+  {
+    "icon": "mdiKodi"
+  },
+  {
+    "icon": "mdiLabel"
+  },
+  {
+    "icon": "mdiLabelOff"
+  },
+  {
+    "icon": "mdiLabelOffOutline"
+  },
+  {
+    "icon": "mdiLabelOutline"
+  },
+  {
+    "icon": "mdiLabelVariant"
+  },
+  {
+    "icon": "mdiLabelVariantOutline"
+  },
+  {
+    "icon": "mdiLadybug"
+  },
+  {
+    "icon": "mdiLambda"
+  },
+  {
+    "icon": "mdiLamp"
+  },
+  {
+    "icon": "mdiLan"
+  },
+  {
+    "icon": "mdiLanConnect"
+  },
+  {
+    "icon": "mdiLanDisconnect"
+  },
+  {
+    "icon": "mdiLanPending"
+  },
+  {
+    "icon": "mdiLanguageC"
+  },
+  {
+    "icon": "mdiLanguageCpp"
+  },
+  {
+    "icon": "mdiLanguageCsharp"
+  },
+  {
+    "icon": "mdiLanguageCss3"
+  },
+  {
+    "icon": "mdiLanguageGo"
+  },
+  {
+    "icon": "mdiLanguageHaskell"
+  },
+  {
+    "icon": "mdiLanguageHtml5"
+  },
+  {
+    "icon": "mdiLanguageJava"
+  },
+  {
+    "icon": "mdiLanguageJavascript"
+  },
+  {
+    "icon": "mdiLanguageLua"
+  },
+  {
+    "icon": "mdiLanguagePhp"
+  },
+  {
+    "icon": "mdiLanguagePython"
+  },
+  {
+    "icon": "mdiLanguagePythonText"
+  },
+  {
+    "icon": "mdiLanguageR"
+  },
+  {
+    "icon": "mdiLanguageRubyOnRails"
+  },
+  {
+    "icon": "mdiLanguageSwift"
+  },
+  {
+    "icon": "mdiLanguageTypescript"
+  },
+  {
+    "icon": "mdiLaptop"
+  },
+  {
+    "icon": "mdiLaptopChromebook"
+  },
+  {
+    "icon": "mdiLaptopMac"
+  },
+  {
+    "icon": "mdiLaptopOff"
+  },
+  {
+    "icon": "mdiLaptopWindows"
+  },
+  {
+    "icon": "mdiLaravel"
+  },
+  {
+    "icon": "mdiLasso"
+  },
+  {
+    "icon": "mdiLastfm"
+  },
+  {
+    "icon": "mdiLastpass"
+  },
+  {
+    "icon": "mdiLatitude"
+  },
+  {
+    "icon": "mdiLaunch"
+  },
+  {
+    "icon": "mdiLavaLamp"
+  },
+  {
+    "icon": "mdiLayers"
+  },
+  {
+    "icon": "mdiLayersMinus"
+  },
+  {
+    "icon": "mdiLayersOff"
+  },
+  {
+    "icon": "mdiLayersOffOutline"
+  },
+  {
+    "icon": "mdiLayersOutline"
+  },
+  {
+    "icon": "mdiLayersPlus"
+  },
+  {
+    "icon": "mdiLayersRemove"
+  },
+  {
+    "icon": "mdiLayersTriple"
+  },
+  {
+    "icon": "mdiLayersTripleOutline"
+  },
+  {
+    "icon": "mdiLeadPencil"
+  },
+  {
+    "icon": "mdiLeaf"
+  },
+  {
+    "icon": "mdiLeafMaple"
+  },
+  {
+    "icon": "mdiLeak"
+  },
+  {
+    "icon": "mdiLeakOff"
+  },
+  {
+    "icon": "mdiLedOff"
+  },
+  {
+    "icon": "mdiLedOn"
+  },
+  {
+    "icon": "mdiLedOutline"
+  },
+  {
+    "icon": "mdiLedStrip"
+  },
+  {
+    "icon": "mdiLedVariantOff"
+  },
+  {
+    "icon": "mdiLedVariantOn"
+  },
+  {
+    "icon": "mdiLedVariantOutline"
+  },
+  {
+    "icon": "mdiLessThan"
+  },
+  {
+    "icon": "mdiLessThanOrEqual"
+  },
+  {
+    "icon": "mdiLibrary"
+  },
+  {
+    "icon": "mdiLibraryBooks"
+  },
+  {
+    "icon": "mdiLibraryMovie"
+  },
+  {
+    "icon": "mdiLibraryMusic"
+  },
+  {
+    "icon": "mdiLibraryMusicOutline"
+  },
+  {
+    "icon": "mdiLibraryPlus"
+  },
+  {
+    "icon": "mdiLibraryShelves"
+  },
+  {
+    "icon": "mdiLibraryVideo"
+  },
+  {
+    "icon": "mdiLifebuoy"
+  },
+  {
+    "icon": "mdiLightSwitch"
+  },
+  {
+    "icon": "mdiLightbulb"
+  },
+  {
+    "icon": "mdiLightbulbOff"
+  },
+  {
+    "icon": "mdiLightbulbOffOutline"
+  },
+  {
+    "icon": "mdiLightbulbOn"
+  },
+  {
+    "icon": "mdiLightbulbOnOutline"
+  },
+  {
+    "icon": "mdiLightbulbOutline"
+  },
+  {
+    "icon": "mdiLighthouse"
+  },
+  {
+    "icon": "mdiLighthouseOn"
+  },
+  {
+    "icon": "mdiLink"
+  },
+  {
+    "icon": "mdiLinkBox"
+  },
+  {
+    "icon": "mdiLinkBoxOutline"
+  },
+  {
+    "icon": "mdiLinkBoxVariant"
+  },
+  {
+    "icon": "mdiLinkBoxVariantOutline"
+  },
+  {
+    "icon": "mdiLinkOff"
+  },
+  {
+    "icon": "mdiLinkPlus"
+  },
+  {
+    "icon": "mdiLinkVariant"
+  },
+  {
+    "icon": "mdiLinkVariantOff"
+  },
+  {
+    "icon": "mdiLinkedin"
+  },
+  {
+    "icon": "mdiLinkedinBox"
+  },
+  {
+    "icon": "mdiLinux"
+  },
+  {
+    "icon": "mdiLinuxMint"
+  },
+  {
+    "icon": "mdiLitecoin"
+  },
+  {
+    "icon": "mdiLoading"
+  },
+  {
+    "icon": "mdiLock"
+  },
+  {
+    "icon": "mdiLockAlert"
+  },
+  {
+    "icon": "mdiLockClock"
+  },
+  {
+    "icon": "mdiLockOpen"
+  },
+  {
+    "icon": "mdiLockOpenOutline"
+  },
+  {
+    "icon": "mdiLockOutline"
+  },
+  {
+    "icon": "mdiLockPattern"
+  },
+  {
+    "icon": "mdiLockPlus"
+  },
+  {
+    "icon": "mdiLockQuestion"
+  },
+  {
+    "icon": "mdiLockReset"
+  },
+  {
+    "icon": "mdiLockSmart"
+  },
+  {
+    "icon": "mdiLocker"
+  },
+  {
+    "icon": "mdiLockerMultiple"
+  },
+  {
+    "icon": "mdiLogin"
+  },
+  {
+    "icon": "mdiLoginVariant"
+  },
+  {
+    "icon": "mdiLogout"
+  },
+  {
+    "icon": "mdiLogoutVariant"
+  },
+  {
+    "icon": "mdiLongitude"
+  },
+  {
+    "icon": "mdiLooks"
+  },
+  {
+    "icon": "mdiLoop"
+  },
+  {
+    "icon": "mdiLoupe"
+  },
+  {
+    "icon": "mdiLumx"
+  },
+  {
+    "icon": "mdiLyft"
+  },
+  {
+    "icon": "mdiMagnet"
+  },
+  {
+    "icon": "mdiMagnetOn"
+  },
+  {
+    "icon": "mdiMagnify"
+  },
+  {
+    "icon": "mdiMagnifyClose"
+  },
+  {
+    "icon": "mdiMagnifyMinus"
+  },
+  {
+    "icon": "mdiMagnifyMinusCursor"
+  },
+  {
+    "icon": "mdiMagnifyMinusOutline"
+  },
+  {
+    "icon": "mdiMagnifyPlus"
+  },
+  {
+    "icon": "mdiMagnifyPlusCursor"
+  },
+  {
+    "icon": "mdiMagnifyPlusOutline"
+  },
+  {
+    "icon": "mdiMail"
+  },
+  {
+    "icon": "mdiMailRu"
+  },
+  {
+    "icon": "mdiMailbox"
+  },
+  {
+    "icon": "mdiMailboxOpen"
+  },
+  {
+    "icon": "mdiMailboxOpenOutline"
+  },
+  {
+    "icon": "mdiMailboxOpenUp"
+  },
+  {
+    "icon": "mdiMailboxOpenUpOutline"
+  },
+  {
+    "icon": "mdiMailboxOutline"
+  },
+  {
+    "icon": "mdiMailboxUp"
+  },
+  {
+    "icon": "mdiMailboxUpOutline"
+  },
+  {
+    "icon": "mdiMap"
+  },
+  {
+    "icon": "mdiMapCheck"
+  },
+  {
+    "icon": "mdiMapCheckOutline"
+  },
+  {
+    "icon": "mdiMapClock"
+  },
+  {
+    "icon": "mdiMapClockOutline"
+  },
+  {
+    "icon": "mdiMapLegend"
+  },
+  {
+    "icon": "mdiMapMarker"
+  },
+  {
+    "icon": "mdiMapMarkerAlert"
+  },
+  {
+    "icon": "mdiMapMarkerAlertOutline"
+  },
+  {
+    "icon": "mdiMapMarkerCheck"
+  },
+  {
+    "icon": "mdiMapMarkerCircle"
+  },
+  {
+    "icon": "mdiMapMarkerDistance"
+  },
+  {
+    "icon": "mdiMapMarkerMinus"
+  },
+  {
+    "icon": "mdiMapMarkerMultiple"
+  },
+  {
+    "icon": "mdiMapMarkerOff"
+  },
+  {
+    "icon": "mdiMapMarkerOutline"
+  },
+  {
+    "icon": "mdiMapMarkerPath"
+  },
+  {
+    "icon": "mdiMapMarkerPlus"
+  },
+  {
+    "icon": "mdiMapMarkerQuestion"
+  },
+  {
+    "icon": "mdiMapMarkerQuestionOutline"
+  },
+  {
+    "icon": "mdiMapMarkerRadius"
+  },
+  {
+    "icon": "mdiMapMarkerRemove"
+  },
+  {
+    "icon": "mdiMapMarkerRemoveVariant"
+  },
+  {
+    "icon": "mdiMapMinus"
+  },
+  {
+    "icon": "mdiMapOutline"
+  },
+  {
+    "icon": "mdiMapPlus"
+  },
+  {
+    "icon": "mdiMapSearch"
+  },
+  {
+    "icon": "mdiMapSearchOutline"
+  },
+  {
+    "icon": "mdiMapbox"
+  },
+  {
+    "icon": "mdiMargin"
+  },
+  {
+    "icon": "mdiMarkdown"
+  },
+  {
+    "icon": "mdiMarkdownOutline"
+  },
+  {
+    "icon": "mdiMarker"
+  },
+  {
+    "icon": "mdiMarkerCancel"
+  },
+  {
+    "icon": "mdiMarkerCheck"
+  },
+  {
+    "icon": "mdiMastodon"
+  },
+  {
+    "icon": "mdiMastodonVariant"
+  },
+  {
+    "icon": "mdiMaterialDesign"
+  },
+  {
+    "icon": "mdiMaterialUi"
+  },
+  {
+    "icon": "mdiMathCompass"
+  },
+  {
+    "icon": "mdiMathCos"
+  },
+  {
+    "icon": "mdiMathSin"
+  },
+  {
+    "icon": "mdiMathTan"
+  },
+  {
+    "icon": "mdiMatrix"
+  },
+  {
+    "icon": "mdiMaxcdn"
+  },
+  {
+    "icon": "mdiMedal"
+  },
+  {
+    "icon": "mdiMedicalBag"
+  },
+  {
+    "icon": "mdiMedium"
+  },
+  {
+    "icon": "mdiMeetup"
+  },
+  {
+    "icon": "mdiMemory"
+  },
+  {
+    "icon": "mdiMenu"
+  },
+  {
+    "icon": "mdiMenuDown"
+  },
+  {
+    "icon": "mdiMenuDownOutline"
+  },
+  {
+    "icon": "mdiMenuLeft"
+  },
+  {
+    "icon": "mdiMenuLeftOutline"
+  },
+  {
+    "icon": "mdiMenuOpen"
+  },
+  {
+    "icon": "mdiMenuRight"
+  },
+  {
+    "icon": "mdiMenuRightOutline"
+  },
+  {
+    "icon": "mdiMenuSwap"
+  },
+  {
+    "icon": "mdiMenuSwapOutline"
+  },
+  {
+    "icon": "mdiMenuUp"
+  },
+  {
+    "icon": "mdiMenuUpOutline"
+  },
+  {
+    "icon": "mdiMerge"
+  },
+  {
+    "icon": "mdiMessage"
+  },
+  {
+    "icon": "mdiMessageAlert"
+  },
+  {
+    "icon": "mdiMessageAlertOutline"
+  },
+  {
+    "icon": "mdiMessageBulleted"
+  },
+  {
+    "icon": "mdiMessageBulletedOff"
+  },
+  {
+    "icon": "mdiMessageDraw"
+  },
+  {
+    "icon": "mdiMessageImage"
+  },
+  {
+    "icon": "mdiMessageOutline"
+  },
+  {
+    "icon": "mdiMessagePlus"
+  },
+  {
+    "icon": "mdiMessageProcessing"
+  },
+  {
+    "icon": "mdiMessageReply"
+  },
+  {
+    "icon": "mdiMessageReplyText"
+  },
+  {
+    "icon": "mdiMessageSettings"
+  },
+  {
+    "icon": "mdiMessageSettingsVariant"
+  },
+  {
+    "icon": "mdiMessageText"
+  },
+  {
+    "icon": "mdiMessageTextOutline"
+  },
+  {
+    "icon": "mdiMessageVideo"
+  },
+  {
+    "icon": "mdiMeteor"
+  },
+  {
+    "icon": "mdiMetronome"
+  },
+  {
+    "icon": "mdiMetronomeTick"
+  },
+  {
+    "icon": "mdiMicroSd"
+  },
+  {
+    "icon": "mdiMicrophone"
+  },
+  {
+    "icon": "mdiMicrophoneMinus"
+  },
+  {
+    "icon": "mdiMicrophoneOff"
+  },
+  {
+    "icon": "mdiMicrophoneOutline"
+  },
+  {
+    "icon": "mdiMicrophonePlus"
+  },
+  {
+    "icon": "mdiMicrophoneSettings"
+  },
+  {
+    "icon": "mdiMicrophoneVariant"
+  },
+  {
+    "icon": "mdiMicrophoneVariantOff"
+  },
+  {
+    "icon": "mdiMicroscope"
+  },
+  {
+    "icon": "mdiMicrosoft"
+  },
+  {
+    "icon": "mdiMicrosoftDynamics"
+  },
+  {
+    "icon": "mdiMicrowave"
+  },
+  {
+    "icon": "mdiMiddleware"
+  },
+  {
+    "icon": "mdiMiddlewareOutline"
+  },
+  {
+    "icon": "mdiMidi"
+  },
+  {
+    "icon": "mdiMidiPort"
+  },
+  {
+    "icon": "mdiMine"
+  },
+  {
+    "icon": "mdiMinecraft"
+  },
+  {
+    "icon": "mdiMiniSd"
+  },
+  {
+    "icon": "mdiMinidisc"
+  },
+  {
+    "icon": "mdiMinus"
+  },
+  {
+    "icon": "mdiMinusBox"
+  },
+  {
+    "icon": "mdiMinusBoxOutline"
+  },
+  {
+    "icon": "mdiMinusCircle"
+  },
+  {
+    "icon": "mdiMinusCircleOutline"
+  },
+  {
+    "icon": "mdiMinusNetwork"
+  },
+  {
+    "icon": "mdiMinusNetworkOutline"
+  },
+  {
+    "icon": "mdiMixcloud"
+  },
+  {
+    "icon": "mdiMixedMartialArts"
+  },
+  {
+    "icon": "mdiMixedReality"
+  },
+  {
+    "icon": "mdiMixer"
+  },
+  {
+    "icon": "mdiMolecule"
+  },
+  {
+    "icon": "mdiMonitor"
+  },
+  {
+    "icon": "mdiMonitorCellphone"
+  },
+  {
+    "icon": "mdiMonitorCellphoneStar"
+  },
+  {
+    "icon": "mdiMonitorDashboard"
+  },
+  {
+    "icon": "mdiMonitorLock"
+  },
+  {
+    "icon": "mdiMonitorMultiple"
+  },
+  {
+    "icon": "mdiMonitorOff"
+  },
+  {
+    "icon": "mdiMonitorScreenshot"
+  },
+  {
+    "icon": "mdiMonitorSpeaker"
+  },
+  {
+    "icon": "mdiMonitorSpeakerOff"
+  },
+  {
+    "icon": "mdiMonitorStar"
+  },
+  {
+    "icon": "mdiMoonFirstQuarter"
+  },
+  {
+    "icon": "mdiMoonFull"
+  },
+  {
+    "icon": "mdiMoonLastQuarter"
+  },
+  {
+    "icon": "mdiMoonNew"
+  },
+  {
+    "icon": "mdiMoonWaningCrescent"
+  },
+  {
+    "icon": "mdiMoonWaningGibbous"
+  },
+  {
+    "icon": "mdiMoonWaxingCrescent"
+  },
+  {
+    "icon": "mdiMoonWaxingGibbous"
+  },
+  {
+    "icon": "mdiMore"
+  },
+  {
+    "icon": "mdiMotherNurse"
+  },
+  {
+    "icon": "mdiMotionSensor"
+  },
+  {
+    "icon": "mdiMotorbike"
+  },
+  {
+    "icon": "mdiMouse"
+  },
+  {
+    "icon": "mdiMouseBluetooth"
+  },
+  {
+    "icon": "mdiMouseOff"
+  },
+  {
+    "icon": "mdiMouseVariant"
+  },
+  {
+    "icon": "mdiMouseVariantOff"
+  },
+  {
+    "icon": "mdiMoveResize"
+  },
+  {
+    "icon": "mdiMoveResizeVariant"
+  },
+  {
+    "icon": "mdiMovie"
+  },
+  {
+    "icon": "mdiMovieOutline"
+  },
+  {
+    "icon": "mdiMovieRoll"
+  },
+  {
+    "icon": "mdiMuffin"
+  },
+  {
+    "icon": "mdiMultiplication"
+  },
+  {
+    "icon": "mdiMultiplicationBox"
+  },
+  {
+    "icon": "mdiMushroom"
+  },
+  {
+    "icon": "mdiMushroomOutline"
+  },
+  {
+    "icon": "mdiMusic"
+  },
+  {
+    "icon": "mdiMusicAccidentalDoubleFlat"
+  },
+  {
+    "icon": "mdiMusicAccidentalDoubleSharp"
+  },
+  {
+    "icon": "mdiMusicAccidentalFlat"
+  },
+  {
+    "icon": "mdiMusicAccidentalNatural"
+  },
+  {
+    "icon": "mdiMusicAccidentalSharp"
+  },
+  {
+    "icon": "mdiMusicBox"
+  },
+  {
+    "icon": "mdiMusicBoxOutline"
+  },
+  {
+    "icon": "mdiMusicCircle"
+  },
+  {
+    "icon": "mdiMusicCircleOutline"
+  },
+  {
+    "icon": "mdiMusicClefAlto"
+  },
+  {
+    "icon": "mdiMusicClefBass"
+  },
+  {
+    "icon": "mdiMusicClefTreble"
+  },
+  {
+    "icon": "mdiMusicNote"
+  },
+  {
+    "icon": "mdiMusicNoteBluetooth"
+  },
+  {
+    "icon": "mdiMusicNoteBluetoothOff"
+  },
+  {
+    "icon": "mdiMusicNoteEighth"
+  },
+  {
+    "icon": "mdiMusicNoteEighthDotted"
+  },
+  {
+    "icon": "mdiMusicNoteHalf"
+  },
+  {
+    "icon": "mdiMusicNoteHalfDotted"
+  },
+  {
+    "icon": "mdiMusicNoteOff"
+  },
+  {
+    "icon": "mdiMusicNoteOffOutline"
+  },
+  {
+    "icon": "mdiMusicNoteOutline"
+  },
+  {
+    "icon": "mdiMusicNotePlus"
+  },
+  {
+    "icon": "mdiMusicNoteQuarter"
+  },
+  {
+    "icon": "mdiMusicNoteQuarterDotted"
+  },
+  {
+    "icon": "mdiMusicNoteSixteenth"
+  },
+  {
+    "icon": "mdiMusicNoteSixteenthDotted"
+  },
+  {
+    "icon": "mdiMusicNoteWhole"
+  },
+  {
+    "icon": "mdiMusicNoteWholeDotted"
+  },
+  {
+    "icon": "mdiMusicOff"
+  },
+  {
+    "icon": "mdiMusicRestEighth"
+  },
+  {
+    "icon": "mdiMusicRestHalf"
+  },
+  {
+    "icon": "mdiMusicRestQuarter"
+  },
+  {
+    "icon": "mdiMusicRestSixteenth"
+  },
+  {
+    "icon": "mdiMusicRestWhole"
+  },
+  {
+    "icon": "mdiNail"
+  },
+  {
+    "icon": "mdiNas"
+  },
+  {
+    "icon": "mdiNativescript"
+  },
+  {
+    "icon": "mdiNature"
+  },
+  {
+    "icon": "mdiNaturePeople"
+  },
+  {
+    "icon": "mdiNavigation"
+  },
+  {
+    "icon": "mdiNearMe"
+  },
+  {
+    "icon": "mdiNecklace"
+  },
+  {
+    "icon": "mdiNeedle"
+  },
+  {
+    "icon": "mdiNetflix"
+  },
+  {
+    "icon": "mdiNetwork"
+  },
+  {
+    "icon": "mdiNetworkOff"
+  },
+  {
+    "icon": "mdiNetworkOffOutline"
+  },
+  {
+    "icon": "mdiNetworkOutline"
+  },
+  {
+    "icon": "mdiNetworkStrength1"
+  },
+  {
+    "icon": "mdiNetworkStrength1Alert"
+  },
+  {
+    "icon": "mdiNetworkStrength2"
+  },
+  {
+    "icon": "mdiNetworkStrength2Alert"
+  },
+  {
+    "icon": "mdiNetworkStrength3"
+  },
+  {
+    "icon": "mdiNetworkStrength3Alert"
+  },
+  {
+    "icon": "mdiNetworkStrength4"
+  },
+  {
+    "icon": "mdiNetworkStrength4Alert"
+  },
+  {
+    "icon": "mdiNetworkStrengthOff"
+  },
+  {
+    "icon": "mdiNetworkStrengthOffOutline"
+  },
+  {
+    "icon": "mdiNetworkStrengthOutline"
+  },
+  {
+    "icon": "mdiNewBox"
+  },
+  {
+    "icon": "mdiNewspaper"
+  },
+  {
+    "icon": "mdiNewspaperMinus"
+  },
+  {
+    "icon": "mdiNewspaperPlus"
+  },
+  {
+    "icon": "mdiNfc"
+  },
+  {
+    "icon": "mdiNfcOff"
+  },
+  {
+    "icon": "mdiNfcSearchVariant"
+  },
+  {
+    "icon": "mdiNfcTap"
+  },
+  {
+    "icon": "mdiNfcVariant"
+  },
+  {
+    "icon": "mdiNfcVariantOff"
+  },
+  {
+    "icon": "mdiNinja"
+  },
+  {
+    "icon": "mdiNintendoSwitch"
+  },
+  {
+    "icon": "mdiNodejs"
+  },
+  {
+    "icon": "mdiNotEqual"
+  },
+  {
+    "icon": "mdiNotEqualVariant"
+  },
+  {
+    "icon": "mdiNote"
+  },
+  {
+    "icon": "mdiNoteCircle"
+  },
+  {
+    "icon": "mdiNoteMultiple"
+  },
+  {
+    "icon": "mdiNoteMultipleOutline"
+  },
+  {
+    "icon": "mdiNoteOutline"
+  },
+  {
+    "icon": "mdiNotePlus"
+  },
+  {
+    "icon": "mdiNotePlusOutline"
+  },
+  {
+    "icon": "mdiNoteText"
+  },
+  {
+    "icon": "mdiNotebook"
+  },
+  {
+    "icon": "mdiNotebookMultiple"
+  },
+  {
+    "icon": "mdiNotebookOutline"
+  },
+  {
+    "icon": "mdiNotificationClearAll"
+  },
+  {
+    "icon": "mdiNpm"
+  },
+  {
+    "icon": "mdiNpmVariant"
+  },
+  {
+    "icon": "mdiNpmVariantOutline"
+  },
+  {
+    "icon": "mdiNuke"
+  },
+  {
+    "icon": "mdiNull"
+  },
+  {
+    "icon": "mdiNumeric"
+  },
+  {
+    "icon": "mdiNumeric0"
+  },
+  {
+    "icon": "mdiNumeric0Box"
+  },
+  {
+    "icon": "mdiNumeric0BoxMultiple"
+  },
+  {
+    "icon": "mdiNumeric0BoxMultipleOutline"
+  },
+  {
+    "icon": "mdiNumeric0BoxOutline"
+  },
+  {
+    "icon": "mdiNumeric0Circle"
+  },
+  {
+    "icon": "mdiNumeric0CircleOutline"
+  },
+  {
+    "icon": "mdiNumeric1"
+  },
+  {
+    "icon": "mdiNumeric1Box"
+  },
+  {
+    "icon": "mdiNumeric1BoxMultiple"
+  },
+  {
+    "icon": "mdiNumeric1BoxMultipleOutline"
+  },
+  {
+    "icon": "mdiNumeric1BoxOutline"
+  },
+  {
+    "icon": "mdiNumeric1Circle"
+  },
+  {
+    "icon": "mdiNumeric1CircleOutline"
+  },
+  {
+    "icon": "mdiNumeric10Box"
+  },
+  {
+    "icon": "mdiNumeric10BoxOutline"
+  },
+  {
+    "icon": "mdiNumeric2"
+  },
+  {
+    "icon": "mdiNumeric2Box"
+  },
+  {
+    "icon": "mdiNumeric2BoxMultiple"
+  },
+  {
+    "icon": "mdiNumeric2BoxMultipleOutline"
+  },
+  {
+    "icon": "mdiNumeric2BoxOutline"
+  },
+  {
+    "icon": "mdiNumeric2Circle"
+  },
+  {
+    "icon": "mdiNumeric2CircleOutline"
+  },
+  {
+    "icon": "mdiNumeric3"
+  },
+  {
+    "icon": "mdiNumeric3Box"
+  },
+  {
+    "icon": "mdiNumeric3BoxMultiple"
+  },
+  {
+    "icon": "mdiNumeric3BoxMultipleOutline"
+  },
+  {
+    "icon": "mdiNumeric3BoxOutline"
+  },
+  {
+    "icon": "mdiNumeric3Circle"
+  },
+  {
+    "icon": "mdiNumeric3CircleOutline"
+  },
+  {
+    "icon": "mdiNumeric4"
+  },
+  {
+    "icon": "mdiNumeric4Box"
+  },
+  {
+    "icon": "mdiNumeric4BoxMultiple"
+  },
+  {
+    "icon": "mdiNumeric4BoxMultipleOutline"
+  },
+  {
+    "icon": "mdiNumeric4BoxOutline"
+  },
+  {
+    "icon": "mdiNumeric4Circle"
+  },
+  {
+    "icon": "mdiNumeric4CircleOutline"
+  },
+  {
+    "icon": "mdiNumeric5"
+  },
+  {
+    "icon": "mdiNumeric5Box"
+  },
+  {
+    "icon": "mdiNumeric5BoxMultiple"
+  },
+  {
+    "icon": "mdiNumeric5BoxMultipleOutline"
+  },
+  {
+    "icon": "mdiNumeric5BoxOutline"
+  },
+  {
+    "icon": "mdiNumeric5Circle"
+  },
+  {
+    "icon": "mdiNumeric5CircleOutline"
+  },
+  {
+    "icon": "mdiNumeric6"
+  },
+  {
+    "icon": "mdiNumeric6Box"
+  },
+  {
+    "icon": "mdiNumeric6BoxMultiple"
+  },
+  {
+    "icon": "mdiNumeric6BoxMultipleOutline"
+  },
+  {
+    "icon": "mdiNumeric6BoxOutline"
+  },
+  {
+    "icon": "mdiNumeric6Circle"
+  },
+  {
+    "icon": "mdiNumeric6CircleOutline"
+  },
+  {
+    "icon": "mdiNumeric7"
+  },
+  {
+    "icon": "mdiNumeric7Box"
+  },
+  {
+    "icon": "mdiNumeric7BoxMultiple"
+  },
+  {
+    "icon": "mdiNumeric7BoxMultipleOutline"
+  },
+  {
+    "icon": "mdiNumeric7BoxOutline"
+  },
+  {
+    "icon": "mdiNumeric7Circle"
+  },
+  {
+    "icon": "mdiNumeric7CircleOutline"
+  },
+  {
+    "icon": "mdiNumeric8"
+  },
+  {
+    "icon": "mdiNumeric8Box"
+  },
+  {
+    "icon": "mdiNumeric8BoxMultiple"
+  },
+  {
+    "icon": "mdiNumeric8BoxMultipleOutline"
+  },
+  {
+    "icon": "mdiNumeric8BoxOutline"
+  },
+  {
+    "icon": "mdiNumeric8Circle"
+  },
+  {
+    "icon": "mdiNumeric8CircleOutline"
+  },
+  {
+    "icon": "mdiNumeric9"
+  },
+  {
+    "icon": "mdiNumeric9Box"
+  },
+  {
+    "icon": "mdiNumeric9BoxMultiple"
+  },
+  {
+    "icon": "mdiNumeric9BoxMultipleOutline"
+  },
+  {
+    "icon": "mdiNumeric9BoxOutline"
+  },
+  {
+    "icon": "mdiNumeric9Circle"
+  },
+  {
+    "icon": "mdiNumeric9CircleOutline"
+  },
+  {
+    "icon": "mdiNumeric9PlusBox"
+  },
+  {
+    "icon": "mdiNumeric9PlusBoxMultiple"
+  },
+  {
+    "icon": "mdiNumeric9PlusBoxMultipleOutline"
+  },
+  {
+    "icon": "mdiNumeric9PlusBoxOutline"
+  },
+  {
+    "icon": "mdiNumeric9PlusCircle"
+  },
+  {
+    "icon": "mdiNumeric9PlusCircleOutline"
+  },
+  {
+    "icon": "mdiNut"
+  },
+  {
+    "icon": "mdiNutrition"
+  },
+  {
+    "icon": "mdiOar"
+  },
+  {
+    "icon": "mdiOcarina"
+  },
+  {
+    "icon": "mdiOctagon"
+  },
+  {
+    "icon": "mdiOctagonOutline"
+  },
+  {
+    "icon": "mdiOctagram"
+  },
+  {
+    "icon": "mdiOctagramOutline"
+  },
+  {
+    "icon": "mdiOdnoklassniki"
+  },
+  {
+    "icon": "mdiOffice"
+  },
+  {
+    "icon": "mdiOfficeBuilding"
+  },
+  {
+    "icon": "mdiOil"
+  },
+  {
+    "icon": "mdiOilLamp"
+  },
+  {
+    "icon": "mdiOilTemperature"
+  },
+  {
+    "icon": "mdiOmega"
+  },
+  {
+    "icon": "mdiOneUp"
+  },
+  {
+    "icon": "mdiOnedrive"
+  },
+  {
+    "icon": "mdiOnenote"
+  },
+  {
+    "icon": "mdiOnepassword"
+  },
+  {
+    "icon": "mdiOpacity"
+  },
+  {
+    "icon": "mdiOpenInApp"
+  },
+  {
+    "icon": "mdiOpenInNew"
+  },
+  {
+    "icon": "mdiOpenSourceInitiative"
+  },
+  {
+    "icon": "mdiOpenid"
+  },
+  {
+    "icon": "mdiOpera"
+  },
+  {
+    "icon": "mdiOrbit"
+  },
+  {
+    "icon": "mdiOrigin"
+  },
+  {
+    "icon": "mdiOrnament"
+  },
+  {
+    "icon": "mdiOrnamentVariant"
+  },
+  {
+    "icon": "mdiOutlook"
+  },
+  {
+    "icon": "mdiOwl"
+  },
+  {
+    "icon": "mdiPacMan"
+  },
+  {
+    "icon": "mdiPackage"
+  },
+  {
+    "icon": "mdiPackageDown"
+  },
+  {
+    "icon": "mdiPackageUp"
+  },
+  {
+    "icon": "mdiPackageVariant"
+  },
+  {
+    "icon": "mdiPackageVariantClosed"
+  },
+  {
+    "icon": "mdiPageFirst"
+  },
+  {
+    "icon": "mdiPageLast"
+  },
+  {
+    "icon": "mdiPageLayoutBody"
+  },
+  {
+    "icon": "mdiPageLayoutFooter"
+  },
+  {
+    "icon": "mdiPageLayoutHeader"
+  },
+  {
+    "icon": "mdiPageLayoutHeaderFooter"
+  },
+  {
+    "icon": "mdiPageLayoutSidebarLeft"
+  },
+  {
+    "icon": "mdiPageLayoutSidebarRight"
+  },
+  {
+    "icon": "mdiPageNext"
+  },
+  {
+    "icon": "mdiPageNextOutline"
+  },
+  {
+    "icon": "mdiPagePrevious"
+  },
+  {
+    "icon": "mdiPagePreviousOutline"
+  },
+  {
+    "icon": "mdiPalette"
+  },
+  {
+    "icon": "mdiPaletteAdvanced"
+  },
+  {
+    "icon": "mdiPaletteOutline"
+  },
+  {
+    "icon": "mdiPaletteSwatch"
+  },
+  {
+    "icon": "mdiPan"
+  },
+  {
+    "icon": "mdiPanBottomLeft"
+  },
+  {
+    "icon": "mdiPanBottomRight"
+  },
+  {
+    "icon": "mdiPanDown"
+  },
+  {
+    "icon": "mdiPanHorizontal"
+  },
+  {
+    "icon": "mdiPanLeft"
+  },
+  {
+    "icon": "mdiPanRight"
+  },
+  {
+    "icon": "mdiPanTopLeft"
+  },
+  {
+    "icon": "mdiPanTopRight"
+  },
+  {
+    "icon": "mdiPanUp"
+  },
+  {
+    "icon": "mdiPanVertical"
+  },
+  {
+    "icon": "mdiPanda"
+  },
+  {
+    "icon": "mdiPandora"
+  },
+  {
+    "icon": "mdiPanorama"
+  },
+  {
+    "icon": "mdiPanoramaFisheye"
+  },
+  {
+    "icon": "mdiPanoramaHorizontal"
+  },
+  {
+    "icon": "mdiPanoramaVertical"
+  },
+  {
+    "icon": "mdiPanoramaWideAngle"
+  },
+  {
+    "icon": "mdiPaperCutVertical"
+  },
+  {
+    "icon": "mdiPaperclip"
+  },
+  {
+    "icon": "mdiParachute"
+  },
+  {
+    "icon": "mdiParachuteOutline"
+  },
+  {
+    "icon": "mdiParking"
+  },
+  {
+    "icon": "mdiPassport"
+  },
+  {
+    "icon": "mdiPassportBiometric"
+  },
+  {
+    "icon": "mdiPatioHeater"
+  },
+  {
+    "icon": "mdiPatreon"
+  },
+  {
+    "icon": "mdiPause"
+  },
+  {
+    "icon": "mdiPauseCircle"
+  },
+  {
+    "icon": "mdiPauseCircleOutline"
+  },
+  {
+    "icon": "mdiPauseOctagon"
+  },
+  {
+    "icon": "mdiPauseOctagonOutline"
+  },
+  {
+    "icon": "mdiPaw"
+  },
+  {
+    "icon": "mdiPawOff"
+  },
+  {
+    "icon": "mdiPaypal"
+  },
+  {
+    "icon": "mdiPdfBox"
+  },
+  {
+    "icon": "mdiPeace"
+  },
+  {
+    "icon": "mdiPen"
+  },
+  {
+    "icon": "mdiPenLock"
+  },
+  {
+    "icon": "mdiPenMinus"
+  },
+  {
+    "icon": "mdiPenOff"
+  },
+  {
+    "icon": "mdiPenPlus"
+  },
+  {
+    "icon": "mdiPenRemove"
+  },
+  {
+    "icon": "mdiPencil"
+  },
+  {
+    "icon": "mdiPencilBox"
+  },
+  {
+    "icon": "mdiPencilBoxOutline"
+  },
+  {
+    "icon": "mdiPencilCircle"
+  },
+  {
+    "icon": "mdiPencilCircleOutline"
+  },
+  {
+    "icon": "mdiPencilLock"
+  },
+  {
+    "icon": "mdiPencilLockOutline"
+  },
+  {
+    "icon": "mdiPencilMinus"
+  },
+  {
+    "icon": "mdiPencilMinusOutline"
+  },
+  {
+    "icon": "mdiPencilOff"
+  },
+  {
+    "icon": "mdiPencilOffOutline"
+  },
+  {
+    "icon": "mdiPencilOutline"
+  },
+  {
+    "icon": "mdiPencilPlus"
+  },
+  {
+    "icon": "mdiPencilPlusOutline"
+  },
+  {
+    "icon": "mdiPencilRemove"
+  },
+  {
+    "icon": "mdiPencilRemoveOutline"
+  },
+  {
+    "icon": "mdiPenguin"
+  },
+  {
+    "icon": "mdiPentagon"
+  },
+  {
+    "icon": "mdiPentagonOutline"
+  },
+  {
+    "icon": "mdiPercent"
+  },
+  {
+    "icon": "mdiPeriodicTable"
+  },
+  {
+    "icon": "mdiPeriodicTableCo2"
+  },
+  {
+    "icon": "mdiPeriscope"
+  },
+  {
+    "icon": "mdiPerspectiveLess"
+  },
+  {
+    "icon": "mdiPerspectiveMore"
+  },
+  {
+    "icon": "mdiPharmacy"
+  },
+  {
+    "icon": "mdiPhone"
+  },
+  {
+    "icon": "mdiPhoneAlert"
+  },
+  {
+    "icon": "mdiPhoneBluetooth"
+  },
+  {
+    "icon": "mdiPhoneClassic"
+  },
+  {
+    "icon": "mdiPhoneForward"
+  },
+  {
+    "icon": "mdiPhoneHangup"
+  },
+  {
+    "icon": "mdiPhoneInTalk"
+  },
+  {
+    "icon": "mdiPhoneIncoming"
+  },
+  {
+    "icon": "mdiPhoneLock"
+  },
+  {
+    "icon": "mdiPhoneLog"
+  },
+  {
+    "icon": "mdiPhoneMinus"
+  },
+  {
+    "icon": "mdiPhoneMissed"
+  },
+  {
+    "icon": "mdiPhoneOff"
+  },
+  {
+    "icon": "mdiPhoneOutgoing"
+  },
+  {
+    "icon": "mdiPhoneOutline"
+  },
+  {
+    "icon": "mdiPhonePaused"
+  },
+  {
+    "icon": "mdiPhonePlus"
+  },
+  {
+    "icon": "mdiPhoneReturn"
+  },
+  {
+    "icon": "mdiPhoneRotateLandscape"
+  },
+  {
+    "icon": "mdiPhoneRotatePortrait"
+  },
+  {
+    "icon": "mdiPhoneSettings"
+  },
+  {
+    "icon": "mdiPhoneVoip"
+  },
+  {
+    "icon": "mdiPi"
+  },
+  {
+    "icon": "mdiPiBox"
+  },
+  {
+    "icon": "mdiPiHole"
+  },
+  {
+    "icon": "mdiPiano"
+  },
+  {
+    "icon": "mdiPickaxe"
+  },
+  {
+    "icon": "mdiPictureInPictureBottomRight"
+  },
+  {
+    "icon": "mdiPictureInPictureBottomRightOutline"
+  },
+  {
+    "icon": "mdiPictureInPictureTopRight"
+  },
+  {
+    "icon": "mdiPictureInPictureTopRightOutline"
+  },
+  {
+    "icon": "mdiPier"
+  },
+  {
+    "icon": "mdiPierCrane"
+  },
+  {
+    "icon": "mdiPig"
+  },
+  {
+    "icon": "mdiPill"
+  },
+  {
+    "icon": "mdiPillar"
+  },
+  {
+    "icon": "mdiPin"
+  },
+  {
+    "icon": "mdiPinOff"
+  },
+  {
+    "icon": "mdiPinOffOutline"
+  },
+  {
+    "icon": "mdiPinOutline"
+  },
+  {
+    "icon": "mdiPineTree"
+  },
+  {
+    "icon": "mdiPineTreeBox"
+  },
+  {
+    "icon": "mdiPinterest"
+  },
+  {
+    "icon": "mdiPinterestBox"
+  },
+  {
+    "icon": "mdiPinwheel"
+  },
+  {
+    "icon": "mdiPinwheelOutline"
+  },
+  {
+    "icon": "mdiPipe"
+  },
+  {
+    "icon": "mdiPipeDisconnected"
+  },
+  {
+    "icon": "mdiPipeLeak"
+  },
+  {
+    "icon": "mdiPirate"
+  },
+  {
+    "icon": "mdiPistol"
+  },
+  {
+    "icon": "mdiPiston"
+  },
+  {
+    "icon": "mdiPizza"
+  },
+  {
+    "icon": "mdiPlay"
+  },
+  {
+    "icon": "mdiPlayBoxOutline"
+  },
+  {
+    "icon": "mdiPlayCircle"
+  },
+  {
+    "icon": "mdiPlayCircleOutline"
+  },
+  {
+    "icon": "mdiPlayNetwork"
+  },
+  {
+    "icon": "mdiPlayNetworkOutline"
+  },
+  {
+    "icon": "mdiPlayOutline"
+  },
+  {
+    "icon": "mdiPlayPause"
+  },
+  {
+    "icon": "mdiPlayProtectedContent"
+  },
+  {
+    "icon": "mdiPlaySpeed"
+  },
+  {
+    "icon": "mdiPlaylistCheck"
+  },
+  {
+    "icon": "mdiPlaylistEdit"
+  },
+  {
+    "icon": "mdiPlaylistMinus"
+  },
+  {
+    "icon": "mdiPlaylistMusic"
+  },
+  {
+    "icon": "mdiPlaylistMusicOutline"
+  },
+  {
+    "icon": "mdiPlaylistPlay"
+  },
+  {
+    "icon": "mdiPlaylistPlus"
+  },
+  {
+    "icon": "mdiPlaylistRemove"
+  },
+  {
+    "icon": "mdiPlaylistStar"
+  },
+  {
+    "icon": "mdiPlaystation"
+  },
+  {
+    "icon": "mdiPlex"
+  },
+  {
+    "icon": "mdiPlus"
+  },
+  {
+    "icon": "mdiPlusBox"
+  },
+  {
+    "icon": "mdiPlusBoxOutline"
+  },
+  {
+    "icon": "mdiPlusCircle"
+  },
+  {
+    "icon": "mdiPlusCircleMultipleOutline"
+  },
+  {
+    "icon": "mdiPlusCircleOutline"
+  },
+  {
+    "icon": "mdiPlusMinus"
+  },
+  {
+    "icon": "mdiPlusMinusBox"
+  },
+  {
+    "icon": "mdiPlusNetwork"
+  },
+  {
+    "icon": "mdiPlusNetworkOutline"
+  },
+  {
+    "icon": "mdiPlusOne"
+  },
+  {
+    "icon": "mdiPlusOutline"
+  },
+  {
+    "icon": "mdiPocket"
+  },
+  {
+    "icon": "mdiPodcast"
+  },
+  {
+    "icon": "mdiPodium"
+  },
+  {
+    "icon": "mdiPodiumBronze"
+  },
+  {
+    "icon": "mdiPodiumGold"
+  },
+  {
+    "icon": "mdiPodiumSilver"
+  },
+  {
+    "icon": "mdiPointOfSale"
+  },
+  {
+    "icon": "mdiPokeball"
+  },
+  {
+    "icon": "mdiPokemonGo"
+  },
+  {
+    "icon": "mdiPokerChip"
+  },
+  {
+    "icon": "mdiPolaroid"
+  },
+  {
+    "icon": "mdiPoll"
+  },
+  {
+    "icon": "mdiPollBox"
+  },
+  {
+    "icon": "mdiPolymer"
+  },
+  {
+    "icon": "mdiPool"
+  },
+  {
+    "icon": "mdiPopcorn"
+  },
+  {
+    "icon": "mdiPostageStamp"
+  },
+  {
+    "icon": "mdiPot"
+  },
+  {
+    "icon": "mdiPotMix"
+  },
+  {
+    "icon": "mdiPound"
+  },
+  {
+    "icon": "mdiPoundBox"
+  },
+  {
+    "icon": "mdiPower"
+  },
+  {
+    "icon": "mdiPowerCycle"
+  },
+  {
+    "icon": "mdiPowerOff"
+  },
+  {
+    "icon": "mdiPowerOn"
+  },
+  {
+    "icon": "mdiPowerPlug"
+  },
+  {
+    "icon": "mdiPowerPlugOff"
+  },
+  {
+    "icon": "mdiPowerSettings"
+  },
+  {
+    "icon": "mdiPowerSleep"
+  },
+  {
+    "icon": "mdiPowerSocket"
+  },
+  {
+    "icon": "mdiPowerSocketAu"
+  },
+  {
+    "icon": "mdiPowerSocketEu"
+  },
+  {
+    "icon": "mdiPowerSocketUk"
+  },
+  {
+    "icon": "mdiPowerSocketUs"
+  },
+  {
+    "icon": "mdiPowerStandby"
+  },
+  {
+    "icon": "mdiPowershell"
+  },
+  {
+    "icon": "mdiPrescription"
+  },
+  {
+    "icon": "mdiPresentation"
+  },
+  {
+    "icon": "mdiPresentationPlay"
+  },
+  {
+    "icon": "mdiPrinter"
+  },
+  {
+    "icon": "mdiPrinter3d"
+  },
+  {
+    "icon": "mdiPrinter3dNozzle"
+  },
+  {
+    "icon": "mdiPrinter3dNozzleOutline"
+  },
+  {
+    "icon": "mdiPrinterAlert"
+  },
+  {
+    "icon": "mdiPrinterOff"
+  },
+  {
+    "icon": "mdiPrinterSettings"
+  },
+  {
+    "icon": "mdiPrinterWireless"
+  },
+  {
+    "icon": "mdiPriorityHigh"
+  },
+  {
+    "icon": "mdiPriorityLow"
+  },
+  {
+    "icon": "mdiProfessionalHexagon"
+  },
+  {
+    "icon": "mdiProgressAlert"
+  },
+  {
+    "icon": "mdiProgressCheck"
+  },
+  {
+    "icon": "mdiProgressClock"
+  },
+  {
+    "icon": "mdiProgressDownload"
+  },
+  {
+    "icon": "mdiProgressUpload"
+  },
+  {
+    "icon": "mdiProgressWrench"
+  },
+  {
+    "icon": "mdiProjector"
+  },
+  {
+    "icon": "mdiProjectorScreen"
+  },
+  {
+    "icon": "mdiPublish"
+  },
+  {
+    "icon": "mdiPulse"
+  },
+  {
+    "icon": "mdiPumpkin"
+  },
+  {
+    "icon": "mdiPurse"
+  },
+  {
+    "icon": "mdiPurseOutline"
+  },
+  {
+    "icon": "mdiPuzzle"
+  },
+  {
+    "icon": "mdiPuzzleOutline"
+  },
+  {
+    "icon": "mdiQi"
+  },
+  {
+    "icon": "mdiQqchat"
+  },
+  {
+    "icon": "mdiQrcode"
+  },
+  {
+    "icon": "mdiQrcodeEdit"
+  },
+  {
+    "icon": "mdiQrcodeScan"
+  },
+  {
+    "icon": "mdiQuadcopter"
+  },
+  {
+    "icon": "mdiQualityHigh"
+  },
+  {
+    "icon": "mdiQualityLow"
+  },
+  {
+    "icon": "mdiQualityMedium"
+  },
+  {
+    "icon": "mdiQuicktime"
+  },
+  {
+    "icon": "mdiQuora"
+  },
+  {
+    "icon": "mdiRabbit"
+  },
+  {
+    "icon": "mdiRacingHelmet"
+  },
+  {
+    "icon": "mdiRacquetball"
+  },
+  {
+    "icon": "mdiRadar"
+  },
+  {
+    "icon": "mdiRadiator"
+  },
+  {
+    "icon": "mdiRadiatorDisabled"
+  },
+  {
+    "icon": "mdiRadiatorOff"
+  },
+  {
+    "icon": "mdiRadio"
+  },
+  {
+    "icon": "mdiRadioAm"
+  },
+  {
+    "icon": "mdiRadioFm"
+  },
+  {
+    "icon": "mdiRadioHandheld"
+  },
+  {
+    "icon": "mdiRadioTower"
+  },
+  {
+    "icon": "mdiRadioactive"
+  },
+  {
+    "icon": "mdiRadioactiveOff"
+  },
+  {
+    "icon": "mdiRadioboxBlank"
+  },
+  {
+    "icon": "mdiRadioboxMarked"
+  },
+  {
+    "icon": "mdiRadius"
+  },
+  {
+    "icon": "mdiRadiusOutline"
+  },
+  {
+    "icon": "mdiRailroadLight"
+  },
+  {
+    "icon": "mdiRaspberryPi"
+  },
+  {
+    "icon": "mdiRayEnd"
+  },
+  {
+    "icon": "mdiRayEndArrow"
+  },
+  {
+    "icon": "mdiRayStart"
+  },
+  {
+    "icon": "mdiRayStartArrow"
+  },
+  {
+    "icon": "mdiRayStartEnd"
+  },
+  {
+    "icon": "mdiRayVertex"
+  },
+  {
+    "icon": "mdiReact"
+  },
+  {
+    "icon": "mdiRead"
+  },
+  {
+    "icon": "mdiReceipt"
+  },
+  {
+    "icon": "mdiRecord"
+  },
+  {
+    "icon": "mdiRecordCircle"
+  },
+  {
+    "icon": "mdiRecordCircleOutline"
+  },
+  {
+    "icon": "mdiRecordPlayer"
+  },
+  {
+    "icon": "mdiRecordRec"
+  },
+  {
+    "icon": "mdiRectangle"
+  },
+  {
+    "icon": "mdiRectangleOutline"
+  },
+  {
+    "icon": "mdiRecycle"
+  },
+  {
+    "icon": "mdiReddit"
+  },
+  {
+    "icon": "mdiRedo"
+  },
+  {
+    "icon": "mdiRedoVariant"
+  },
+  {
+    "icon": "mdiReflectHorizontal"
+  },
+  {
+    "icon": "mdiReflectVertical"
+  },
+  {
+    "icon": "mdiRefresh"
+  },
+  {
+    "icon": "mdiRegex"
+  },
+  {
+    "icon": "mdiRegisteredTrademark"
+  },
+  {
+    "icon": "mdiRelativeScale"
+  },
+  {
+    "icon": "mdiReload"
+  },
+  {
+    "icon": "mdiReminder"
+  },
+  {
+    "icon": "mdiRemote"
+  },
+  {
+    "icon": "mdiRemoteDesktop"
+  },
+  {
+    "icon": "mdiRemoteOff"
+  },
+  {
+    "icon": "mdiRemoteTv"
+  },
+  {
+    "icon": "mdiRemoteTvOff"
+  },
+  {
+    "icon": "mdiRenameBox"
+  },
+  {
+    "icon": "mdiReorderHorizontal"
+  },
+  {
+    "icon": "mdiReorderVertical"
+  },
+  {
+    "icon": "mdiRepeat"
+  },
+  {
+    "icon": "mdiRepeatOff"
+  },
+  {
+    "icon": "mdiRepeatOnce"
+  },
+  {
+    "icon": "mdiReplay"
+  },
+  {
+    "icon": "mdiReply"
+  },
+  {
+    "icon": "mdiReplyAll"
+  },
+  {
+    "icon": "mdiReplyAllOutline"
+  },
+  {
+    "icon": "mdiReplyOutline"
+  },
+  {
+    "icon": "mdiReproduction"
+  },
+  {
+    "icon": "mdiResistor"
+  },
+  {
+    "icon": "mdiResistorNodes"
+  },
+  {
+    "icon": "mdiResize"
+  },
+  {
+    "icon": "mdiResizeBottomRight"
+  },
+  {
+    "icon": "mdiResponsive"
+  },
+  {
+    "icon": "mdiRestart"
+  },
+  {
+    "icon": "mdiRestartOff"
+  },
+  {
+    "icon": "mdiRestore"
+  },
+  {
+    "icon": "mdiRestoreClock"
+  },
+  {
+    "icon": "mdiRewind"
+  },
+  {
+    "icon": "mdiRewind10"
+  },
+  {
+    "icon": "mdiRewind30"
+  },
+  {
+    "icon": "mdiRewindOutline"
+  },
+  {
+    "icon": "mdiRhombus"
+  },
+  {
+    "icon": "mdiRhombusMedium"
+  },
+  {
+    "icon": "mdiRhombusOutline"
+  },
+  {
+    "icon": "mdiRhombusSplit"
+  },
+  {
+    "icon": "mdiRibbon"
+  },
+  {
+    "icon": "mdiRice"
+  },
+  {
+    "icon": "mdiRing"
+  },
+  {
+    "icon": "mdiRivet"
+  },
+  {
+    "icon": "mdiRoad"
+  },
+  {
+    "icon": "mdiRoadVariant"
+  },
+  {
+    "icon": "mdiRobot"
+  },
+  {
+    "icon": "mdiRobotIndustrial"
+  },
+  {
+    "icon": "mdiRobotVacuum"
+  },
+  {
+    "icon": "mdiRobotVacuumVariant"
+  },
+  {
+    "icon": "mdiRocket"
+  },
+  {
+    "icon": "mdiRollerSkate"
+  },
+  {
+    "icon": "mdiRollerblade"
+  },
+  {
+    "icon": "mdiRollupjs"
+  },
+  {
+    "icon": "mdiRoomService"
+  },
+  {
+    "icon": "mdiRoomServiceOutline"
+  },
+  {
+    "icon": "mdiRotate3d"
+  },
+  {
+    "icon": "mdiRotate3dVariant"
+  },
+  {
+    "icon": "mdiRotateLeft"
+  },
+  {
+    "icon": "mdiRotateLeftVariant"
+  },
+  {
+    "icon": "mdiRotateOrbit"
+  },
+  {
+    "icon": "mdiRotateRight"
+  },
+  {
+    "icon": "mdiRotateRightVariant"
+  },
+  {
+    "icon": "mdiRoundedCorner"
+  },
+  {
+    "icon": "mdiRouterWireless"
+  },
+  {
+    "icon": "mdiRouterWirelessSettings"
+  },
+  {
+    "icon": "mdiRoutes"
+  },
+  {
+    "icon": "mdiRowing"
+  },
+  {
+    "icon": "mdiRss"
+  },
+  {
+    "icon": "mdiRssBox"
+  },
+  {
+    "icon": "mdiRssOff"
+  },
+  {
+    "icon": "mdiRuby"
+  },
+  {
+    "icon": "mdiRugby"
+  },
+  {
+    "icon": "mdiRuler"
+  },
+  {
+    "icon": "mdiRulerSquare"
+  },
+  {
+    "icon": "mdiRun"
+  },
+  {
+    "icon": "mdiRunFast"
+  },
+  {
+    "icon": "mdiSack"
+  },
+  {
+    "icon": "mdiSackPercent"
+  },
+  {
+    "icon": "mdiSafe"
+  },
+  {
+    "icon": "mdiSafetyGoggles"
+  },
+  {
+    "icon": "mdiSailing"
+  },
+  {
+    "icon": "mdiSale"
+  },
+  {
+    "icon": "mdiSalesforce"
+  },
+  {
+    "icon": "mdiSass"
+  },
+  {
+    "icon": "mdiSatellite"
+  },
+  {
+    "icon": "mdiSatelliteUplink"
+  },
+  {
+    "icon": "mdiSatelliteVariant"
+  },
+  {
+    "icon": "mdiSausage"
+  },
+  {
+    "icon": "mdiSawBlade"
+  },
+  {
+    "icon": "mdiSaxophone"
+  },
+  {
+    "icon": "mdiScale"
+  },
+  {
+    "icon": "mdiScaleBalance"
+  },
+  {
+    "icon": "mdiScaleBathroom"
+  },
+  {
+    "icon": "mdiScanner"
+  },
+  {
+    "icon": "mdiScannerOff"
+  },
+  {
+    "icon": "mdiScatterPlot"
+  },
+  {
+    "icon": "mdiScatterPlotOutline"
+  },
+  {
+    "icon": "mdiSchool"
+  },
+  {
+    "icon": "mdiScissorsCutting"
+  },
+  {
+    "icon": "mdiScreenRotation"
+  },
+  {
+    "icon": "mdiScreenRotationLock"
+  },
+  {
+    "icon": "mdiScrewFlatTop"
+  },
+  {
+    "icon": "mdiScrewLag"
+  },
+  {
+    "icon": "mdiScrewMachineFlatTop"
+  },
+  {
+    "icon": "mdiScrewMachineRoundTop"
+  },
+  {
+    "icon": "mdiScrewRoundTop"
+  },
+  {
+    "icon": "mdiScrewdriver"
+  },
+  {
+    "icon": "mdiScript"
+  },
+  {
+    "icon": "mdiScriptOutline"
+  },
+  {
+    "icon": "mdiScriptText"
+  },
+  {
+    "icon": "mdiScriptTextOutline"
+  },
+  {
+    "icon": "mdiSd"
+  },
+  {
+    "icon": "mdiSeal"
+  },
+  {
+    "icon": "mdiSearchWeb"
+  },
+  {
+    "icon": "mdiSeat"
+  },
+  {
+    "icon": "mdiSeatFlat"
+  },
+  {
+    "icon": "mdiSeatFlatAngled"
+  },
+  {
+    "icon": "mdiSeatIndividualSuite"
+  },
+  {
+    "icon": "mdiSeatLegroomExtra"
+  },
+  {
+    "icon": "mdiSeatLegroomNormal"
+  },
+  {
+    "icon": "mdiSeatLegroomReduced"
+  },
+  {
+    "icon": "mdiSeatOutline"
+  },
+  {
+    "icon": "mdiSeatReclineExtra"
+  },
+  {
+    "icon": "mdiSeatReclineNormal"
+  },
+  {
+    "icon": "mdiSeatbelt"
+  },
+  {
+    "icon": "mdiSecurity"
+  },
+  {
+    "icon": "mdiSecurityNetwork"
+  },
+  {
+    "icon": "mdiSeed"
+  },
+  {
+    "icon": "mdiSeedOutline"
+  },
+  {
+    "icon": "mdiSegment"
+  },
+  {
+    "icon": "mdiSelect"
+  },
+  {
+    "icon": "mdiSelectAll"
+  },
+  {
+    "icon": "mdiSelectColor"
+  },
+  {
+    "icon": "mdiSelectCompare"
+  },
+  {
+    "icon": "mdiSelectDrag"
+  },
+  {
+    "icon": "mdiSelectGroup"
+  },
+  {
+    "icon": "mdiSelectInverse"
+  },
+  {
+    "icon": "mdiSelectOff"
+  },
+  {
+    "icon": "mdiSelection"
+  },
+  {
+    "icon": "mdiSelectionDrag"
+  },
+  {
+    "icon": "mdiSelectionEllipse"
+  },
+  {
+    "icon": "mdiSelectionEllipseArrowInside"
+  },
+  {
+    "icon": "mdiSelectionOff"
+  },
+  {
+    "icon": "mdiSend"
+  },
+  {
+    "icon": "mdiSendCircle"
+  },
+  {
+    "icon": "mdiSendCircleOutline"
+  },
+  {
+    "icon": "mdiSendLock"
+  },
+  {
+    "icon": "mdiSerialPort"
+  },
+  {
+    "icon": "mdiServer"
+  },
+  {
+    "icon": "mdiServerMinus"
+  },
+  {
+    "icon": "mdiServerNetwork"
+  },
+  {
+    "icon": "mdiServerNetworkOff"
+  },
+  {
+    "icon": "mdiServerOff"
+  },
+  {
+    "icon": "mdiServerPlus"
+  },
+  {
+    "icon": "mdiServerRemove"
+  },
+  {
+    "icon": "mdiServerSecurity"
+  },
+  {
+    "icon": "mdiSetAll"
+  },
+  {
+    "icon": "mdiSetCenter"
+  },
+  {
+    "icon": "mdiSetCenterRight"
+  },
+  {
+    "icon": "mdiSetLeft"
+  },
+  {
+    "icon": "mdiSetLeftCenter"
+  },
+  {
+    "icon": "mdiSetLeftRight"
+  },
+  {
+    "icon": "mdiSetNone"
+  },
+  {
+    "icon": "mdiSetRight"
+  },
+  {
+    "icon": "mdiSetTopBox"
+  },
+  {
+    "icon": "mdiSettings"
+  },
+  {
+    "icon": "mdiSettingsBox"
+  },
+  {
+    "icon": "mdiSettingsHelper"
+  },
+  {
+    "icon": "mdiSettingsOutline"
+  },
+  {
+    "icon": "mdiShape"
+  },
+  {
+    "icon": "mdiShapeCirclePlus"
+  },
+  {
+    "icon": "mdiShapeOutline"
+  },
+  {
+    "icon": "mdiShapePlus"
+  },
+  {
+    "icon": "mdiShapePolygonPlus"
+  },
+  {
+    "icon": "mdiShapeRectanglePlus"
+  },
+  {
+    "icon": "mdiShapeSquarePlus"
+  },
+  {
+    "icon": "mdiShare"
+  },
+  {
+    "icon": "mdiShareOff"
+  },
+  {
+    "icon": "mdiShareOffOutline"
+  },
+  {
+    "icon": "mdiShareOutline"
+  },
+  {
+    "icon": "mdiShareVariant"
+  },
+  {
+    "icon": "mdiSheep"
+  },
+  {
+    "icon": "mdiShield"
+  },
+  {
+    "icon": "mdiShieldAccount"
+  },
+  {
+    "icon": "mdiShieldAccountOutline"
+  },
+  {
+    "icon": "mdiShieldAirplane"
+  },
+  {
+    "icon": "mdiShieldAirplaneOutline"
+  },
+  {
+    "icon": "mdiShieldAlert"
+  },
+  {
+    "icon": "mdiShieldAlertOutline"
+  },
+  {
+    "icon": "mdiShieldCar"
+  },
+  {
+    "icon": "mdiShieldCheck"
+  },
+  {
+    "icon": "mdiShieldCheckOutline"
+  },
+  {
+    "icon": "mdiShieldCross"
+  },
+  {
+    "icon": "mdiShieldCrossOutline"
+  },
+  {
+    "icon": "mdiShieldHalfFull"
+  },
+  {
+    "icon": "mdiShieldHome"
+  },
+  {
+    "icon": "mdiShieldHomeOutline"
+  },
+  {
+    "icon": "mdiShieldKey"
+  },
+  {
+    "icon": "mdiShieldKeyOutline"
+  },
+  {
+    "icon": "mdiShieldLinkVariant"
+  },
+  {
+    "icon": "mdiShieldLinkVariantOutline"
+  },
+  {
+    "icon": "mdiShieldLock"
+  },
+  {
+    "icon": "mdiShieldLockOutline"
+  },
+  {
+    "icon": "mdiShieldOff"
+  },
+  {
+    "icon": "mdiShieldOffOutline"
+  },
+  {
+    "icon": "mdiShieldOutline"
+  },
+  {
+    "icon": "mdiShieldPlus"
+  },
+  {
+    "icon": "mdiShieldPlusOutline"
+  },
+  {
+    "icon": "mdiShieldRemove"
+  },
+  {
+    "icon": "mdiShieldRemoveOutline"
+  },
+  {
+    "icon": "mdiShieldSearch"
+  },
+  {
+    "icon": "mdiShipWheel"
+  },
+  {
+    "icon": "mdiShoeFormal"
+  },
+  {
+    "icon": "mdiShoeHeel"
+  },
+  {
+    "icon": "mdiShoePrint"
+  },
+  {
+    "icon": "mdiShopify"
+  },
+  {
+    "icon": "mdiShopping"
+  },
+  {
+    "icon": "mdiShoppingMusic"
+  },
+  {
+    "icon": "mdiShoppingSearch"
+  },
+  {
+    "icon": "mdiShovel"
+  },
+  {
+    "icon": "mdiShovelOff"
+  },
+  {
+    "icon": "mdiShower"
+  },
+  {
+    "icon": "mdiShowerHead"
+  },
+  {
+    "icon": "mdiShredder"
+  },
+  {
+    "icon": "mdiShuffle"
+  },
+  {
+    "icon": "mdiShuffleDisabled"
+  },
+  {
+    "icon": "mdiShuffleVariant"
+  },
+  {
+    "icon": "mdiSigma"
+  },
+  {
+    "icon": "mdiSigmaLower"
+  },
+  {
+    "icon": "mdiSignCaution"
+  },
+  {
+    "icon": "mdiSignDirection"
+  },
+  {
+    "icon": "mdiSignText"
+  },
+  {
+    "icon": "mdiSignal"
+  },
+  {
+    "icon": "mdiSignal2g"
+  },
+  {
+    "icon": "mdiSignal3g"
+  },
+  {
+    "icon": "mdiSignal4g"
+  },
+  {
+    "icon": "mdiSignal5g"
+  },
+  {
+    "icon": "mdiSignalCellular1"
+  },
+  {
+    "icon": "mdiSignalCellular2"
+  },
+  {
+    "icon": "mdiSignalCellular3"
+  },
+  {
+    "icon": "mdiSignalCellularOutline"
+  },
+  {
+    "icon": "mdiSignalDistanceVariant"
+  },
+  {
+    "icon": "mdiSignalHspa"
+  },
+  {
+    "icon": "mdiSignalHspaPlus"
+  },
+  {
+    "icon": "mdiSignalOff"
+  },
+  {
+    "icon": "mdiSignalVariant"
+  },
+  {
+    "icon": "mdiSignature"
+  },
+  {
+    "icon": "mdiSignatureFreehand"
+  },
+  {
+    "icon": "mdiSignatureImage"
+  },
+  {
+    "icon": "mdiSignatureText"
+  },
+  {
+    "icon": "mdiSilo"
+  },
+  {
+    "icon": "mdiSilverware"
+  },
+  {
+    "icon": "mdiSilverwareFork"
+  },
+  {
+    "icon": "mdiSilverwareForkKnife"
+  },
+  {
+    "icon": "mdiSilverwareSpoon"
+  },
+  {
+    "icon": "mdiSilverwareVariant"
+  },
+  {
+    "icon": "mdiSim"
+  },
+  {
+    "icon": "mdiSimAlert"
+  },
+  {
+    "icon": "mdiSimOff"
+  },
+  {
+    "icon": "mdiSinaWeibo"
+  },
+  {
+    "icon": "mdiSitemap"
+  },
+  {
+    "icon": "mdiSkate"
+  },
+  {
+    "icon": "mdiSkewLess"
+  },
+  {
+    "icon": "mdiSkewMore"
+  },
+  {
+    "icon": "mdiSkipBackward"
+  },
+  {
+    "icon": "mdiSkipBackwardOutline"
+  },
+  {
+    "icon": "mdiSkipForward"
+  },
+  {
+    "icon": "mdiSkipForwardOutline"
+  },
+  {
+    "icon": "mdiSkipNext"
+  },
+  {
+    "icon": "mdiSkipNextCircle"
+  },
+  {
+    "icon": "mdiSkipNextCircleOutline"
+  },
+  {
+    "icon": "mdiSkipNextOutline"
+  },
+  {
+    "icon": "mdiSkipPrevious"
+  },
+  {
+    "icon": "mdiSkipPreviousCircle"
+  },
+  {
+    "icon": "mdiSkipPreviousCircleOutline"
+  },
+  {
+    "icon": "mdiSkipPreviousOutline"
+  },
+  {
+    "icon": "mdiSkull"
+  },
+  {
+    "icon": "mdiSkullCrossbones"
+  },
+  {
+    "icon": "mdiSkullCrossbonesOutline"
+  },
+  {
+    "icon": "mdiSkullOutline"
+  },
+  {
+    "icon": "mdiSkype"
+  },
+  {
+    "icon": "mdiSkypeBusiness"
+  },
+  {
+    "icon": "mdiSlack"
+  },
+  {
+    "icon": "mdiSlackware"
+  },
+  {
+    "icon": "mdiSleep"
+  },
+  {
+    "icon": "mdiSleepOff"
+  },
+  {
+    "icon": "mdiSlopeDownhill"
+  },
+  {
+    "icon": "mdiSlopeUphill"
+  },
+  {
+    "icon": "mdiSmog"
+  },
+  {
+    "icon": "mdiSmokeDetector"
+  },
+  {
+    "icon": "mdiSmoking"
+  },
+  {
+    "icon": "mdiSmokingOff"
+  },
+  {
+    "icon": "mdiSnapchat"
+  },
+  {
+    "icon": "mdiSnowflake"
+  },
+  {
+    "icon": "mdiSnowflakeAlert"
+  },
+  {
+    "icon": "mdiSnowflakeVariant"
+  },
+  {
+    "icon": "mdiSnowman"
+  },
+  {
+    "icon": "mdiSoccer"
+  },
+  {
+    "icon": "mdiSoccerField"
+  },
+  {
+    "icon": "mdiSofa"
+  },
+  {
+    "icon": "mdiSolarPanel"
+  },
+  {
+    "icon": "mdiSolarPanelLarge"
+  },
+  {
+    "icon": "mdiSolarPower"
+  },
+  {
+    "icon": "mdiSolid"
+  },
+  {
+    "icon": "mdiSort"
+  },
+  {
+    "icon": "mdiSortAlphabetical"
+  },
+  {
+    "icon": "mdiSortAscending"
+  },
+  {
+    "icon": "mdiSortDescending"
+  },
+  {
+    "icon": "mdiSortNumeric"
+  },
+  {
+    "icon": "mdiSortVariant"
+  },
+  {
+    "icon": "mdiSortVariantLock"
+  },
+  {
+    "icon": "mdiSortVariantLockOpen"
+  },
+  {
+    "icon": "mdiSoundcloud"
+  },
+  {
+    "icon": "mdiSourceBranch"
+  },
+  {
+    "icon": "mdiSourceCommit"
+  },
+  {
+    "icon": "mdiSourceCommitEnd"
+  },
+  {
+    "icon": "mdiSourceCommitEndLocal"
+  },
+  {
+    "icon": "mdiSourceCommitLocal"
+  },
+  {
+    "icon": "mdiSourceCommitNextLocal"
+  },
+  {
+    "icon": "mdiSourceCommitStart"
+  },
+  {
+    "icon": "mdiSourceCommitStartNextLocal"
+  },
+  {
+    "icon": "mdiSourceFork"
+  },
+  {
+    "icon": "mdiSourceMerge"
+  },
+  {
+    "icon": "mdiSourcePull"
+  },
+  {
+    "icon": "mdiSourceRepository"
+  },
+  {
+    "icon": "mdiSourceRepositoryMultiple"
+  },
+  {
+    "icon": "mdiSoySauce"
+  },
+  {
+    "icon": "mdiSpa"
+  },
+  {
+    "icon": "mdiSpaOutline"
+  },
+  {
+    "icon": "mdiSpaceInvaders"
+  },
+  {
+    "icon": "mdiSpade"
+  },
+  {
+    "icon": "mdiSpeaker"
+  },
+  {
+    "icon": "mdiSpeakerBluetooth"
+  },
+  {
+    "icon": "mdiSpeakerMultiple"
+  },
+  {
+    "icon": "mdiSpeakerOff"
+  },
+  {
+    "icon": "mdiSpeakerWireless"
+  },
+  {
+    "icon": "mdiSpeedometer"
+  },
+  {
+    "icon": "mdiSpeedometerMedium"
+  },
+  {
+    "icon": "mdiSpeedometerSlow"
+  },
+  {
+    "icon": "mdiSpellcheck"
+  },
+  {
+    "icon": "mdiSpiderWeb"
+  },
+  {
+    "icon": "mdiSpotify"
+  },
+  {
+    "icon": "mdiSpotlight"
+  },
+  {
+    "icon": "mdiSpotlightBeam"
+  },
+  {
+    "icon": "mdiSpray"
+  },
+  {
+    "icon": "mdiSprayBottle"
+  },
+  {
+    "icon": "mdiSprout"
+  },
+  {
+    "icon": "mdiSproutOutline"
+  },
+  {
+    "icon": "mdiSquare"
+  },
+  {
+    "icon": "mdiSquareEditOutline"
+  },
+  {
+    "icon": "mdiSquareInc"
+  },
+  {
+    "icon": "mdiSquareIncCash"
+  },
+  {
+    "icon": "mdiSquareMedium"
+  },
+  {
+    "icon": "mdiSquareMediumOutline"
+  },
+  {
+    "icon": "mdiSquareOutline"
+  },
+  {
+    "icon": "mdiSquareRoot"
+  },
+  {
+    "icon": "mdiSquareRootBox"
+  },
+  {
+    "icon": "mdiSquareSmall"
+  },
+  {
+    "icon": "mdiSqueegee"
+  },
+  {
+    "icon": "mdiSsh"
+  },
+  {
+    "icon": "mdiStackExchange"
+  },
+  {
+    "icon": "mdiStackOverflow"
+  },
+  {
+    "icon": "mdiStadium"
+  },
+  {
+    "icon": "mdiStairs"
+  },
+  {
+    "icon": "mdiStamper"
+  },
+  {
+    "icon": "mdiStandardDefinition"
+  },
+  {
+    "icon": "mdiStar"
+  },
+  {
+    "icon": "mdiStarBox"
+  },
+  {
+    "icon": "mdiStarBoxOutline"
+  },
+  {
+    "icon": "mdiStarCircle"
+  },
+  {
+    "icon": "mdiStarCircleOutline"
+  },
+  {
+    "icon": "mdiStarFace"
+  },
+  {
+    "icon": "mdiStarFourPoints"
+  },
+  {
+    "icon": "mdiStarFourPointsOutline"
+  },
+  {
+    "icon": "mdiStarHalf"
+  },
+  {
+    "icon": "mdiStarOff"
+  },
+  {
+    "icon": "mdiStarOutline"
+  },
+  {
+    "icon": "mdiStarThreePoints"
+  },
+  {
+    "icon": "mdiStarThreePointsOutline"
+  },
+  {
+    "icon": "mdiSteam"
+  },
+  {
+    "icon": "mdiSteamBox"
+  },
+  {
+    "icon": "mdiSteering"
+  },
+  {
+    "icon": "mdiSteeringOff"
+  },
+  {
+    "icon": "mdiStepBackward"
+  },
+  {
+    "icon": "mdiStepBackward2"
+  },
+  {
+    "icon": "mdiStepForward"
+  },
+  {
+    "icon": "mdiStepForward2"
+  },
+  {
+    "icon": "mdiStethoscope"
+  },
+  {
+    "icon": "mdiSticker"
+  },
+  {
+    "icon": "mdiStickerEmoji"
+  },
+  {
+    "icon": "mdiStocking"
+  },
+  {
+    "icon": "mdiStop"
+  },
+  {
+    "icon": "mdiStopCircle"
+  },
+  {
+    "icon": "mdiStopCircleOutline"
+  },
+  {
+    "icon": "mdiStore"
+  },
+  {
+    "icon": "mdiStore24Hour"
+  },
+  {
+    "icon": "mdiStove"
+  },
+  {
+    "icon": "mdiStrava"
+  },
+  {
+    "icon": "mdiStretchToPage"
+  },
+  {
+    "icon": "mdiStretchToPageOutline"
+  },
+  {
+    "icon": "mdiSubdirectoryArrowLeft"
+  },
+  {
+    "icon": "mdiSubdirectoryArrowRight"
+  },
+  {
+    "icon": "mdiSubtitles"
+  },
+  {
+    "icon": "mdiSubtitlesOutline"
+  },
+  {
+    "icon": "mdiSubway"
+  },
+  {
+    "icon": "mdiSubwayAlertVariant"
+  },
+  {
+    "icon": "mdiSubwayVariant"
+  },
+  {
+    "icon": "mdiSummit"
+  },
+  {
+    "icon": "mdiSunglasses"
+  },
+  {
+    "icon": "mdiSurroundSound"
+  },
+  {
+    "icon": "mdiSurroundSound20"
+  },
+  {
+    "icon": "mdiSurroundSound31"
+  },
+  {
+    "icon": "mdiSurroundSound51"
+  },
+  {
+    "icon": "mdiSurroundSound71"
+  },
+  {
+    "icon": "mdiSvg"
+  },
+  {
+    "icon": "mdiSwapHorizontal"
+  },
+  {
+    "icon": "mdiSwapHorizontalBold"
+  },
+  {
+    "icon": "mdiSwapHorizontalVariant"
+  },
+  {
+    "icon": "mdiSwapVertical"
+  },
+  {
+    "icon": "mdiSwapVerticalBold"
+  },
+  {
+    "icon": "mdiSwapVerticalVariant"
+  },
+  {
+    "icon": "mdiSwim"
+  },
+  {
+    "icon": "mdiSwitch"
+  },
+  {
+    "icon": "mdiSword"
+  },
+  {
+    "icon": "mdiSwordCross"
+  },
+  {
+    "icon": "mdiSymfony"
+  },
+  {
+    "icon": "mdiSync"
+  },
+  {
+    "icon": "mdiSyncAlert"
+  },
+  {
+    "icon": "mdiSyncOff"
+  },
+  {
+    "icon": "mdiTab"
+  },
+  {
+    "icon": "mdiTabMinus"
+  },
+  {
+    "icon": "mdiTabPlus"
+  },
+  {
+    "icon": "mdiTabRemove"
+  },
+  {
+    "icon": "mdiTabUnselected"
+  },
+  {
+    "icon": "mdiTable"
+  },
+  {
+    "icon": "mdiTableBorder"
+  },
+  {
+    "icon": "mdiTableColumn"
+  },
+  {
+    "icon": "mdiTableColumnPlusAfter"
+  },
+  {
+    "icon": "mdiTableColumnPlusBefore"
+  },
+  {
+    "icon": "mdiTableColumnRemove"
+  },
+  {
+    "icon": "mdiTableColumnWidth"
+  },
+  {
+    "icon": "mdiTableEdit"
+  },
+  {
+    "icon": "mdiTableLarge"
+  },
+  {
+    "icon": "mdiTableLargePlus"
+  },
+  {
+    "icon": "mdiTableLargeRemove"
+  },
+  {
+    "icon": "mdiTableMergeCells"
+  },
+  {
+    "icon": "mdiTableOfContents"
+  },
+  {
+    "icon": "mdiTablePlus"
+  },
+  {
+    "icon": "mdiTableRemove"
+  },
+  {
+    "icon": "mdiTableRow"
+  },
+  {
+    "icon": "mdiTableRowHeight"
+  },
+  {
+    "icon": "mdiTableRowPlusAfter"
+  },
+  {
+    "icon": "mdiTableRowPlusBefore"
+  },
+  {
+    "icon": "mdiTableRowRemove"
+  },
+  {
+    "icon": "mdiTableSearch"
+  },
+  {
+    "icon": "mdiTableSettings"
+  },
+  {
+    "icon": "mdiTableTennis"
+  },
+  {
+    "icon": "mdiTablet"
+  },
+  {
+    "icon": "mdiTabletAndroid"
+  },
+  {
+    "icon": "mdiTabletCellphone"
+  },
+  {
+    "icon": "mdiTabletDashboard"
+  },
+  {
+    "icon": "mdiTabletIpad"
+  },
+  {
+    "icon": "mdiTaco"
+  },
+  {
+    "icon": "mdiTag"
+  },
+  {
+    "icon": "mdiTagFaces"
+  },
+  {
+    "icon": "mdiTagHeart"
+  },
+  {
+    "icon": "mdiTagHeartOutline"
+  },
+  {
+    "icon": "mdiTagMinus"
+  },
+  {
+    "icon": "mdiTagMultiple"
+  },
+  {
+    "icon": "mdiTagOutline"
+  },
+  {
+    "icon": "mdiTagPlus"
+  },
+  {
+    "icon": "mdiTagRemove"
+  },
+  {
+    "icon": "mdiTagTextOutline"
+  },
+  {
+    "icon": "mdiTank"
+  },
+  {
+    "icon": "mdiTapeMeasure"
+  },
+  {
+    "icon": "mdiTarget"
+  },
+  {
+    "icon": "mdiTargetAccount"
+  },
+  {
+    "icon": "mdiTargetVariant"
+  },
+  {
+    "icon": "mdiTaxi"
+  },
+  {
+    "icon": "mdiTea"
+  },
+  {
+    "icon": "mdiTeaOutline"
+  },
+  {
+    "icon": "mdiTeach"
+  },
+  {
+    "icon": "mdiTeamviewer"
+  },
+  {
+    "icon": "mdiTelegram"
+  },
+  {
+    "icon": "mdiTelescope"
+  },
+  {
+    "icon": "mdiTelevision"
+  },
+  {
+    "icon": "mdiTelevisionBox"
+  },
+  {
+    "icon": "mdiTelevisionClassic"
+  },
+  {
+    "icon": "mdiTelevisionClassicOff"
+  },
+  {
+    "icon": "mdiTelevisionGuide"
+  },
+  {
+    "icon": "mdiTelevisionOff"
+  },
+  {
+    "icon": "mdiTelevisionPause"
+  },
+  {
+    "icon": "mdiTelevisionPlay"
+  },
+  {
+    "icon": "mdiTelevisionStop"
+  },
+  {
+    "icon": "mdiTemperatureCelsius"
+  },
+  {
+    "icon": "mdiTemperatureFahrenheit"
+  },
+  {
+    "icon": "mdiTemperatureKelvin"
+  },
+  {
+    "icon": "mdiTennis"
+  },
+  {
+    "icon": "mdiTennisBall"
+  },
+  {
+    "icon": "mdiTent"
+  },
+  {
+    "icon": "mdiTerrain"
+  },
+  {
+    "icon": "mdiTestTube"
+  },
+  {
+    "icon": "mdiTestTubeEmpty"
+  },
+  {
+    "icon": "mdiTestTubeOff"
+  },
+  {
+    "icon": "mdiText"
+  },
+  {
+    "icon": "mdiTextShadow"
+  },
+  {
+    "icon": "mdiTextShort"
+  },
+  {
+    "icon": "mdiTextSubject"
+  },
+  {
+    "icon": "mdiTextToSpeech"
+  },
+  {
+    "icon": "mdiTextToSpeechOff"
+  },
+  {
+    "icon": "mdiTextbox"
+  },
+  {
+    "icon": "mdiTextboxPassword"
+  },
+  {
+    "icon": "mdiTexture"
+  },
+  {
+    "icon": "mdiTheater"
+  },
+  {
+    "icon": "mdiThemeLightDark"
+  },
+  {
+    "icon": "mdiThermometer"
+  },
+  {
+    "icon": "mdiThermometerAlert"
+  },
+  {
+    "icon": "mdiThermometerChevronDown"
+  },
+  {
+    "icon": "mdiThermometerChevronUp"
+  },
+  {
+    "icon": "mdiThermometerLines"
+  },
+  {
+    "icon": "mdiThermometerMinus"
+  },
+  {
+    "icon": "mdiThermometerPlus"
+  },
+  {
+    "icon": "mdiThermostat"
+  },
+  {
+    "icon": "mdiThermostatBox"
+  },
+  {
+    "icon": "mdiThoughtBubble"
+  },
+  {
+    "icon": "mdiThoughtBubbleOutline"
+  },
+  {
+    "icon": "mdiThumbDown"
+  },
+  {
+    "icon": "mdiThumbDownOutline"
+  },
+  {
+    "icon": "mdiThumbUp"
+  },
+  {
+    "icon": "mdiThumbUpOutline"
+  },
+  {
+    "icon": "mdiThumbsUpDown"
+  },
+  {
+    "icon": "mdiTicket"
+  },
+  {
+    "icon": "mdiTicketAccount"
+  },
+  {
+    "icon": "mdiTicketConfirmation"
+  },
+  {
+    "icon": "mdiTicketOutline"
+  },
+  {
+    "icon": "mdiTicketPercent"
+  },
+  {
+    "icon": "mdiTie"
+  },
+  {
+    "icon": "mdiTilde"
+  },
+  {
+    "icon": "mdiTimelapse"
+  },
+  {
+    "icon": "mdiTimeline"
+  },
+  {
+    "icon": "mdiTimelineAlert"
+  },
+  {
+    "icon": "mdiTimelineAlertOutline"
+  },
+  {
+    "icon": "mdiTimelineHelp"
+  },
+  {
+    "icon": "mdiTimelineHelpOutline"
+  },
+  {
+    "icon": "mdiTimelineOutline"
+  },
+  {
+    "icon": "mdiTimelinePlus"
+  },
+  {
+    "icon": "mdiTimelinePlusOutline"
+  },
+  {
+    "icon": "mdiTimelineText"
+  },
+  {
+    "icon": "mdiTimelineTextOutline"
+  },
+  {
+    "icon": "mdiTimer"
+  },
+  {
+    "icon": "mdiTimer10"
+  },
+  {
+    "icon": "mdiTimer3"
+  },
+  {
+    "icon": "mdiTimerOff"
+  },
+  {
+    "icon": "mdiTimerSand"
+  },
+  {
+    "icon": "mdiTimerSandEmpty"
+  },
+  {
+    "icon": "mdiTimerSandFull"
+  },
+  {
+    "icon": "mdiTimetable"
+  },
+  {
+    "icon": "mdiToasterOven"
+  },
+  {
+    "icon": "mdiToggleSwitch"
+  },
+  {
+    "icon": "mdiToggleSwitchOff"
+  },
+  {
+    "icon": "mdiToggleSwitchOffOutline"
+  },
+  {
+    "icon": "mdiToggleSwitchOutline"
+  },
+  {
+    "icon": "mdiToilet"
+  },
+  {
+    "icon": "mdiToolbox"
+  },
+  {
+    "icon": "mdiToolboxOutline"
+  },
+  {
+    "icon": "mdiTooltip"
+  },
+  {
+    "icon": "mdiTooltipAccount"
+  },
+  {
+    "icon": "mdiTooltipEdit"
+  },
+  {
+    "icon": "mdiTooltipImage"
+  },
+  {
+    "icon": "mdiTooltipImageOutline"
+  },
+  {
+    "icon": "mdiTooltipOutline"
+  },
+  {
+    "icon": "mdiTooltipPlus"
+  },
+  {
+    "icon": "mdiTooltipPlusOutline"
+  },
+  {
+    "icon": "mdiTooltipText"
+  },
+  {
+    "icon": "mdiTooltipTextOutline"
+  },
+  {
+    "icon": "mdiTooth"
+  },
+  {
+    "icon": "mdiToothOutline"
+  },
+  {
+    "icon": "mdiTor"
+  },
+  {
+    "icon": "mdiTortoise"
+  },
+  {
+    "icon": "mdiTournament"
+  },
+  {
+    "icon": "mdiTowerBeach"
+  },
+  {
+    "icon": "mdiTowerFire"
+  },
+  {
+    "icon": "mdiTowing"
+  },
+  {
+    "icon": "mdiTrackLight"
+  },
+  {
+    "icon": "mdiTrackpad"
+  },
+  {
+    "icon": "mdiTrackpadLock"
+  },
+  {
+    "icon": "mdiTractor"
+  },
+  {
+    "icon": "mdiTrademark"
+  },
+  {
+    "icon": "mdiTrafficLight"
+  },
+  {
+    "icon": "mdiTrain"
+  },
+  {
+    "icon": "mdiTrainCar"
+  },
+  {
+    "icon": "mdiTrainVariant"
+  },
+  {
+    "icon": "mdiTram"
+  },
+  {
+    "icon": "mdiTranscribe"
+  },
+  {
+    "icon": "mdiTranscribeClose"
+  },
+  {
+    "icon": "mdiTransferDown"
+  },
+  {
+    "icon": "mdiTransferLeft"
+  },
+  {
+    "icon": "mdiTransferRight"
+  },
+  {
+    "icon": "mdiTransferUp"
+  },
+  {
+    "icon": "mdiTransitConnection"
+  },
+  {
+    "icon": "mdiTransitConnectionVariant"
+  },
+  {
+    "icon": "mdiTransitDetour"
+  },
+  {
+    "icon": "mdiTransitTransfer"
+  },
+  {
+    "icon": "mdiTransition"
+  },
+  {
+    "icon": "mdiTransitionMasked"
+  },
+  {
+    "icon": "mdiTranslate"
+  },
+  {
+    "icon": "mdiTranslateOff"
+  },
+  {
+    "icon": "mdiTransmissionTower"
+  },
+  {
+    "icon": "mdiTrashCan"
+  },
+  {
+    "icon": "mdiTrashCanOutline"
+  },
+  {
+    "icon": "mdiTreasureChest"
+  },
+  {
+    "icon": "mdiTree"
+  },
+  {
+    "icon": "mdiTreeOutline"
+  },
+  {
+    "icon": "mdiTrello"
+  },
+  {
+    "icon": "mdiTrendingDown"
+  },
+  {
+    "icon": "mdiTrendingNeutral"
+  },
+  {
+    "icon": "mdiTrendingUp"
+  },
+  {
+    "icon": "mdiTriangle"
+  },
+  {
+    "icon": "mdiTriangleOutline"
+  },
+  {
+    "icon": "mdiTriforce"
+  },
+  {
+    "icon": "mdiTrophy"
+  },
+  {
+    "icon": "mdiTrophyAward"
+  },
+  {
+    "icon": "mdiTrophyBroken"
+  },
+  {
+    "icon": "mdiTrophyOutline"
+  },
+  {
+    "icon": "mdiTrophyVariant"
+  },
+  {
+    "icon": "mdiTrophyVariantOutline"
+  },
+  {
+    "icon": "mdiTruck"
+  },
+  {
+    "icon": "mdiTruckCheck"
+  },
+  {
+    "icon": "mdiTruckDelivery"
+  },
+  {
+    "icon": "mdiTruckFast"
+  },
+  {
+    "icon": "mdiTruckTrailer"
+  },
+  {
+    "icon": "mdiTshirtCrew"
+  },
+  {
+    "icon": "mdiTshirtCrewOutline"
+  },
+  {
+    "icon": "mdiTshirtV"
+  },
+  {
+    "icon": "mdiTshirtVOutline"
+  },
+  {
+    "icon": "mdiTumbleDryer"
+  },
+  {
+    "icon": "mdiTumblr"
+  },
+  {
+    "icon": "mdiTumblrBox"
+  },
+  {
+    "icon": "mdiTumblrReblog"
+  },
+  {
+    "icon": "mdiTune"
+  },
+  {
+    "icon": "mdiTuneVertical"
+  },
+  {
+    "icon": "mdiTurnstile"
+  },
+  {
+    "icon": "mdiTurnstileOutline"
+  },
+  {
+    "icon": "mdiTurtle"
+  },
+  {
+    "icon": "mdiTwitch"
+  },
+  {
+    "icon": "mdiTwitter"
+  },
+  {
+    "icon": "mdiTwitterBox"
+  },
+  {
+    "icon": "mdiTwitterCircle"
+  },
+  {
+    "icon": "mdiTwitterRetweet"
+  },
+  {
+    "icon": "mdiTwoFactorAuthentication"
+  },
+  {
+    "icon": "mdiTypewriter"
+  },
+  {
+    "icon": "mdiUber"
+  },
+  {
+    "icon": "mdiUbisoft"
+  },
+  {
+    "icon": "mdiUbuntu"
+  },
+  {
+    "icon": "mdiUltraHighDefinition"
+  },
+  {
+    "icon": "mdiUmbraco"
+  },
+  {
+    "icon": "mdiUmbrella"
+  },
+  {
+    "icon": "mdiUmbrellaClosed"
+  },
+  {
+    "icon": "mdiUmbrellaOutline"
+  },
+  {
+    "icon": "mdiUndo"
+  },
+  {
+    "icon": "mdiUndoVariant"
+  },
+  {
+    "icon": "mdiUnfoldLessHorizontal"
+  },
+  {
+    "icon": "mdiUnfoldLessVertical"
+  },
+  {
+    "icon": "mdiUnfoldMoreHorizontal"
+  },
+  {
+    "icon": "mdiUnfoldMoreVertical"
+  },
+  {
+    "icon": "mdiUngroup"
+  },
+  {
+    "icon": "mdiUnicode"
+  },
+  {
+    "icon": "mdiUnity"
+  },
+  {
+    "icon": "mdiUnreal"
+  },
+  {
+    "icon": "mdiUntappd"
+  },
+  {
+    "icon": "mdiUpdate"
+  },
+  {
+    "icon": "mdiUpload"
+  },
+  {
+    "icon": "mdiUploadMultiple"
+  },
+  {
+    "icon": "mdiUploadNetwork"
+  },
+  {
+    "icon": "mdiUploadNetworkOutline"
+  },
+  {
+    "icon": "mdiUploadOutline"
+  },
+  {
+    "icon": "mdiUsb"
+  },
+  {
+    "icon": "mdiVanPassenger"
+  },
+  {
+    "icon": "mdiVanUtility"
+  },
+  {
+    "icon": "mdiVanish"
+  },
+  {
+    "icon": "mdiVariable"
+  },
+  {
+    "icon": "mdiVectorArrangeAbove"
+  },
+  {
+    "icon": "mdiVectorArrangeBelow"
+  },
+  {
+    "icon": "mdiVectorBezier"
+  },
+  {
+    "icon": "mdiVectorCircle"
+  },
+  {
+    "icon": "mdiVectorCircleVariant"
+  },
+  {
+    "icon": "mdiVectorCombine"
+  },
+  {
+    "icon": "mdiVectorCurve"
+  },
+  {
+    "icon": "mdiVectorDifference"
+  },
+  {
+    "icon": "mdiVectorDifferenceAb"
+  },
+  {
+    "icon": "mdiVectorDifferenceBa"
+  },
+  {
+    "icon": "mdiVectorEllipse"
+  },
+  {
+    "icon": "mdiVectorIntersection"
+  },
+  {
+    "icon": "mdiVectorLine"
+  },
+  {
+    "icon": "mdiVectorPoint"
+  },
+  {
+    "icon": "mdiVectorPolygon"
+  },
+  {
+    "icon": "mdiVectorPolyline"
+  },
+  {
+    "icon": "mdiVectorRadius"
+  },
+  {
+    "icon": "mdiVectorRectangle"
+  },
+  {
+    "icon": "mdiVectorSelection"
+  },
+  {
+    "icon": "mdiVectorSquare"
+  },
+  {
+    "icon": "mdiVectorTriangle"
+  },
+  {
+    "icon": "mdiVectorUnion"
+  },
+  {
+    "icon": "mdiVenmo"
+  },
+  {
+    "icon": "mdiVhs"
+  },
+  {
+    "icon": "mdiVibrate"
+  },
+  {
+    "icon": "mdiVibrateOff"
+  },
+  {
+    "icon": "mdiVideo"
+  },
+  {
+    "icon": "mdiVideo3d"
+  },
+  {
+    "icon": "mdiVideo3dVariant"
+  },
+  {
+    "icon": "mdiVideo4kBox"
+  },
+  {
+    "icon": "mdiVideoAccount"
+  },
+  {
+    "icon": "mdiVideoImage"
+  },
+  {
+    "icon": "mdiVideoInputAntenna"
+  },
+  {
+    "icon": "mdiVideoInputComponent"
+  },
+  {
+    "icon": "mdiVideoInputHdmi"
+  },
+  {
+    "icon": "mdiVideoInputScart"
+  },
+  {
+    "icon": "mdiVideoInputSvideo"
+  },
+  {
+    "icon": "mdiVideoMinus"
+  },
+  {
+    "icon": "mdiVideoOff"
+  },
+  {
+    "icon": "mdiVideoOffOutline"
+  },
+  {
+    "icon": "mdiVideoOutline"
+  },
+  {
+    "icon": "mdiVideoPlus"
+  },
+  {
+    "icon": "mdiVideoStabilization"
+  },
+  {
+    "icon": "mdiVideoSwitch"
+  },
+  {
+    "icon": "mdiVideoVintage"
+  },
+  {
+    "icon": "mdiVideoWireless"
+  },
+  {
+    "icon": "mdiVideoWirelessOutline"
+  },
+  {
+    "icon": "mdiViewAgenda"
+  },
+  {
+    "icon": "mdiViewArray"
+  },
+  {
+    "icon": "mdiViewCarousel"
+  },
+  {
+    "icon": "mdiViewColumn"
+  },
+  {
+    "icon": "mdiViewComfy"
+  },
+  {
+    "icon": "mdiViewCompact"
+  },
+  {
+    "icon": "mdiViewCompactOutline"
+  },
+  {
+    "icon": "mdiViewDashboard"
+  },
+  {
+    "icon": "mdiViewDashboardOutline"
+  },
+  {
+    "icon": "mdiViewDashboardVariant"
+  },
+  {
+    "icon": "mdiViewDay"
+  },
+  {
+    "icon": "mdiViewGrid"
+  },
+  {
+    "icon": "mdiViewGridPlus"
+  },
+  {
+    "icon": "mdiViewHeadline"
+  },
+  {
+    "icon": "mdiViewList"
+  },
+  {
+    "icon": "mdiViewModule"
+  },
+  {
+    "icon": "mdiViewParallel"
+  },
+  {
+    "icon": "mdiViewQuilt"
+  },
+  {
+    "icon": "mdiViewSequential"
+  },
+  {
+    "icon": "mdiViewSplitHorizontal"
+  },
+  {
+    "icon": "mdiViewSplitVertical"
+  },
+  {
+    "icon": "mdiViewStream"
+  },
+  {
+    "icon": "mdiViewWeek"
+  },
+  {
+    "icon": "mdiVimeo"
+  },
+  {
+    "icon": "mdiViolin"
+  },
+  {
+    "icon": "mdiVirtualReality"
+  },
+  {
+    "icon": "mdiVisualStudio"
+  },
+  {
+    "icon": "mdiVisualStudioCode"
+  },
+  {
+    "icon": "mdiVk"
+  },
+  {
+    "icon": "mdiVkBox"
+  },
+  {
+    "icon": "mdiVkCircle"
+  },
+  {
+    "icon": "mdiVlc"
+  },
+  {
+    "icon": "mdiVoice"
+  },
+  {
+    "icon": "mdiVoiceOff"
+  },
+  {
+    "icon": "mdiVoicemail"
+  },
+  {
+    "icon": "mdiVolleyball"
+  },
+  {
+    "icon": "mdiVolumeHigh"
+  },
+  {
+    "icon": "mdiVolumeLow"
+  },
+  {
+    "icon": "mdiVolumeMedium"
+  },
+  {
+    "icon": "mdiVolumeMinus"
+  },
+  {
+    "icon": "mdiVolumeMute"
+  },
+  {
+    "icon": "mdiVolumeOff"
+  },
+  {
+    "icon": "mdiVolumePlus"
+  },
+  {
+    "icon": "mdiVolumeVariantOff"
+  },
+  {
+    "icon": "mdiVote"
+  },
+  {
+    "icon": "mdiVoteOutline"
+  },
+  {
+    "icon": "mdiVpn"
+  },
+  {
+    "icon": "mdiVuejs"
+  },
+  {
+    "icon": "mdiVuetify"
+  },
+  {
+    "icon": "mdiWalk"
+  },
+  {
+    "icon": "mdiWall"
+  },
+  {
+    "icon": "mdiWallSconce"
+  },
+  {
+    "icon": "mdiWallSconceFlat"
+  },
+  {
+    "icon": "mdiWallSconceVariant"
+  },
+  {
+    "icon": "mdiWallet"
+  },
+  {
+    "icon": "mdiWalletGiftcard"
+  },
+  {
+    "icon": "mdiWalletMembership"
+  },
+  {
+    "icon": "mdiWalletOutline"
+  },
+  {
+    "icon": "mdiWalletPlus"
+  },
+  {
+    "icon": "mdiWalletPlusOutline"
+  },
+  {
+    "icon": "mdiWalletTravel"
+  },
+  {
+    "icon": "mdiWallpaper"
+  },
+  {
+    "icon": "mdiWan"
+  },
+  {
+    "icon": "mdiWardrobe"
+  },
+  {
+    "icon": "mdiWardrobeOutline"
+  },
+  {
+    "icon": "mdiWarehouse"
+  },
+  {
+    "icon": "mdiWashingMachine"
+  },
+  {
+    "icon": "mdiWatch"
+  },
+  {
+    "icon": "mdiWatchExport"
+  },
+  {
+    "icon": "mdiWatchExportVariant"
+  },
+  {
+    "icon": "mdiWatchImport"
+  },
+  {
+    "icon": "mdiWatchImportVariant"
+  },
+  {
+    "icon": "mdiWatchVariant"
+  },
+  {
+    "icon": "mdiWatchVibrate"
+  },
+  {
+    "icon": "mdiWatchVibrateOff"
+  },
+  {
+    "icon": "mdiWater"
+  },
+  {
+    "icon": "mdiWaterBoiler"
+  },
+  {
+    "icon": "mdiWaterOff"
+  },
+  {
+    "icon": "mdiWaterOutline"
+  },
+  {
+    "icon": "mdiWaterPercent"
+  },
+  {
+    "icon": "mdiWaterPump"
+  },
+  {
+    "icon": "mdiWaterPumpOff"
+  },
+  {
+    "icon": "mdiWatermark"
+  },
+  {
+    "icon": "mdiWave"
+  },
+  {
+    "icon": "mdiWaves"
+  },
+  {
+    "icon": "mdiWaze"
+  },
+  {
+    "icon": "mdiWeatherCloudy"
+  },
+  {
+    "icon": "mdiWeatherCloudyAlert"
+  },
+  {
+    "icon": "mdiWeatherCloudyArrowRight"
+  },
+  {
+    "icon": "mdiWeatherFog"
+  },
+  {
+    "icon": "mdiWeatherHail"
+  },
+  {
+    "icon": "mdiWeatherHazy"
+  },
+  {
+    "icon": "mdiWeatherHurricane"
+  },
+  {
+    "icon": "mdiWeatherLightning"
+  },
+  {
+    "icon": "mdiWeatherLightningRainy"
+  },
+  {
+    "icon": "mdiWeatherNight"
+  },
+  {
+    "icon": "mdiWeatherNightPartlyCloudy"
+  },
+  {
+    "icon": "mdiWeatherPartlyCloudy"
+  },
+  {
+    "icon": "mdiWeatherPartlyLightning"
+  },
+  {
+    "icon": "mdiWeatherPartlyRainy"
+  },
+  {
+    "icon": "mdiWeatherPartlySnowy"
+  },
+  {
+    "icon": "mdiWeatherPartlySnowyRainy"
+  },
+  {
+    "icon": "mdiWeatherPouring"
+  },
+  {
+    "icon": "mdiWeatherRainy"
+  },
+  {
+    "icon": "mdiWeatherSnowy"
+  },
+  {
+    "icon": "mdiWeatherSnowyHeavy"
+  },
+  {
+    "icon": "mdiWeatherSnowyRainy"
+  },
+  {
+    "icon": "mdiWeatherSunny"
+  },
+  {
+    "icon": "mdiWeatherSunnyAlert"
+  },
+  {
+    "icon": "mdiWeatherSunset"
+  },
+  {
+    "icon": "mdiWeatherSunsetDown"
+  },
+  {
+    "icon": "mdiWeatherSunsetUp"
+  },
+  {
+    "icon": "mdiWeatherTornado"
+  },
+  {
+    "icon": "mdiWeatherWindy"
+  },
+  {
+    "icon": "mdiWeatherWindyVariant"
+  },
+  {
+    "icon": "mdiWeb"
+  },
+  {
+    "icon": "mdiWebBox"
+  },
+  {
+    "icon": "mdiWebcam"
+  },
+  {
+    "icon": "mdiWebhook"
+  },
+  {
+    "icon": "mdiWebpack"
+  },
+  {
+    "icon": "mdiWechat"
+  },
+  {
+    "icon": "mdiWeight"
+  },
+  {
+    "icon": "mdiWeightGram"
+  },
+  {
+    "icon": "mdiWeightKilogram"
+  },
+  {
+    "icon": "mdiWeightPound"
+  },
+  {
+    "icon": "mdiWhatsapp"
+  },
+  {
+    "icon": "mdiWheelchairAccessibility"
+  },
+  {
+    "icon": "mdiWhistle"
+  },
+  {
+    "icon": "mdiWhiteBalanceAuto"
+  },
+  {
+    "icon": "mdiWhiteBalanceIncandescent"
+  },
+  {
+    "icon": "mdiWhiteBalanceIridescent"
+  },
+  {
+    "icon": "mdiWhiteBalanceSunny"
+  },
+  {
+    "icon": "mdiWidgets"
+  },
+  {
+    "icon": "mdiWifi"
+  },
+  {
+    "icon": "mdiWifiOff"
+  },
+  {
+    "icon": "mdiWifiStar"
+  },
+  {
+    "icon": "mdiWifiStrength1"
+  },
+  {
+    "icon": "mdiWifiStrength1Alert"
+  },
+  {
+    "icon": "mdiWifiStrength1Lock"
+  },
+  {
+    "icon": "mdiWifiStrength2"
+  },
+  {
+    "icon": "mdiWifiStrength2Alert"
+  },
+  {
+    "icon": "mdiWifiStrength2Lock"
+  },
+  {
+    "icon": "mdiWifiStrength3"
+  },
+  {
+    "icon": "mdiWifiStrength3Alert"
+  },
+  {
+    "icon": "mdiWifiStrength3Lock"
+  },
+  {
+    "icon": "mdiWifiStrength4"
+  },
+  {
+    "icon": "mdiWifiStrength4Alert"
+  },
+  {
+    "icon": "mdiWifiStrength4Lock"
+  },
+  {
+    "icon": "mdiWifiStrengthAlertOutline"
+  },
+  {
+    "icon": "mdiWifiStrengthLockOutline"
+  },
+  {
+    "icon": "mdiWifiStrengthOff"
+  },
+  {
+    "icon": "mdiWifiStrengthOffOutline"
+  },
+  {
+    "icon": "mdiWifiStrengthOutline"
+  },
+  {
+    "icon": "mdiWii"
+  },
+  {
+    "icon": "mdiWiiu"
+  },
+  {
+    "icon": "mdiWikipedia"
+  },
+  {
+    "icon": "mdiWindTurbine"
+  },
+  {
+    "icon": "mdiWindowClose"
+  },
+  {
+    "icon": "mdiWindowClosed"
+  },
+  {
+    "icon": "mdiWindowMaximize"
+  },
+  {
+    "icon": "mdiWindowMinimize"
+  },
+  {
+    "icon": "mdiWindowOpen"
+  },
+  {
+    "icon": "mdiWindowRestore"
+  },
+  {
+    "icon": "mdiWindows"
+  },
+  {
+    "icon": "mdiWindowsClassic"
+  },
+  {
+    "icon": "mdiWiper"
+  },
+  {
+    "icon": "mdiWiperWash"
+  },
+  {
+    "icon": "mdiWordpress"
+  },
+  {
+    "icon": "mdiWorker"
+  },
+  {
+    "icon": "mdiWrap"
+  },
+  {
+    "icon": "mdiWrapDisabled"
+  },
+  {
+    "icon": "mdiWrench"
+  },
+  {
+    "icon": "mdiWrenchOutline"
+  },
+  {
+    "icon": "mdiWunderlist"
+  },
+  {
+    "icon": "mdiXamarin"
+  },
+  {
+    "icon": "mdiXamarinOutline"
+  },
+  {
+    "icon": "mdiXaml"
+  },
+  {
+    "icon": "mdiXbox"
+  },
+  {
+    "icon": "mdiXboxController"
+  },
+  {
+    "icon": "mdiXboxControllerBatteryAlert"
+  },
+  {
+    "icon": "mdiXboxControllerBatteryCharging"
+  },
+  {
+    "icon": "mdiXboxControllerBatteryEmpty"
+  },
+  {
+    "icon": "mdiXboxControllerBatteryFull"
+  },
+  {
+    "icon": "mdiXboxControllerBatteryLow"
+  },
+  {
+    "icon": "mdiXboxControllerBatteryMedium"
+  },
+  {
+    "icon": "mdiXboxControllerBatteryUnknown"
+  },
+  {
+    "icon": "mdiXboxControllerMenu"
+  },
+  {
+    "icon": "mdiXboxControllerOff"
+  },
+  {
+    "icon": "mdiXboxControllerView"
+  },
+  {
+    "icon": "mdiXda"
+  },
+  {
+    "icon": "mdiXing"
+  },
+  {
+    "icon": "mdiXingBox"
+  },
+  {
+    "icon": "mdiXingCircle"
+  },
+  {
+    "icon": "mdiXml"
+  },
+  {
+    "icon": "mdiXmpp"
+  },
+  {
+    "icon": "mdiYahoo"
+  },
+  {
+    "icon": "mdiYammer"
+  },
+  {
+    "icon": "mdiYeast"
+  },
+  {
+    "icon": "mdiYelp"
+  },
+  {
+    "icon": "mdiYinYang"
+  },
+  {
+    "icon": "mdiYoutube"
+  },
+  {
+    "icon": "mdiYoutubeCreatorStudio"
+  },
+  {
+    "icon": "mdiYoutubeGaming"
+  },
+  {
+    "icon": "mdiYoutubeSubscription"
+  },
+  {
+    "icon": "mdiYoutubeTv"
+  },
+  {
+    "icon": "mdiZWave"
+  },
+  {
+    "icon": "mdiZend"
+  },
+  {
+    "icon": "mdiZigbee"
+  },
+  {
+    "icon": "mdiZipBox"
+  },
+  {
+    "icon": "mdiZipDisk"
+  },
+  {
+    "icon": "mdiZodiacAquarius"
+  },
+  {
+    "icon": "mdiZodiacAries"
+  },
+  {
+    "icon": "mdiZodiacCancer"
+  },
+  {
+    "icon": "mdiZodiacCapricorn"
+  },
+  {
+    "icon": "mdiZodiacGemini"
+  },
+  {
+    "icon": "mdiZodiacLeo"
+  },
+  {
+    "icon": "mdiZodiacLibra"
+  },
+  {
+    "icon": "mdiZodiacPisces"
+  },
+  {
+    "icon": "mdiZodiacSagittarius"
+  },
+  {
+    "icon": "mdiZodiacScorpio"
+  },
+  {
+    "icon": "mdiZodiacTaurus"
+  },
+  {
+    "icon": "mdiZodiacVirgo"
+  }
+]

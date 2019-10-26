@@ -1,0 +1,34 @@
+{
+  "name": "agenda",
+  "description": "Nuxt.js TypeScript project",
+  "version": "2.9.2",
+  "private": true,
+  "dependencies": {
+    "@mdi/font": "^4.4.95",
+    "@mdi/js": "^4.4.95",
+    "@nuxt/typescript-runtime": "0.1.6",
+    "@nuxtjs/axios": "5.6.0",
+    "cookieparser": "^0.1.0",
+    "humble-localstorage": "^2.0.0",
+    "js-cookie": "^2.2.1",
+    "nuxt": "2.9.2",
+    "nuxt-property-decorator": "2.4.0",
+    "vue-property-decorator": "^8.1.0",
+    "vuetify": "^2.0.18",
+    "vuex-class": "0.3.2"
+  },
+  "scripts": {
+    "dev": "nuxt-ts",
+    "build": "nuxt-ts build",
+    "start": "nuxt-ts start",
+    "generate": "nuxt-ts generate"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "0.2.9",
+    "@types/node": "10.14.16",
+    "@types/webpack-env": "1.14.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.3.1",
+    "vuex-module-decorators": "^0.10.1"
+  }
+}
