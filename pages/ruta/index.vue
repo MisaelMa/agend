@@ -41,7 +41,7 @@
                         <v-chip
                                 class="v-size--x-small"
                                 :color="item.isActive ? 'green':'red'"
-                                 outlined
+                                outlined
                                 :href="`#${item.url }`"
                                 style="height: 25px"
                         >
@@ -54,8 +54,8 @@
                         <v-divider></v-divider>
                     </template>
                     <template v-slot:append="{ item }">
-                        <v-icon  color="blue darken-4" @click="edit_ruta(item)">mdi-pencil-outline</v-icon>
-                        <v-icon  color="red">mdi-delete</v-icon>
+                        <v-icon color="blue darken-4" @click="edit_ruta(item)">mdi-pencil-outline</v-icon>
+                        <v-icon color="red">mdi-delete</v-icon>
                     </template>
                 </v-treeview>
             </v-card-text>
@@ -71,8 +71,8 @@
                 <v-divider></v-divider>
                 <v-card-text style="height: 350px;">
                     <v-form ref="routeform">
-                    <v-container>
-                        <v-row>
+                        <v-container>
+                            <v-row>
                                 <v-col cols="12" sm="8" md="8" class="pt-0 pb-0">
                                     <v-text-field :rules="rules"
                                                   v-model="formRoute.name"
@@ -145,8 +145,8 @@
                                         </template>
                                     </v-autocomplete>
                                 </v-col>
-                        </v-row>
-                    </v-container>
+                            </v-row>
+                        </v-container>
                     </v-form>
                 </v-card-text>
                 <v-divider></v-divider>
@@ -172,8 +172,8 @@
 <script lang="ts">
     import {Component, Vue} from "vue-property-decorator";
     import {servicesRutas} from "~/services/servicesRutas";
-    import Loading from "~/components/utils/loading.vue";
-    import {RoutePath} from "~/interfaces/components/routePath/RoutePath";
+    import Loading from "~/components/Card.vue";
+    import {RoutePath} from "~/interface/components/routePath/RoutePath";
     import {iconMdi} from "~/utils/iconsMdi";
     import {TreeFlat, sort} from "~/utils/tree";
     import {createTree} from "~/utils/tree/CreateTree";
@@ -247,7 +247,7 @@
             }
         }
 
-        public async addRoute(){
+        public async addRoute() {
             try {
                 delete this.formRoute.id;
                 const newroute = await servicesRutas.addRoute(this.formRoute);
@@ -257,7 +257,8 @@
                 ;
             }
         }
-        public async updateRoute(){
+
+        public async updateRoute() {
             try {
                 const updateRoute = await servicesRutas.updateRoute(this.formRoute);
                 console.log(updateRoute);
@@ -265,9 +266,10 @@
                 ;
             }
         }
+
         edit_ruta(item: RoutePath) {
             this.formRoute = item;
-           // this.formRoute.isActive = item.isActive === true ? 1 : 0;
+            // this.formRoute.isActive = item.isActive === true ? 1 : 0;
             this.formRoute.parent = {
                 id: item.fatherID,
             };
@@ -276,6 +278,7 @@
             delete this.formRoute.updatedAt;
             this.routedialog = true;
         }
+
         public setNullParent() {
             console.log("set null");
             this.formRoute.fatherID = null;
@@ -284,7 +287,7 @@
             };
         }
 
-        public close(){
+        public close() {
             this.routedialog = false;
             this.formRoute = {
                 id: null,

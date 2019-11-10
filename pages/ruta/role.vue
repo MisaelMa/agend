@@ -43,7 +43,7 @@
 <script lang="ts">
     import {Component, Prop, Vue} from "vue-property-decorator";
     import LaravelRol from '~/components/rol/LaravelRol.vue';
-    import NestRol from '~/components/rol/NestRol';
+    import NestRol from '~/components/rol/NestRol.vue';
 
     @Component({
         components:{

@@ -6,7 +6,9 @@
     "lib": [
       "esnext",
       "esnext.asynciterable",
-      "dom"
+      "dom",
+      "dom.iterable",
+      "scripthost"
     ],
     "esModuleInterop": true,
     "experimentalDecorators": true,
@@ -16,11 +18,27 @@
     "noEmit": true,
     "baseUrl": ".",
     "resolveJsonModule": true,
+    "jsx": "preserve",
+    "importHelpers": true,
     "paths": {
-      "~/*": ["./*"]
+      "~/*": [
+        "./*"
+      ],
+      "@/*": [
+        "./*"
+      ]
     },
     "types": [
+      "@types/node",
       "@nuxt/types"
     ]
-  }
+  },
+  "include": [
+    "/**/*.ts",
+    "/**/*.tsx",
+    "/**/*.vue"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
 }

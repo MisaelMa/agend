@@ -1,8 +1,8 @@
 <template xmlns:v-slot="http://www.w3.org/1999/XSL/Transform">
     <div>
 
-        <v-card     max-width="450"
-                    class="mx-auto"
+        <v-card max-width="450"
+                class="mx-auto"
         >
             <v-card-title>
                 Roles
@@ -41,13 +41,13 @@
                             {{item.isActive ? 'Activo' : 'Desactivado'}}
                         </td>
                         <td>
-                            <v-btn color="primary" icon @click="edit_rol(item)" >
+                            <v-btn color="primary" icon @click="edit_rol(item)">
                                 <v-icon>edit</v-icon>
                             </v-btn>
                             <v-btn color="red darken-1" icon>
                                 <v-icon>delete</v-icon>
                             </v-btn>
-                            <v-btn color="purple" icon @click="getPermisoFlat(item)" >
+                            <v-btn color="purple" icon @click="getPermisoFlat(item)">
                                 <v-icon>lock</v-icon>
                             </v-btn>
                         </td>
@@ -137,7 +137,7 @@
                                 </template>
                             </v-treeview>
                         </v-col>
-                        <v-col cols="12" sm="6" md="6" lg="6" xl="6" >
+                        <v-col cols="12" sm="6" md="6" lg="6" xl="6">
                             {{rolespermisos}}
                         </v-col>
                     </v-row>
@@ -157,10 +157,8 @@
     import {Component, Prop, Vue} from "vue-property-decorator";
     import {servicesRol} from '~/services/servicesRol';
     import {notificationService} from '~/services/notification.service';
-    import {Rols} from '~/interfaces/components/Rols/Rols';
-    import Roles from "~/views/rutas/Roles.vue";
-    import Rutas from "~/views/rutas/Rutas.vue";
-    import {RoutePath} from '~/interfaces/components/routePath/RoutePath';
+    import {Rols} from '~/interface/components/Rols/Rols';
+    import {RoutePath} from '~/interface/components/routePath/RoutePath';
     import {servicesRutas} from '~/services/servicesRutas';
     import {sort} from "~/utils/tree";
     import {permisos} from '~/services/permisos.services';
@@ -174,15 +172,17 @@
         public permisomodal: boolean = false;
         public loading: boolean = false;
         public rules: any = [
-            (v:any) => !!v || 'Nombre is requerido',
+            (v: any) => !!v || 'Nombre is requerido',
         ];
         public rolespermisos: any = [];
-        public searchrutas:string = '';
+        public searchrutas: string = '';
         public rutas: RoutePath[] = [];
-        public routeRoute:RoutePath[] = [];
+        public routeRoute: RoutePath[] = [];
+
         get filterrutas() {
             return (item: any, search: any, textKey: any) => item[textKey].indexOf(search) > -1;
         }
+
         public rol: Rols = {
             id: 0,
             name: '',
@@ -199,17 +199,19 @@
             {text: "Acciones", value: ""},
         ];
         public roles: Rols[] = [];
-        public async mounted(){
+
+        public async mounted() {
             try {
 
-            this.roles = await servicesRol.getRols();
-            let a = await permisos.getPermissionTree(1);
-            this.routeRoute = await createTree(a)
-            await this.get_rutas_all()
+                this.roles = await servicesRol.getRols();
+                let a = await permisos.getPermissionTree(1);
+                this.routeRoute = await createTree(a)
+                await this.get_rutas_all()
             } catch (e) {
                 console.log(e)
             }
         }
+
         async addUpdateRol() {
             const ref: any = this.$refs;
             if (ref.addRol.validate()) {
@@ -232,13 +234,13 @@
 
         }
 
-        edit_rol(item:Rols) {
+        edit_rol(item: Rols) {
             this.rol = item;
             this.rol.isActive = item.isActive ? 1 : 0;
             this.addRolModal = true;
         }
 
-        async getPermisoFlat(rol:any) {
+        async getPermisoFlat(rol: any) {
             this.rolespermisos = await permisos.getPermissionFlat(rol.id);
             this.rol = rol;
             this.permisomodal = true
@@ -251,10 +253,10 @@
                 this.loading = true;
                 this.rutas = await servicesRutas.getRoutes();
                 this.rutas = await sort({
-                        items: this.rutas,
-                        comparisonProperty: 'level',
-                        subArrayName: 'children'
-                    });
+                    items: this.rutas,
+                    comparisonProperty: 'level',
+                    subArrayName: 'children'
+                });
 
                 this.loading = false;
             } catch (e) {
@@ -263,18 +265,18 @@
 
         }
 
-        public async addDelPermission(data: any){
+        public async addDelPermission(data: any) {
             try {
 
                 let permiss = {
-                    roleId:this.rol.id,
-                    routeId:data
+                    roleId: this.rol.id,
+                    routeId: data
                 };
 
                 const con = await permisos.addPermissionRole(permiss);
                 notificationService.Success('Permiso agregado');
 
-            }catch (e) {
+            } catch (e) {
                 notificationService.Success(e.message)
             }
         }

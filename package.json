@@ -21,10 +21,12 @@
     "dev": "nuxt-ts",
     "build": "nuxt-ts build",
     "start": "nuxt-ts start",
+    "lint": "eslint --ext .ts,.js,.vue .",
     "generate": "nuxt-ts generate"
   },
   "devDependencies": {
-    "@nuxt/typescript-build": "0.2.9",
+    "@nuxt/typescript-build": "^0.2.9",
+    "@nuxtjs/eslint-config-typescript": "^0.1.3",
     "@types/node": "10.14.16",
     "@types/webpack-env": "1.14.0",
     "node-sass": "^4.12.0",
