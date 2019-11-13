@@ -4,13 +4,14 @@
             <v-layout flex align-center justify-center>
                 <v-flex xs12 sm6 md4 lg3 elevation-6>
 
-                    <v-card style="border-radius: 5px" >
+                    <v-card style="border-radius: 5px">
                         <v-card-text class="pt-4">
                             <div>
 
                                 <div class='layout column align-center'>
                                     <h1 class="flex my-4 primary--text">Genda Spa</h1>
-                                    <img src='https://pngimage.net/wp-content/uploads/2018/06/logo-agenda-png-4.png' alt='Vue Material Admin' width='120' height='120'>
+                                    <img src='https://pngimage.net/wp-content/uploads/2018/06/logo-agenda-png-4.png'
+                                         alt='Vue Material Admin' width='120' height='120'>
                                     <br>
                                 </div>
                                 <v-form v-model="valid" ref="form">
@@ -31,7 +32,7 @@
                                             counter
                                             required
                                     ></v-text-field>
-                                    <v-layout >
+                                    <v-layout>
                                         <v-btn @click="postLogin"
                                                block
                                                dark
@@ -65,16 +66,26 @@
 
 <script lang="ts">
     import {Component, Vue} from 'vue-property-decorator';
-   // import {authService} from "~/services/auth.service";
-   // import {api} from "~/services/Api";
-   // import {AuthInterface} from "~/interface/auth.interface";
+    // import {authService} from "~/services/auth.service";
+    // import {api} from "~/services/Api";
+    import { getModule } from 'vuex-module-decorators';
+    import MyStoreModule from '~/store/modules/MyStoreModule'
+
     const Cookie = process.client ? require('js-cookie') : undefined
 
     @Component({
         middleware: ['notAuthenticated']
     })
     export default class Login extends Vue {
-
+        layout() {
+            return 'login'
+        }
+        public created() {
+            const MyModuleInstance = getModule(MyStoreModule, this.$store);
+            // Do stuff with module
+            console.log(MyModuleInstance)
+            MyModuleInstance.setTest('random')
+        }
         public valid: any = false;
         public e1: any = false;
         public password: string = 'marin';
@@ -108,12 +119,13 @@
                 const auth = {
                     accessToken: 'air'
                 }
-                Cookie.set('auth', auth) // saving token in cookie for server rendering
-                this.$store.commit('setAuth', auth) // mutating to store for client rendering
-                this.$router.push('/')
+                //Cookie.set('auth', auth) // saving token in cookie for server rendering
+                //this.$store.commit('setAuth', auth) // mutating to store for client rendering
+                //this.$router.push('/')
             }, 1000)
         }
-        public mounted(){
+
+        public mounted() {
 
         }
 
@@ -126,21 +138,20 @@
     #app {
         background-image: url('https://cdn.shopify.com/s/files/1/1443/5020/products/20180618_infiniteagenda1393_2048x.jpg?v=1539923069');
         background-size: cover;
-        overflow:hidden;
+        overflow: hidden;
     }
+
     .loginOverlay {
-        background:rgba(33,150,243,0.3);
+        background: rgba(33, 150, 243, 0.3);
     }
-    .photoCredit{
+
+    .photoCredit {
         position: absolute;
         bottom: 15px;
         right: 15px;
     }
+
     .btn {
-        background: -webkit-linear-gradient(right, #00dbde, #fc00ff, #00dbde, #fc00ff);
-        background: -o-linear-gradient(right, #00dbde, #fc00ff, #00dbde, #fc00ff);
-        background: -moz-linear-gradient(right, #00dbde, #fc00ff, #00dbde, #fc00ff);
-        background: linear-gradient(right, #00dbde, #fc00ff, #00dbde, #fc00ff);
         top: 0;
         left: -100%;
         -webkit-transition: all 0.4s;

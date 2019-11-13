@@ -14,7 +14,7 @@
     "nuxt": "2.9.2",
     "nuxt-property-decorator": "2.4.0",
     "vue-property-decorator": "^8.1.0",
-    "vuetify": "^2.0.18",
+    "vuetify": "^2.1.9",
     "vuex-class": "0.3.2"
   },
   "scripts": {

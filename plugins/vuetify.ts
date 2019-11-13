@@ -8,7 +8,7 @@ Vue.use(Vuetify);
 export default (ctx: any) => {
     const vuetify = new Vuetify({
         theme: {
-            dark: false,
+            dark: true,
             themes: {
                 dark: {
                     primary: colors.deepPurple.lighten3,

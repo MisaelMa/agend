@@ -6,6 +6,19 @@
                 app
                 width="250"
         >
+            <v-app-bar
+                    absolute
+                    color="pink darken-4"
+                    dark
+                    height="54"
+                    elevate-on-scroll
+                    scroll-target="#scrolling-techniques-7"
+            >
+                <v-toolbar-title>AGENDA</v-toolbar-title>
+            </v-app-bar>
+            <br>
+            <br>
+            <v-divider></v-divider>
             <v-list dense shaped>
                 <span v-for="(item, i) in rutasuser" :key="i">
                 <v-list-group

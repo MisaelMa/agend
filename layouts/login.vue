@@ -1,7 +1,6 @@
 <template>
-    <v-app >
-        <CoreMenu></CoreMenu>
-        <v-content class="">
+    <v-app>
+        <v-content>
             <nuxt/>
         </v-content>
     </v-app>
@@ -16,7 +15,6 @@
             CoreMenu
         }
     })
-    export default class Default extends Vue {
-
+    export default class Login extends Vue {
     }
 </script>

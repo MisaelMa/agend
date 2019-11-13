@@ -172,7 +172,7 @@
 <script lang="ts">
     import {Component, Vue} from "vue-property-decorator";
     import {servicesRutas} from "~/services/servicesRutas";
-    import Loading from "~/components/Card.vue";
+    import Loading from "~/components/utils/loading.vue";
     import {RoutePath} from "~/interface/components/routePath/RoutePath";
     import {iconMdi} from "~/utils/iconsMdi";
     import {TreeFlat, sort} from "~/utils/tree";
