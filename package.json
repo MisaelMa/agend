@@ -11,7 +11,7 @@
     "cookieparser": "^0.1.0",
     "humble-localstorage": "^2.0.0",
     "js-cookie": "^2.2.1",
-    "nuxt": "2.9.2",
+    "nuxt": "2.15.8",
     "nuxt-property-decorator": "2.4.0",
     "vue-property-decorator": "^8.1.0",
     "vuetify": "^2.1.9",
